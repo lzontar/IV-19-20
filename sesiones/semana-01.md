@@ -1,7 +1,7 @@
 # Semana del 9 de septiembre
 
 Agradeceré que contestes la
-[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSf-Vga9rqveO0vybzZGgh4cY7qOYvjfvSbZYyH_H9w893AgXg/viewform). Se
+[encuesta inicial](). Se
 recuerda al estudiante que es su responsabilidad atender a clase o, si
 no es posible,
 enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros.
@@ -16,7 +16,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 3. Vernos las caras.
 4. Explicar el
    [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
-   de entrega: jueves 20 de septiembre, 9:30 de la mañana.
+   de entrega: jueves 19 de septiembre, 9:30 de la mañana.
 5. Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
