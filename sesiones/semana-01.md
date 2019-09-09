@@ -1,7 +1,7 @@
 # Semana del 9 de septiembre
 
 Agradeceré que contestes la
-[encuesta inicial](). Se
+[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSeIMvwkjuJIiFQ6BHQLm28acayJGdp1BHxoXxLxwRjxDt5GRQ/viewform). Se
 recuerda al estudiante que es su responsabilidad atender a clase o, si
 no es posible,
 enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros.
@@ -20,6 +20,10 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 5. Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
+6. Empezar a usar git y GitHub, por
+   ejemplo,
+   [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
+   cualquier otro tutorial online.
 
 ## Contenidos
 
