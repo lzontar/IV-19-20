@@ -70,19 +70,7 @@ SKIP: {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
-
-  if ( $this_hito > 0 ) { # Comprobar milestones y eso
-    doing("hito 1");
-    cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
-    
-    my @closed_issues =  closed_issues($user, $name);
-    cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
-    for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
-      
-      is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
-    }
-  }
+  doing("hito 1");
   my $README =  read_text( "$repo_dir/README.md");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
@@ -186,28 +174,6 @@ done_testing();
 sub doing {
   my $what = shift;
   diag "\n\t✔ Comprobando $what\n";
-}
-
-
-sub how_many_milestones {
-  my ($user,$repo) = @_;
-  my $page = get_github( "https://github.com/$user/$repo/milestones" );
-  my ($milestones ) = ( $page =~ /(\d+)\s+Open/);
-  return $milestones;
-}
-
-sub closed_issues {
-  my ($user,$repo) = @_;
-  my $page = get_github( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
-  return @closed_issues;
-
-}
-
-sub closes_from_commit {
-  my ($user,$repo,$issue) = @_;
-  my $page = get_github( "https://github.com/$user/$repo/issues/$issue" );
-  return $page =~ /closed\s+this\s+in/gs ;
 }
 
 sub check_ip {
