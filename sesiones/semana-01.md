@@ -10,7 +10,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 ## Objetivos a cubrir en la sesión
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
-2. Darse de alta y comprender el funcionamiento básico de GitHub y el
+2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
    grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
@@ -20,7 +20,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 5. Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
-6. Empezar a usar git y GitHub, por
+6. Empezar a usar git y GitHub. Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
@@ -62,10 +62,9 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   habrá que actualizar periódicamente) y *pull request* al mismo para
   "entrega" de objetivos y demás.
 * Debe queder muy claro que las tutorías no son para que el profesor
-  repita el material de clase, sobre todo porque el material de clase
+  repita el material de clase ni para *poner al día al estudiante*, cuya obligación es precisamente mantenerse al día de los contenidos impartidos en clase, sobre todo porque el material de clase
   está todo en la web y las explicaciones son sólo bajo demanda. Si un
-  estudiante falta a clase o se incorpora más tarde, tendrá que revisar él
-  solo el material y preguntar las dudas en clase o por alguno de los
+  estudiante falta a clase o se incorpora más tarde, tendrá que revisar individualmente el material y preguntar las dudas en clase o por alguno de los
   medios indicados anteriormente, incluyendo por supuesto tutorías.
 * Todos los estudiantes deberán solicitar una tutoría al profesor para
   aclarar cualquier aspecto de la asignatura que
