@@ -1,5 +1,6 @@
 # Objetivos a cubrir en la sesión
 
+## Semana del 9 de septiebre
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura. []
 2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
    grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma. []
