@@ -54,7 +54,7 @@ SKIP: {
 
   # Comprobar que los ha actualizado
   my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
-  nok( $objetivos_actualizados,
+  is( $objetivos_actualizados, "",
        "Fichero de objetivos $este_fichero está actualizado")
     or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
 
