@@ -37,7 +37,7 @@
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
-|POZO ESCALONA, DANIEL | | |
+|POZO ESCALONA, DANIEL | [Proyecto por determinar](https://github.com/danipozo/proyecto-IV) | v0.0.2 |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | | |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
