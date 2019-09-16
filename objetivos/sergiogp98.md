@@ -13,7 +13,7 @@
 - [ ] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura. 
-- [ ] Empezar a usar git y GitHub. Por
+- [x] Empezar a usar git y GitHub. Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online. 
