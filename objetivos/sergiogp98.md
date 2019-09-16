@@ -1,10 +1,10 @@
 # Objetivos a cubrir en la sesión
 
 ## Semana del 9 de septiembre
-- [ ] Entender la metodología docente, de evaluación y de interacción de la asignatura. []
+- [ ] Entender la metodología docente, de evaluación y de interacción de la asignatura. 
 - [ ] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
-   grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma. []
-- [ ] Entender el concepto de software libre y su aplicación práctica en esta asignatura. []
+   grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma. 
+- [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura. 
 - [x] Vernos las caras. 
 - [ ] Explicar el
    [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
