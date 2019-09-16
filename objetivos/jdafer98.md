@@ -10,6 +10,6 @@ Lista de objetivos de Javier de Ángeles Fernández
 3. [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 4. [x] Vernos las caras.
 5. [x] Explicar el hito 0. Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana.
-6. [] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
+6. [ ] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 7. [x] Empezar a usar git y GitHub. Por ejemplo, seguir este vídeo o cualquier otro tutorial online.
 
