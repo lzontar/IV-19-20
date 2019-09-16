@@ -1,6 +1,6 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-|ABAD TARIFA, DARIO | | |
+|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | **0.1** |
 |ALONSO RAMOS, JOSE JAVIER | | |
 |ALVAREZ GARROTE, LUIS | | |
 |ARENAS MARTINEZ, MARTA | | |
@@ -8,7 +8,7 @@
 |BUENO LOPEZ, JAVIER | | |
 |CEREZO SANCHEZ, PABLO | | |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
-|DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1 |
+|DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
@@ -36,7 +36,7 @@
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | **0.2** |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
-|PINEDA MOCHON, IGNACIO | | |
+|PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | | |
