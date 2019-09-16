@@ -17,10 +17,10 @@
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online. 
-   de entrega: jueves 19 de septiembre, 9:30 de la mañana. []
+   de entrega: jueves 19 de septiembre, 9:30 de la mañana. 
 - [ ] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
-   infraestructura. []
+   infraestructura. 
 - [ ] Empezar a usar git y GitHub. Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
