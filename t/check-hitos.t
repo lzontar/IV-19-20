@@ -53,8 +53,10 @@ SKIP: {
   isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
-  ok( objetivos_actualizados( $repo, $este_fichero ),
-      "Fichero de objetivos $este_fichero está actualizado") or skip "Los objetivos no están actualizados";
+  my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
+  nok( $objetivos_actualizados,
+       "Fichero de objetivos $este_fichero está actualizado")
+    or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
 
   # Se crea el repo y se hacen cosas.
   my $repo_dir = "/tmp/$user-$name";
@@ -222,11 +224,11 @@ sub objetivos_actualizados {
   my $date = $repo->command('log', '-1', '--date=relative', '--', "$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
   if ( $unidad =~ /(semana|week|minut)/ ) {
-    return 0;
+    return "";
   } elsif ( $unidad =~ /ho/ ) {
-    return ($hace > 1 )?1:0;
+    return ($hace > 1 )?"":"demasiado poco";
   } elsif ( $unidad =~ /d\w+/ ){
-    return ($hace < 7)?1:0;
+    return ($hace < 7)?"":"demasiado";
   }
 
 }
