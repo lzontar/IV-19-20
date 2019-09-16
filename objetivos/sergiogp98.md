@@ -11,7 +11,7 @@
    de entrega: jueves 19 de septiembre, 9:30 de la mañana. 
 - [x] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
-   infraestructura. [ver página web](https://proyectosagiles.org/que-es-scrum/)
+   infraestructura. [Ver página web](https://proyectosagiles.org/que-es-scrum/)
 - [x] Empezar a usar git y GitHub. Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
