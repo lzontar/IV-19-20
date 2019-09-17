@@ -45,7 +45,7 @@
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
-|RUANO NARVAEZ, RAUL | | |
+|RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.1 |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | [ProtectoIV](https://github.com/raulsf6/IV-19-20.git) | **1.0** |
 |TOLAN , FIRAT | | |
