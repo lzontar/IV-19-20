@@ -9,3 +9,4 @@
 - [x] Explicar el [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana.
 - [x] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura. [Lectura en esta página](https://en.wikipedia.org/wiki/Agile_software_development).
 - [x] Empezar a usar git y GitHub. Por ejemplo, [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o cualquier otro tutorial online.
+- [x] Cambio de grupo de Telegram
