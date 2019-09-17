@@ -9,4 +9,5 @@
 - [X] Explicar el hito 0. Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana.
 - [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 - [X] Empezar a usar git y GitHub.
+- [X] Cambio de grupo en Telegram.
 
