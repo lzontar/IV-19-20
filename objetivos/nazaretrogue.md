@@ -17,3 +17,4 @@
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
+8. [x] Cambio de grupo de Telegram.
