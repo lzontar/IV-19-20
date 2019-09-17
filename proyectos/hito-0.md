@@ -20,7 +20,11 @@
 |GARZON SEGURA, IVAN | | |
 |GONZALEZ GARCIA, FRANCISCO JOSE | | |
 |GUTIERREZ SEGOVIA, JORGE | | |
+<<<<<<< HEAD
 |HEREDIA CASTILLO, ANTONIO JESÚS | [WallysFinder](https://github.com/antoni-heredia/WallysFinder) | 0.2 |
+=======
+|HEREDIA CASTILLO, ANTONIO JESÚS | [WallysFinder](https://github.com/antoni-heredia/WallysFinder) | 0.1 |
+>>>>>>> añadido mi hito
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
