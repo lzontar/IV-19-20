@@ -19,7 +19,7 @@
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | |
 |GARZON SEGURA, IVAN | | |
 |GONZALEZ GARCIA, FRANCISCO JOSE | | |
-|GUTIERREZ SEGOVIA, JORGE | [MiAgendaPersonal](https://github.com/Saytes/Proyecto-IV) | 0.1 |
+|GUTIERREZ SEGOVIA, JORGE | | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
