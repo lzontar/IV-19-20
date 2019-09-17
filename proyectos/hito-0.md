@@ -1,7 +1,7 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | **0.1** |
-|ALONSO RAMOS, JOSE JAVIER | | |
+|ALONSO RAMOS, JOSE JAVIER | [IV-Project:Lights](https://github.com/JJavier98/IV-Project) | 0.0.1 |
 |ALVAREZ GARROTE, LUIS | | |
 |ARENAS MARTINEZ, MARTA | | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
@@ -18,7 +18,7 @@
 |GARCIA PRADOS, SERGIO | | |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | |
 |GARZON SEGURA, IVAN | | |
-|GONZALEZ GARCIA, FRANCISCO JOSE | | |
+|GONZALEZ GARCIA, FRANCISCO JOSE | [printCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | 0.1 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
