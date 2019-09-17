@@ -18,7 +18,7 @@ Recuerda que tienes que mantener tu copia actualizada con el
 repositorio original. Para ello, define un repositorio *upstream* de
 esta forma
 
-	git remote add upstream https://github.com/JJ/IV-18-19.git
+	git remote add upstream https://github.com/JJ/IV-19-20.git
 
 (Si no es el curso 18-19, sustituir arriba por el año que quieras).
 
