@@ -19,9 +19,11 @@ use Term::ANSIColor qw(:constants);
 
 use v5.14; # For say
 
+# Allowed extensions for outline documents
+my $extensions = "(md|org)";
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
-my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
+my $diff_regex = qr/a\/proyectos\/hito-(\d)\.$extensions/;
 my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
 my $github;
 
@@ -29,7 +31,7 @@ SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
   skip "No hay envío de proyecto" unless defined $this_hito;
   my @files = split(/diff --git/,$diff);
-        
+
   my ($diff_hito) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito";
   my @lines = split("\n",$diff_hito);
@@ -48,7 +50,7 @@ SKIP: {
 
   # Comprobación de envío de objetivos cuando hay nombre de usuario
   my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my @ficheros_objetivos = glob "$prefix/objetivos/*.md";
+  my @ficheros_objetivos = glob "$prefix/objetivos/*.$extensions";
   my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
   isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
@@ -68,12 +70,14 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md \.gitignore LICENSE )) { # Tests 5-7
+  for my $f (qw( README.$extensions \.gitignore LICENSE )) { # Tests 5-7
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
   doing("hito 1");
-  my $README =  read_text( "$repo_dir/README.md");
+  # Get the extension used for the README
+  my ($readme_ext) = @repo_files =~ /README(\.[^.]+)$/;
+  my $README =  read_text( "$repo_dir/README.$readme_ext");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
   my $with_pip = grep(/req\w+\.txt/, @repo_files);
@@ -123,12 +127,12 @@ SKIP: {
       diag "✗ Problemas detectando URL de despliegue de Docker";
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
-      
+
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
     ok($dockerhub_url, "Detectado URL de DockerHub");
-    
+
     if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
     SKIP: {
 	skip "Ya en el hito siguiente", 4 unless $this_hito == 4;

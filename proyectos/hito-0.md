@@ -5,7 +5,7 @@
 |ALVAREZ GARROTE, LUIS | | |
 |ARENAS MARTINEZ, MARTA | | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | | |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
 |CEREZO SANCHEZ, PABLO | | |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
@@ -25,19 +25,19 @@
 |LOPEZ RUIZ, EVA | | |
 |LUACES LUACES, CARLOS | | |
 |LUQUE CALLEJAS, DAVID | | |
-|MALDONADO MANCILLA, PATRICIA | | |
+|MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
-|MOLNER DOMENECH, ANTONIO | | |
-|MORENO JIMENEZ, VICTOR | | |
+|MOLNER DOMENECH, ANTONIO | [Point Cloud Generator](https://github.com/antoniomdk/pointcloud-generator) | 0.1 |
+|MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | **0.2** |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
-|POZO ESCALONA, DANIEL | | |
+|POZO ESCALONA, DANIEL | [Proyecto por determinar](https://github.com/danipozo/proyecto-IV) | v0.0.2 |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | | |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
@@ -46,7 +46,7 @@
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | | |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL | [ProtectoIV](https://github.com/raulsf6/IV-19-20.git) | **1.0** |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | | |
