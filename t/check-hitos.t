@@ -23,13 +23,17 @@ use v5.14; # For say
 my $extensions = "(md|org)";
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
-my $diff_regex = qr/a\/proyectos\/hito-(\d)\.$extensions/;
+my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
 my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
 my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  skip "No hay envío de proyecto" unless defined $this_hito;
+  unless ( defined $this_hito ) {
+    my ($fichero_objetivos) =~ /a\/objetivos\/(\S+)\.$extensions/;
+    ok( $fichero_objetivos, "El envío es del fichero de objetivos y tiene la extensión correcta" );
+    skip "No hay envío de proyecto";
+  }
   my @files = split(/diff --git/,$diff);
 
   my ($diff_hito) = grep( /$diff_regex/, @files);
