@@ -56,7 +56,7 @@ SKIP: {
   my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
   my @ficheros_objetivos = glob "$prefix/objetivos/*.*";
   my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
-  isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
+  ok( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
   my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
