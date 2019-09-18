@@ -1,0 +1,15 @@
+* Iris Garcia's Goals per session
+- [[#session-1][Session 01]]
+
+* Session 01
+- [X] Gather all the given resources for the subject and bookmark them.
+- [X] Assist to an individual appointment with [[https://github.com/JJ][JJ]].
+- [X] Send email with my Telegram's username.
+- [X] Do the [[https://docs.google.com/forms/d/e/1FAIpQLSeIMvwkjuJIiFQ6BHQLm28acayJGdp1BHxoXxLxwRjxDt5GRQ/viewform][initial poll]].
+- [X] Read and understand the content of the [[http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico][chapter 1]].
+- [X] Configure Emacs' git package to use the right email when pushing.
+- [X] Request a change in the tests to allow ~.org~ files instead of
+  just ~.md.~
+- [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/0.Repositorio][milestone 0]].
+- [X] Understand the importance of the Open Source.
+- [X] Join the new [[https://t.me/joinchat/AOR8MhHP5uoG4d1WZUTbag][Telegram group]].
