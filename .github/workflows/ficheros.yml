@@ -1,0 +1,12 @@
+name: "Comprobaciones básicas"
+on: [pull_request]
+
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Comprobaciones IV
+      uses: JJ/github-pr-cont<ains-action@releases/v1
+      with:
+        github-token: ${{github.token}}
+        filesChanged: 1
