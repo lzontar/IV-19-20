@@ -22,6 +22,7 @@ use v5.14; # For say
 # Allowed extensions for outline documents
 my $extensions = "(md|org)";
 my $repo = Git->repository ( Directory => '.' );
+my $mi_repo = $repo->command('remote', 'show', 'origin') =~ /Fetch.+JJ/;
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
 my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
@@ -60,10 +61,15 @@ SKIP: {
     or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
 
   # Se crea el repo y se hacen cosas.
-  my $repo_dir = "/tmp/$user-$name";
-  if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
-    mkdir($repo_dir);
-    `git clone $url_repo $repo_dir`;
+  my $repo_dir;
+  if ($mi_repo) {
+    $repo_dir = "/tmp/$user-$name";
+    if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
+      mkdir($repo_dir);
+      `git clone $url_repo $repo_dir`;
+    }
+  } else {
+    $repo_dir = ".";
   }
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");

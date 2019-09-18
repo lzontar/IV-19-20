@@ -33,7 +33,7 @@
 |MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
-|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | **0.2** |
+|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | 0.1 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
