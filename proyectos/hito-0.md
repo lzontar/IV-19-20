@@ -22,7 +22,7 @@
 |GUTIERREZ SEGOVIA, JORGE | | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
-|LOPEZ RUIZ, EVA | | |
+|LOPEZ RUIZ, EVA | [infraestructuraVirtual](https://github.com/Lopuiz/infraestructuraVirtual) | 0.1 |
 |LUACES LUACES, CARLOS | | |
 |LUQUE CALLEJAS, DAVID | | |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
