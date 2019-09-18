@@ -41,12 +41,7 @@ SKIP: {
   my @lines = split("\n",$diff_hito);
   my @adds = grep(/^\+[^+]/,@lines);
   is( $#adds, 0, "Añade sólo una línea"); # Test 1
-  my $url_repo;
-  if ( $adds[0] =~ /\(http/ ) {
-    ($url_repo) = ($adds[0] =~ /\((http\S+)\)/);
-  } else {
-    ($url_repo) = ($adds[0] =~ /^\+.+(http\S+)/s);
-  }
+  my ($url_repo) = ($adds[0] =~ /(https?:\S+)\b/);
   say $url_repo;
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
