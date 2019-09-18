@@ -38,6 +38,7 @@
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | 0.1 |
 |PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 0.1 |
+|PEREZ TERRON, JESUS MANUEL | | |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
 |POZO ESCALONA, DANIEL | [Proyecto por determinar](https://github.com/danipozo/proyecto-IV) | v0.0.2 |
 |REBOLLO PEREZ, VICTOR | | |
