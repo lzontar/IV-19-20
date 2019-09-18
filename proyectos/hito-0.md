@@ -51,4 +51,4 @@
 |SANCHEZ FERNANDEZ, RAUL | [ProtectoIV](https://github.com/raulsf6/IV-19-20.git) | **1.0** |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | [NutriK](https://github.com/LeandroVP/NutriK)| 0.2 |
-|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.1 |
+|ZONTAR , LUKA | | |
