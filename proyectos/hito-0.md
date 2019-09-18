@@ -5,9 +5,8 @@
 |ALVAREZ GARROTE, LUIS | | |
 |ARENAS MARTINEZ, MARTA | | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | | |
-|CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0 |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
+|CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
