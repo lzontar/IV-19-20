@@ -1,6 +1,6 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | **0.1** |
+|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 0.1 |
 |ALONSO RAMOS, JOSE JAVIER | [IV-Project:Lights](https://github.com/JJavier98/IV-Project) | 0.0.1 |
 |ALVAREZ GARROTE, LUIS | | |
 |ARENAS MARTINEZ, MARTA | | |
