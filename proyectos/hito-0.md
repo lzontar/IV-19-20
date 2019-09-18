@@ -42,7 +42,7 @@
 |RODRIGUEZ HODAR, ANGEL | | |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
-|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **1.0** |
+|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **1.1** |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | | |
 |SAEZ DE LA COBA, JAVIER | | |
