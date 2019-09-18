@@ -30,7 +30,7 @@ my $github;
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
   unless ( defined $this_hito ) {
-    my ($fichero_objetivos) = ( $diff =~ /a\/objetivos\/(\S+)\.$extensions/ );
+    my ($fichero_objetivos) = ( $diff =~ /[ab]\/objetivos\/(\S+)\.$extensions/ );
     ok( $fichero_objetivos, "El envío es del fichero de objetivos y tiene la extensión correcta" );
     skip "No hay envío de proyecto";
   }
