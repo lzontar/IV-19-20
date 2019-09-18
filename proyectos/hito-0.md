@@ -25,7 +25,7 @@
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | [infraestructuraVirtual](https://github.com/Lopuiz/infraestructuraVirtual) | 0.1 |
 |LUACES LUACES, CARLOS | | |
-|LUQUE CALLEJAS, DAVID | | |
+|LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| **1.1** |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
