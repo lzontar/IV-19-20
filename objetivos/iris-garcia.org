@@ -12,3 +12,4 @@
   just ~.md.~
 - [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/0.Repositorio][milestone 0]].
 - [X] Understand the importance of the Open Source.
+- [X] Join the new [[https://t.me/joinchat/AOR8MhHP5uoG4d1WZUTbag][Telegram group]].
