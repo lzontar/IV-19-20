@@ -9,11 +9,11 @@
 |CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0.1 |
 |COTAN LOPEZ, FRANCISCO JOSE | [GraphQL + React](https://github.com/iscoct/proyectoInfraestructuraVirtual) | 0.0.1 |
 |DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
-|DE LA TORRE VILLAVERDE, CRISTINA | | |
+|DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v0.0.1 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | | |
-|GAMEZ LOPEZ, ADRIAN GABRIEL | | |
+|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | 0.1 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | [LibraryManagement](https://github.com/sergiogp98/LibraryManagement) | 0.1 |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.1.0 |
@@ -45,7 +45,7 @@
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV-WebService) | 1.0 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
-|RODRIGUEZ PEREZ, JESUS | | |
+|RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.1 |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.1 |
