@@ -15,10 +15,19 @@ Recordatorio:  [seminario de la asignatura sobre microservicios basados en event
 
 ## Otros objetivos
 
-* Entender qué son los objetivos y cómo hacerlos correctamente.
-
 * Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
   * El proyecto es personal y sólo tiene que ajustarse a la asignatura.
+  * Entender el concepto de *aprendizaje autónomo* aka "No sé qué hacer". 
+  * Entender qué es lo que se debe aprender en una asignatura de informática y su independencia de lo que diga el profesor.
+  * Problemas frecuentemente planteados.
+	* Hay que entender git y GitHub. 
+		* Rebases y otras cosas que es posible que sean más importantes que los diagramas UML. 
+	* "Tengo un error"
+	* "Tengo *este* error"
+  * Los objetivos tienen que cumplirse, no marcarse.
+
+* Entender qué son los objetivos y cómo hacerlos correctamente.
+
 
 * Entender lo que se pide en el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
