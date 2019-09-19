@@ -24,6 +24,7 @@ Recordatorio:  [seminario de la asignatura sobre microservicios basados en event
 		* Rebases y otras cosas que es posible que sean más importantes que los diagramas UML. 
 	* "Tengo un error"
 	* "Tengo *este* error"
+	* Todo lo anterior, en un mensaje privado a alguno de los profesores.
   * Los objetivos tienen que cumplirse, no marcarse.
 
 * Entender qué son los objetivos y cómo hacerlos correctamente.
