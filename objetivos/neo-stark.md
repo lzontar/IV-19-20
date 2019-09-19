@@ -1,4 +1,5 @@
-## Semana 1
+# Listado objetivos Francisco José González 
+## Semana 1 - 16/09
 1. [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
    grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.

@@ -9,6 +9,11 @@ Entrega de fichero de objetivos
 *Borrar lo que no corresponda*
 ** Y estas notas también **
 
+## Primero y mas importante
+
+* [ ] Prometo no cerrar ningún PR pase lo que pase.
+* [ ] Ni abrir más de un PR simultáneamente.
+
 ## Lista de comprobación para hitos (*borrar si no es un hito*)
 
 * [ ] He leído el guión del hito

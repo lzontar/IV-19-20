@@ -19,7 +19,10 @@ use Term::ANSIColor qw(:constants);
 
 use v5.14; # For say
 
+# Allowed extensions for outline documents
+my $extensions = "(md|org)";
 my $repo = Git->repository ( Directory => '.' );
+my $mi_repo = $repo->command('remote', 'show', 'origin') =~ /Fetch.+JJ/;
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
 my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
@@ -27,20 +30,19 @@ my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  skip "No hay envío de proyecto" unless defined $this_hito;
+  unless ( defined $this_hito ) {
+    my ($fichero_objetivos) = ( $diff =~ /[ab]\/objetivos\/(\S+)\.$extensions/ );
+    ok( $fichero_objetivos, "El envío es del fichero de objetivos y tiene la extensión correcta" );
+    skip "No hay envío de proyecto";
+  }
   my @files = split(/diff --git/,$diff);
-        
+
   my ($diff_hito) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito";
   my @lines = split("\n",$diff_hito);
   my @adds = grep(/^\+[^+]/,@lines);
   is( $#adds, 0, "Añade sólo una línea"); # Test 1
-  my $url_repo;
-  if ( $adds[0] =~ /\(http/ ) {
-    ($url_repo) = ($adds[0] =~ /\((http\S+)\)/);
-  } else {
-    ($url_repo) = ($adds[0] =~ /^\+.+(http\S+)/s);
-  }
+  my ($url_repo) = ($adds[0] =~ /(https?:\S+)\b/);
   say $url_repo;
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
@@ -48,30 +50,39 @@ SKIP: {
 
   # Comprobación de envío de objetivos cuando hay nombre de usuario
   my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my @ficheros_objetivos = glob "$prefix/objetivos/*.md";
+  my @ficheros_objetivos = glob "$prefix/objetivos/*.*";
   my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
-  isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
+  ok( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
-  ok( objetivos_actualizados( $repo, $este_fichero ),
-      "Fichero de objetivos $este_fichero está actualizado") or skip "Los objetivos no están actualizados";
+  my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
+  is( $objetivos_actualizados, "",
+       "Fichero de objetivos $este_fichero está actualizado")
+    or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
 
   # Se crea el repo y se hacen cosas.
-  my $repo_dir = "/tmp/$user-$name";
-  if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
-    mkdir($repo_dir);
-    `git clone $url_repo $repo_dir`;
+  my $repo_dir;
+  if ($mi_repo) {
+    $repo_dir = "/tmp/$user-$name";
+    if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
+      mkdir($repo_dir);
+      `git clone $url_repo $repo_dir`;
+    }
+  } else {
+    $repo_dir = ".";
   }
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md \.gitignore LICENSE )) { # Tests 5-7
+  for my $f (qw( README\.(org|md|rst) \.gitignore LICENSE )) { # Tests 5-7
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
   doing("hito 1");
-  my $README =  read_text( "$repo_dir/README.md");
+  # Get the extension used for the README
+  my ($readme_file) = grep( /README/, @repo_files );
+  my $README =  read_text( "$repo_dir/$readme_file");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
   my $with_pip = grep(/req\w+\.txt/, @repo_files);
@@ -121,12 +132,12 @@ SKIP: {
       diag "✗ Problemas detectando URL de despliegue de Docker";
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
-      
+
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
     ok($dockerhub_url, "Detectado URL de DockerHub");
-    
+
     if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
     SKIP: {
 	skip "Ya en el hito siguiente", 4 unless $this_hito == 4;
@@ -222,11 +233,11 @@ sub objetivos_actualizados {
   my $date = $repo->command('log', '-1', '--date=relative', '--', "$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
   if ( $unidad =~ /(semana|week|minut)/ ) {
-    return 0;
+    return "";
   } elsif ( $unidad =~ /ho/ ) {
-    return ($hace > 1 )?1:0;
+    return ($hace > 1 )?"":"demasiado poco";
   } elsif ( $unidad =~ /d\w+/ ){
-    return ($hace < 7)?1:0;
+    return ($hace < 7)?"":"demasiado";
   }
 
 }
