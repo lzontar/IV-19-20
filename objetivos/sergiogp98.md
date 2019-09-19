@@ -18,7 +18,7 @@
    cualquier otro tutorial online. 
 
 ## Semana del 16 de septiembre
-- [ ] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+- [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [ ] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
 recurso.
