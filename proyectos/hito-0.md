@@ -8,7 +8,7 @@
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
 |CEREZO SANCHEZ, PABLO | https://github.com/pcerezo/Proyecto-IV-19-20 | 1.0.1 |
 |COTAN LOPEZ, FRANCISCO JOSE | [GraphQL & React](https://github.com/iscoct/proyectoInfraestructuraVirtual) | 0.0.1 |
-|DE ANGELES FERNANDEZ, JAVIER | [PopCornProject](https://github.com/jdafer98/PopcornProject) | v0.1.1 |
+|DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v0.1.2 |
 |DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v0.0.1 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
