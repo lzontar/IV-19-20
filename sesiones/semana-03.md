@@ -28,6 +28,7 @@ Recordatorio:  [seminario de la asignatura sobre microservicios basados en event
   * Los objetivos tienen que cumplirse, no marcarse.
   * "Voy a hacer un API"
   * "Voy a hacer un microservicio que hace 40 cosas".
+  * "Voy a hacer (cosas que|que|sistema que) haga x".
 
 * Entender qué son los objetivos y cómo hacerlos correctamente.
 
