@@ -41,7 +41,7 @@ Proveedor de servicios en la nube: [Azure](https://azure.microsoft.com/es-es/pri
 ### En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 
 - Modelo de procesador: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
-- ¿Qué aparece como salida de esa orden?: [Resultado salida de la orden`egrep '^flags.*(vmx|svm)' /proc/cpuinfo`](https://github.com/miguelangelrdguez/IV-19-20/ejercicios/archivos_tema_1/flags.txt)
+- ¿Qué aparece como salida de esa orden?: [Resultado salida de la orden`egrep '^flags.*(vmx|svm)' /proc/cpuinfo`](https://github.com/miguelangelrdguez/IV-19-20/blob/master/ejercicios/archivos_tema_1/flags.txt)
 - Si usas una máquina virtual ¿qué resultado da?: No devuelve nada
 - ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?: Sucede lo mismo que con la máquina virtual
 
