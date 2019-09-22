@@ -19,14 +19,20 @@
    
 ## Semana del 16 de septiembre
 
-- [ ] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+- [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [ ] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
 recurso.
-- [ ] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
-- [ ] Comprender los niveles de virtualización y sus denominaciones genéricas.
+- [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende
+ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+[Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-3) se
+puede ver la consulta de si la CPU de mi ordenador dispone de virtualización y está activada.
+[Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-4) se puede ver
+si mi ordenador tiene el KVM activado.
+
+- [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [ ] Comprender el concepto de *X as a service* y comprender los
    criterios necesarios para su elección.
-- [ ] Entender qué implica diseñar un proyecto que se irá elaborando
+- [x] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
 - [x] Cambiar de grupo de Telegram.
