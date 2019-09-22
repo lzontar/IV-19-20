@@ -19,3 +19,4 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [x] [Ejercicios tema 1](https://github.com/miguelangelrdguez/ejercicios_iv/blob/master/tema_1/ejercicios_tema_1.md)
