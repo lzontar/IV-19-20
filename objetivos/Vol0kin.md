@@ -30,7 +30,7 @@ puede ver la consulta de si la CPU de mi ordenador dispone de virtualización y 
 [Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-4) se puede ver
 si mi ordenador tiene el KVM activado.
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
-- [ ] Comprender el concepto de *X as a service* y comprender los
+- [x] Comprender el concepto de *X as a service* y comprender los
    criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
