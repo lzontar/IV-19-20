@@ -20,9 +20,10 @@
 ## Semana del 16 de septiembre
 
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
-- [ ] Comprender las técnicas de cálculo del coste de amortización de un
+- [x] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
-recurso.
+recurso. [Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-1)
+se puede ver un ejemplo de cálculo de amortización.
 - [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende
 ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
 [Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-3) se
