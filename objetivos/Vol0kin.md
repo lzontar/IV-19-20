@@ -29,7 +29,6 @@ ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitua
 puede ver la consulta de si la CPU de mi ordenador dispone de virtualización y está activada.
 [Aquí](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md#ejercicio-4) se puede ver
 si mi ordenador tiene el KVM activado.
-
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [ ] Comprender el concepto de *X as a service* y comprender los
    criterios necesarios para su elección.
