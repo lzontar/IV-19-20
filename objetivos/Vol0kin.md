@@ -36,3 +36,5 @@ si mi ordenador tiene el KVM activado.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
 - [x] Cambiar de grupo de Telegram.
+- [x] Ejercicios autoevaluación del
+[Tema 1](https://github.com/Vol0kin/Ejercicios-IV/blob/master/tema1.md).
