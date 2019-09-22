@@ -16,3 +16,17 @@
 - [x] Empezar a usar git y GitHub. Por ejemplo,
   [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
+
+## Semana del 16 de septiembre
+
+- [ ] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+- [ ] Comprender las técnicas de cálculo del coste de amortización de un
+equipo informático y aplicarlo al cálculo del coste de uso de un
+recurso.
+- [ ] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+- [ ] Comprender los niveles de virtualización y sus denominaciones genéricas.
+- [ ] Comprender el concepto de *X as a service* y comprender los
+  criterios necesarios para su elección.
+- [ ] Entender qué implica diseñar un proyecto que se irá elaborando
+  durante la asignatura.
+- [x] Cambiar de grupo de Telegram.
