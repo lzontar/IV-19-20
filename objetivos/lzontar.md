@@ -1,6 +1,6 @@
 # Fichero de objetivos - Luka Zontar
 
-## Semana 1
+## Semana 1 (Septiembre 16)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
@@ -15,7 +15,7 @@
    infraestructura.
 - [x] Empezar a usar git y GitHub
 
-## Semana 2
+## Semana 2 (Septiembre 23)
 
 - [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [X] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
