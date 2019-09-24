@@ -26,5 +26,12 @@ Lista de objetivos de Javier de Ángeles Fernández
 
 Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 y 3 en el [siguiente enlace](https://github.com/jdafer98/meta/blob/master/auto_tema_1)
 
+## Objetivos Tercera Semana:
+
+1. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+2. [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+3. [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+
 
 
