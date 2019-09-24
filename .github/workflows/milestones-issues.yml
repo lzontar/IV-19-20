@@ -3,18 +3,18 @@ on:
   pull_request:
     paths:
       - 'proyectos/hito*.md'
-      - '!proyectos/hito-1.md'
+      - '!proyectos/hito-0.md'
 
 jobs:
   obtain-repo:
     runs-on: ubuntu-latest
     steps:
-      - name: getDiff
+      - name: Extrae URL del repositorio
         uses: JJ/github-pr-contains-action@releases/v1
         with:
           github-token: ${{github.token}}
           filesChanged: 1
-      - name: obtain-repo
+      - name: Comprueba hitos e issues
         uses: JJ/repo-in-diff-gh-action@releases/v0
         with:
           github-token: ${{github.token}}
