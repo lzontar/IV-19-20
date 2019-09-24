@@ -2,8 +2,8 @@ name: "Comprueba hitos y milestones"
 on:
   pull_request:
     paths:
-      - '/proyectos/hito-*.md'
-      - '!/proyectos/hito-0.md'
+      - 'proyectos/hito-*.md'
+      - '!proyectos/hito-0.md'
 
 jobs:
   obtain-repo:
