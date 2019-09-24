@@ -28,3 +28,8 @@ recurso.
    criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
+
+## Semana del 23 de septiembre
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [ ] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
