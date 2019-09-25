@@ -2,7 +2,7 @@
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 0.1 |
 |ALONSO RAMOS, JOSE JAVIER | [IV-Project:Lights](https://github.com/JJavier98/IV-Project) | 0.0.1 |
-|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.0-dev |
+|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1-dev, **Reenvío** |
 |ARENAS MARTINEZ, MARTA | [ProyectoIV](https://github.com/MartaArM/proyectoIV1920) | 1.0 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.1 |
@@ -13,7 +13,7 @@
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | [Proyecto-IV](https://github.com/OMGitsXupi/Proyecto-Infraestructura-Virtual) | 0.0.1 |
-|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | 0.1 |
+|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v0.1 <em>Reenvio 1</em> |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.1.0 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | [LibraryManagement](https://github.com/sergiogp98/LibraryManagement) | 0.1 |
@@ -27,7 +27,7 @@
 |LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| 1.1 |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
-|MARTINEZ MARTIN, MIGUEL JOSE | | |
+|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v0.1| 
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.1 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1 |
 |MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
@@ -36,11 +36,11 @@
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2 |
 |PARRILLA NAVARRO, PEDRO MIGUEL |[GHome-Bot](https://github.com/SupeerP/GHome-Bot) |0.1 |
-|PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | 0.1 |
+|PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | **0.2** |
 |PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 0.1 |
 |PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.0 |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
-|POZO ESCALONA, DANIEL | [Proyecto por determinar](https://github.com/danipozo/proyecto-IV) | v0.0.2 |
+|POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | v1.0.0, **Reenvío** |
 |REBOLLO PEREZ, VICTOR | [ProyectoIV](https://github.com/Rebits/ProyectoIV) | v0.0.1 |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV-WebService) | 1.0 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
@@ -52,4 +52,4 @@
 |SANCHEZ FERNANDEZ, RAUL | [ProtectoIV](https://github.com/raulsf6/Proyecto-IV.git) | 1.0 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | [NutriK](https://github.com/LeandroVP/NutriK)| 0.2 |
-|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.1 |
+|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | **0.2** |
