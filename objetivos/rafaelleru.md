@@ -19,7 +19,6 @@
 - [x] [Proyecto](https://github.com/rafaelleru/iv)
 - [] [Ejercicios]()
 
-
 ## Semana 2
 
 - [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
