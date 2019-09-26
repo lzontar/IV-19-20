@@ -21,7 +21,7 @@
 5. [X] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 6. [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV1920/blob/master/Tema1_introduccion.md)
+Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV1920)
 
 # Semana del 23 de septiembre
 
