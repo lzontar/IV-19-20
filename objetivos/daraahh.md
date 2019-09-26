@@ -13,7 +13,7 @@
 ## Segunda Semana
 
 - [x] Antes del final de la semana, haber entregado el hito 0.
-- [ ] Asistir al seminario de la asignatura sobre microservicios basados en eventos, útil para entender qué tipo de aplicaciones se despliegan en la nube.
+- [x] Asistir al seminario de la asignatura sobre microservicios basados en eventos, útil para entender qué tipo de aplicaciones se despliegan en la nube.
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura; si no es posible, asegurarse de que el sistema operativo del ordenador es capaz de manejar, al menos, varias máquinas virtuales Linux a la vez, así como contenedores Docker.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
@@ -23,3 +23,10 @@
 
 
 Ejercicios de autoevaluación: [Introducción, concepto y soporte físico.](https://github.com/daraahh/ejerciciosIV/blob/master/ejercicios-1.md)
+
+
+## Tercera semana
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
