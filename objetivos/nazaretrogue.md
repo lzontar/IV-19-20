@@ -51,4 +51,5 @@
 11. [x] Comprender el papel de las *build tools* o herramientas de
   automatización.
 
-  [Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+[Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
