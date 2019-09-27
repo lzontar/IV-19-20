@@ -38,7 +38,7 @@
 |PARRILLA NAVARRO, PEDRO MIGUEL |[GHome-Bot](https://github.com/SupeerP/GHome-Bot) |0.1 |
 |PERALTA CAMARA, VICTOR | [IV-Proyecto](https://github.com/victorperalta93/IV-Proyecto) | **0.2** |
 |PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 0.2, **Reenvío** |
-|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.0 |
+|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | **1.1** Reenvio |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 1.0 |
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | v1.0.0, **Reenvío** |
 |REBOLLO PEREZ, VICTOR | [ProyectoIV](https://github.com/Rebits/ProyectoIV) | v0.0.1 |

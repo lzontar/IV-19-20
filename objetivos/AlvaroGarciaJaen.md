@@ -25,3 +25,11 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 - [x] Poner al final de cada semana los objetivos alcanzados, y siempre antes de la entrega del hito del proyecto.
+
+## Tercera semana
+
+- [x] Corregido hito 0.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+

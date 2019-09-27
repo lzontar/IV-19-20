@@ -30,3 +30,20 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 1. [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 2. [X] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 3. [X] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+4. [X] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+5. [X] Entender qué son los objetivos y cómo hacerlos correctamente.
+6. [X] Entender lo que se pide en el
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
+  al final de la semana y entregarlo al principio de la semana siguiente.
+7. [X] Entender el formato JSON y su importancia para ficheros de
+  configuración e intercambio genérico de datos.
+8. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo,
+  entender cómo node.js hace las cosas, o simplemente mirar el
+  cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de
+  otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+9. [X] Comprender la utilidad de la virtualización y definición en un
+  fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+10. [X] Instalar las herramientas necesarias para crear y aplicar tests en
+  un proyecto.
+11. [X] Comprender el papel de las *build tools* o herramientas de
+  automatización.
