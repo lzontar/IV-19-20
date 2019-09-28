@@ -52,4 +52,4 @@
 |SANCHEZ FERNANDEZ, RAUL | | |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
-|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.3.1 |
+|ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.3.2 |
