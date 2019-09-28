@@ -1,7 +1,6 @@
 Lista de objetivos de Ignacio Pineda Mochón
 ============================
 
-
 ## Objetivos 0
 
 - [x] Conocer la historia de la Computación Virtual.
