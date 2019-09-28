@@ -31,9 +31,9 @@
 
 - [ ] Corregir hito 0.
 - [X] Entender qué son los objetivos y cómo hacerlos correctamente. 
-- [ ] Entender lo que se pide en el primer hito del proyecto.
-- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.  
-- [ ] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).  
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
-- [ ] Comprender el papel de las build tools o herramientas de automatización.  
+- [X] Entender lo que se pide en el primer hito del proyecto.
+- [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
+- [X] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.  
+- [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).  
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
+- [X] Comprender el papel de las build tools o herramientas de automatización.  
