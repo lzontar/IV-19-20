@@ -45,7 +45,7 @@
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.1.1 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
-|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | 1.6 |
+|RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | 1.7 |
 |ROMAN GUERRERO, NAZARET | | |
 |RUANO NARVAEZ, RAUL | | |
 |SAEZ DE LA COBA, JAVIER | | |
