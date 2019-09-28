@@ -46,7 +46,7 @@
   otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 9. [x] Comprender la utilidad de la virtualización y definición en un
   fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
-10. [x] Instalar las herramientas necesarias para crear y aplicar tests en
+10. [] Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
 11. [x] Comprender el papel de las *build tools* o herramientas de
   automatización.
