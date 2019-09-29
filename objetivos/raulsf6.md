@@ -32,7 +32,7 @@
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las build tools o herramientas de automatización.
 
  
