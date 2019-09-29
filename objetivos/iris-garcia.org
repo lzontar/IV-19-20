@@ -1,7 +1,7 @@
 * Iris Garcia's Goals per session
-- [[#session-1][Session 01]]
-- [[#session-2][Session 02]]
-- [[#session-3][Session 03]]
+- [[#session-01][Session 01]]
+- [[#session-02][Session 02]]
+- [[#session-03][Session 03]]
 
 * Session 01
 - [X] Gather all the given resources for the subject and bookmark them.
@@ -28,6 +28,6 @@
 - [ ] Install the required tools/libraries to properly test a project.
 - [ ] Use different virtual environments of some programming languages.
 - [X] Understand what are the goals and how to elaborate them properly.
-- [ ] Complete the [[http://jj.github.io/IV/documentos/proyecto/1.Infraestructura][milestone 1]] before September 30 13:30.
+- [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/1.Infraestructura][milestone 1]] before September 30 13:30.
 - [X] Read the [[http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas][resource]] given for this session.
 - [ ] Do and document the exercises 1-10.
