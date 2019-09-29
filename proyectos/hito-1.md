@@ -36,7 +36,7 @@
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | | |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
-|PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 1.1 |
+|PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 1.2 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | | |
 |PINEDA MOCHON, IGNACIO | | |
