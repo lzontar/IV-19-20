@@ -39,7 +39,7 @@
 |PERALTA CAMARA, VICTOR | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | | |
-|PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.0 |
+|PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.1 |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.1.1 |
