@@ -34,7 +34,7 @@
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
 |MUÑOZ REDONDO, FRANCISCO | | |
-|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.1.0 |
+|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.0 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 1.2 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
