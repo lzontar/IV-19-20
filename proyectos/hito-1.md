@@ -9,25 +9,25 @@
 |CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.01 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | | |
-|DE LA TORRE VILLAVERDE, CRISTINA | | |
+|DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v1.0.0 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.2.2 |
-|GAMEZ LOPEZ, ADRIAN GABRIEL | | |
-|GARCIA JAEN, ALVARO | | |
+|GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v1.0 |
+|GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | | |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.2.1 |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v0.2 |
-|GONZALEZ GARCIA, FRANCISCO JOSE | | |
+|GONZALEZ GARCIA, FRANCISCO JOSE | [printCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | 0.1 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
-|LUQUE CALLEJAS, DAVID | | |
-|MALDONADO MANCILLA, PATRICIA | | |
+|LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 1.3 |
+|MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.1 |
 |MANRESA NEBOT, PABLO | | |
-|MARTINEZ MARTIN, MIGUEL JOSE | | |
+|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v1.1.2|
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.2 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.1 |
 |MORENO JIMENEZ, VICTOR |[Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.2 |
@@ -35,10 +35,10 @@
 |MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.0 |
-|PARRILLA NAVARRO, PEDRO MIGUEL | | |
+|PARRILLA NAVARRO, PEDRO MIGUEL |[GHome-Bot](https://github.com/SupeerP/GHome-Bot) |0.2 |
 |PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 1.2 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
-|PEREZ TERRON, JESUS MANUEL | | |
+|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.2 |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.1 |
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.1 |
 |REBOLLO PEREZ, VICTOR | | |
@@ -49,7 +49,7 @@
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.2 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL | [ProyectoIV](https://github.com/raulsf6/Proyecto-IV) | 1.3 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.3.2 |
