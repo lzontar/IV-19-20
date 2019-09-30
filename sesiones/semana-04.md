@@ -1,4 +1,4 @@
-# Cuarta semana, comienza el 2 de octubre
+# Cuarta semana, comienza el 30 de septiembre.
 
 **Importante** comienza el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
@@ -32,7 +32,7 @@ Explicamos lo fundamental [del tema sobre desarrollo basado en pruebas (TDD)](ht
 
 Comenzamos con el
 [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),
-que se entregará a las  **9:30 del 11 de octubre de 2019**.
+que se entregará a las  **9:30 del 10 de octubre de 2019**.
 
 ## Siguiente semana
 
