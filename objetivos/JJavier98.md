@@ -29,7 +29,6 @@
 
 ### Otros objetivos
 
-
 - [ ] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
     - El proyecto es personal y sólo tiene que ajustarse a la asignatura.
     - Entender el concepto de aprendizaje autónomo aka "No sé qué hacer".
