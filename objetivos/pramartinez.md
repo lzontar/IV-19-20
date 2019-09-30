@@ -29,7 +29,7 @@
   
 #### Otros objetivos de la semana
 
-- [ ] Corregir hito 0.
+- [X] Corregir hito 0.
 - [X] Entender qué son los objetivos y cómo hacerlos correctamente. 
 - [X] Entender lo que se pide en el primer hito del proyecto.
 - [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
@@ -37,3 +37,19 @@
 - [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).  
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
 - [X] Comprender el papel de las build tools o herramientas de automatización.  
+
+
+## Semana del 30 de septiembre
+
+- [ ] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [ ] Comenzar con la configuración de los sistemas de integración continua.
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+#### Otros objetivos de la semana
+
+- [ ] Entender el segundo hito del proyecto.
+- [ ] Comprender los hooks de git.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Investigar sobre herramientas de construcción de python.
+- [ ] Investigar sobre sistemas de integración continua pero enfocados a python.
