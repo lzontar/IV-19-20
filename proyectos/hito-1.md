@@ -14,7 +14,7 @@
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | | |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
-|GARCIA JAEN, ALVARO | | |
+|GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | | |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.2.1 |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v0.2 |
