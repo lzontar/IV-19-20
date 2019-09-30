@@ -12,7 +12,7 @@
 |DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v1.0.0 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
-|GALDO SEIQUER, ANTONIO | | |
+|GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.2.4 |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v1.0 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | [LibraryManagement](https://github.com/sergiogp98/LibraryManagement) | 0.4 |
