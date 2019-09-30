@@ -51,5 +51,5 @@
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | [ProyectoIV](https://github.com/raulsf6/Proyecto-IV) | 1.3 |
 |TOLAN , FIRAT | | |
-|VEGA PALMA, LEANDRO |[NutriK](https://github.com/LeandroVP/NutriK) | 0.1 |
+|VEGA PALMA, LEANDRO |[NutriK](https://github.com/LeandroVP/NutriK) | 0.2 |
 |ZONTAR , LUKA | [eGuarda](https://github.com/lzontar/eGuarda) | 0.3.2 |
