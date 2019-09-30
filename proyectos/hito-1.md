@@ -20,7 +20,7 @@
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v0.2 |
 |GONZALEZ GARCIA, FRANCISCO JOSE | [printCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | 0.1 |
 |GUTIERREZ SEGOVIA, JORGE | | |
-|HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | 0.2 |
+|HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | v0.2.0 |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
