@@ -43,7 +43,7 @@
     - "Voy a hacer un API"
     - "Voy a hacer un microservicio que hace 40 cosas".
     - "Voy a hacer (cosas que|que|sistema que) haga x".
-    
+
 - [ ] Entender qué son los objetivos y cómo hacerlos correctamente.
 
 - [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
