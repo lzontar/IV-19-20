@@ -6,13 +6,13 @@
 |ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.1 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.3 |
-|CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.01 |
+|CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.07 **Reenvío** |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
-|DE ANGELES FERNANDEZ, JAVIER | | |
+|DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v0.1.5 |
 |DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v1.0.0 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
-|GALDO SEIQUER, ANTONIO | | |
+|GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.2.4 |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | [ProyectoIV](https://github.com/Gadri8/ProyectoIV) | v1.0 |
 |GARCIA DE SEBASTIAN, IRIS | [webhooks-handler](https://github.com/iris-garcia/webhooks-handler) | v0.2.1 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
@@ -21,7 +21,7 @@
 |GONZALEZ GARCIA, FRANCISCO JOSE | [printCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | 0.1 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | v0.2.0 |
-|KEMP MUÑOZ, MARCEL | | |
+|KEMP MUÑOZ, MARCEL | [Proyecto_IV - Dealer](https://github.com/MarcelKemp/Proyecto_IV) | 1.1 |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 1.3 |
@@ -31,17 +31,17 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.2 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.1 |
 |MORENO JIMENEZ, VICTOR |[Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.2 |
-|MORENO LOPEZ, JUAN ESTEBAN |[Proyecto IV](https://github.com/juaneml/IV_1920_Proyecto) |v.0.2|
+|MORENO LOPEZ, JUAN ESTEBAN |[Proyecto IV](https://github.com/juaneml/IV_1920_Proyecto) |**__v0.4__**|
 |MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.0 |
 |PARRILLA NAVARRO, PEDRO MIGUEL |[GHome-Bot](https://github.com/SupeerP/GHome-Bot) |0.2 |
 |PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 1.2 |
-|PEREZ LENDINEZ, JOSE MANUEL | | |
+|PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 1.1.0 |
 |PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.2 |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.1 |
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.1 |
-|REBOLLO PEREZ, VICTOR | | |
+|REBOLLO PEREZ, VICTOR | [ProForMe](https://github.com/Rebits/ProForMe) | 1.4 |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.1.1 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.1 |

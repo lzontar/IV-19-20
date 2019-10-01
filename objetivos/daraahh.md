@@ -30,3 +30,11 @@ Ejercicios de autoevaluación: [Introducción, concepto y soporte físico.](http
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+## Cuarta semana
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [ ] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Entender el segundo hito del proyecto.
