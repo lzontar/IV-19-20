@@ -6,7 +6,7 @@
 |ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.1 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.3 |
-|CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.06 **Reenvío** |
+|CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.07 **Reenvío** |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | | |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
