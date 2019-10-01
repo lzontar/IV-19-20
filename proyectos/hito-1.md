@@ -8,7 +8,7 @@
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.3 |
 |CEREZO SANCHEZ, PABLO | [Guitar-com](https://github.com/pcerezo/Proyecto-IV-19-20) | 1.01 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
-|DE ANGELES FERNANDEZ, JAVIER | | |
+|DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v0.1.5 |
 |DE LA TORRE VILLAVERDE, CRISTINA |[proyectoIV](https://github.com/cvillaverde24/proyectoIV) | v1.0.0 |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
