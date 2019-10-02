@@ -21,39 +21,26 @@
 
 ## Semana del 23 de septiembre
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
-- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 
-- [ ] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 
 ### Otros objetivos
 
-- [ ] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
-    - El proyecto es personal y sólo tiene que ajustarse a la asignatura.
-    - Entender el concepto de aprendizaje autónomo aka "No sé qué hacer".
-    - Entender qué es lo que se debe aprender en una asignatura de informática y su independencia de lo que diga el profesor.
-    - Problemas frecuentemente planteados.
-        - Hay que entender git y GitHub.
-            - Rebases y otras cosas que es posible que sean más importantes que los diagramas UML.
-        - "Tengo un error"
-        - "Tengo este error"
-        - Todo lo anterior, en un mensaje privado a alguno de los profesores.
-    - Los objetivos tienen que cumplirse, no marcarse.
-    - "Voy a hacer un API"
-    - "Voy a hacer un microservicio que hace 40 cosas".
-    - "Voy a hacer (cosas que|que|sistema que) haga x".
+- [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
 
-- [ ] Entender qué son los objetivos y cómo hacerlos correctamente.
+- [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 
 - [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 
-- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
-- [ ] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
-- [ ] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
