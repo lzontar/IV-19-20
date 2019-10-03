@@ -1,7 +1,11 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 1.0 |
+<<<<<<< HEAD
 |ALONSO RAMOS, JOSE JAVIER | [Tocayo-JJ-Project](https://github.com/JJavier98/IV-Project) | 0.1.1 |
+=======
+|ALONSO RAMOS, JOSE JAVIER | [Tocallo-JJ-Project](https://github.com/JJavier98/IV-Project) | 0.1.1 |
+>>>>>>> Cambio de nombre de proyecto
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.0.2b-dev |
 |ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.1 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
