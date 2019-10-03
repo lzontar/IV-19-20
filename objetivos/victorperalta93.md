@@ -18,3 +18,9 @@
 - [X] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [X] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
 - [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Semana del 23 de septiembre
+
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
