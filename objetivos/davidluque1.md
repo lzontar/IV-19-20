@@ -13,7 +13,7 @@
 - [x] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
-- [x] Empezar a usar git y GitHub
+- [x] Empezar a usar git y GitHub.
 
 
 ## Segunda semana
