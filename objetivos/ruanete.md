@@ -35,7 +35,7 @@
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
 - [x] Comprender el papel de las build tools o herramientas de automatización.  
 
-## Semana del 23 de septiembre
+## Semana del 30 de septiembre
 
 - [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
   - [x] Librerías de aserciones y marcos de pruebas.
