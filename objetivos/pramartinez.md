@@ -41,15 +41,14 @@
 
 ## Semana del 30 de septiembre
 
-- [ ] Entender bien el concepto de test y herramientas necesarias para el mismo.
-- [ ] Comenzar con la configuración de los sistemas de integración continua.
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [X] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [X] Comenzar con la configuración de los sistemas de integración continua.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 #### Otros objetivos de la semana
 
-- [ ] Entender el segundo hito del proyecto.
+- [X] Entender el segundo hito del proyecto.
 - [ ] Comprender los hooks de git.
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-- [ ] Investigar sobre herramientas de construcción de python.
-- [ ] Investigar sobre sistemas de integración continua pero enfocados a python.
+- [X] Investigar sobre herramientas de construcción de nodejs.
