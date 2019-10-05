@@ -1,5 +1,5 @@
 # Semana del 9 de septiembre
-
+ 
 ## Objetivos a cubrir en la sesión
 
 1. [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.
