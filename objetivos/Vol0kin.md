@@ -64,3 +64,16 @@ si mi ordenador tiene el KVM activado.
   un proyecto.
 - [x] Comprender el papel de las *build tools* o herramientas de
   automatización.
+  
+## Semana del 30 de septiembre
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [x] Comenzar con la configuración de los sistemas de integración
+   continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+- [x] Asignatura y trabajos de fin de grado.
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+- [x] Comprender los *hooks* de git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
