@@ -1,4 +1,4 @@
-# Quinta sesión, comienza el 8 de octubre
+# Sexta sesión, comienza el 14 de octubre
 
 **Importante** comienza el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
@@ -20,12 +20,11 @@ Terminamos con
 y comenzamos con el
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS). 
 
-Continuamos con el
-[segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),
-que se entrega el  **11:30 del 15 de octubre de 2018**. 
+Comenzamos con el
+[tercer hito del proyecto]().
 
 ## Siguiente semana
 
-[Sexta semana](semana-06.md).
+[Séptima semana](semana-07.md).
 
 
