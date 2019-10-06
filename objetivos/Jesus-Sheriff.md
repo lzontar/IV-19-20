@@ -29,6 +29,10 @@ Semana del 23 de Septiembre (3)
 
 - [ ] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
 
+- [X] He visto ejemplos para [incorporar documentación en gh-pages](https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/) y un [tema.](https://pmarsceill.github.io/just-the-docs/)
+
+-[x] He buscado información sobre los "User Stories."
+
 ## Otros objetivos
 
 - [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
