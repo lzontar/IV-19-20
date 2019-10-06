@@ -1,7 +1,8 @@
 # Quinta sesión, comienza el 7 de octubre
 
-**Importante** comienza el *hacktoberfest*. Buscad *issues* con la
-etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
+**Importante**: ha comenzado el *hacktoberfest*. Buscad *issues* con la
+etiqueta *hacktoberfest* y referenciarlos al hacer los pull
+request. El [día 11 habrá un taller-hackatón](https://www.meetup.com/es-ES/granadagdg/events/265219073/)
 
 ## Objetivos de la semana
 
@@ -20,9 +21,10 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
     describirla. 
   * Entender qué son los hitos, los issues y los commits.
   * Entender qué es un API, un API REST.
+    * Entender que hay otros APIs diferentes.
   * Entender qué va en un repo, y qué no va.
 * Entender cómo extender clases con un API REST o uno basado en tareas.
-* Comprender los mecanismos de despliegue automático a través de git
+* Comprender los mecanismos de despliegue automático a través de git.
 
 ## Material para la clase
 
@@ -30,7 +32,7 @@ Terminamos con
 [el desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas). 
 
 Durante esta semana se entrega
-[segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),  **9:30 del 10 de octubre de 2019**. 
+[segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),  **9:30 del 10 de octubre de 2020**. 
 
 ## Siguiente semana
 
