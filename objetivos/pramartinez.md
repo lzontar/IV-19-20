@@ -49,6 +49,6 @@
 #### Otros objetivos de la semana
 
 - [X] Entender el segundo hito del proyecto.
-- [ ] Comprender los hooks de git.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [X] Comprender los hooks de git.
+- [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [X] Investigar sobre herramientas de construcción de nodejs.
