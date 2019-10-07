@@ -17,10 +17,29 @@
 - [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
-- [ ] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 ## Semana 3 (23 de septiembre) ##
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
-- [ ] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+
+## Semana 4 (30 de septiembre) ##
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   - Librerías de aserciones y marcos de pruebas.
+   - Descripciones de infraestructura
+   - Herramientas de construcción.
+   - Configuración de sistemas de integración continua.
+   - Comenzar con la configuración de los sistemas de integración continua.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+## Semana 5 (07 de octubre) ##
+- [ ] Terminar la configuración de los sistemas de integración continua
+- [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
