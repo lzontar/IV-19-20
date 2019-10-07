@@ -33,3 +33,7 @@
 - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 -[x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente
 
+## Cuarta semana
+
+- [x] Solucionar problemas hito 1.
+
