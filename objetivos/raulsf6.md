@@ -45,7 +45,7 @@
     - [ ] Configuración de sistemas de integración continua.
     - [ ] Comenzar con la configuración de los sistemas de integración continua.
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
-- [ ]Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x]Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
  
