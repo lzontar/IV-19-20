@@ -37,3 +37,11 @@
 - [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [X] Comprender el papel de las *build tools* o herramientas de automatización.
+
+## Semana 4 (Octubre 7)
+
+- [X] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [X] Comenzar con la configuración de los sistemas de integración continua.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [X] Entender el segundo hito del proyecto.
