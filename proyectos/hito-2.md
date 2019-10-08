@@ -5,7 +5,7 @@
 |ALVAREZ, LUIS | | |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.6 |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.7 |
 |CEREZO SANCHEZ, PABLO | | |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | | |
@@ -28,7 +28,7 @@
 |MALDONADO MANCILLA, PATRICIA | | |
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
-|MARTINEZ MORENO, PRAXEDES | | |
+|MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.3 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.3 |
 |MORENO JIMENEZ, VICTOR | | |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
@@ -42,12 +42,12 @@
 |PINEDA MOCHON, IGNACIO | | |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
-|RODRIGUEZ HODAR, ANGEL | | |
+|RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.2 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.2 |
-|RUANO NARVAEZ, RAUL | | |
+|RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.3 |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | | |
 |TOLAN , FIRAT | | |
