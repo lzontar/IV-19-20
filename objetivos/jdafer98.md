@@ -64,6 +64,47 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 11. [x] Comprender el papel de las build tools o herramientas de automatización.
 
 
+#Objetivos cuarta semana
 
+1. [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. Librerías de aserciones y marcos de pruebas.
+   2. Descripciones de infraestructura
+   3. Herramientas de construcción.
+   4. Configuración de sistemas de integración continua.
+1. [x] Comenzar con la configuración de los sistemas de integración
+   continua.
+   
+2. [x] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+   
+2. [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+
+* [x] Asignatura y trabajos de fin de grado.
+* [x] Entender el segundo hito del proyecto
+* [x] Comprender los *hooks* de git.
+* [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+##Objetivos Quinta semana
+
+
+1. [x] Terminar la configuración de los sistemas de integración continua
+2. [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+
+* [x] Entender los errores comunes en el hito 1.
+  * [x] Comprender qué es un PR y resolver los problemas que pueden
+    surgir.
+  * [x] Entender qué es un microservicio o un servicio basado en eventos y
+    cómo usarlo.
+    * Especialmente por qué los "usuarios" no intervienen en él.
+  * [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo
+    describirla. 
+  * [x] Entender qué son los hitos, los issues y los commits.
+  * [x] Entender qué es un API, un API REST.
+    * Entender que hay otros APIs diferentes.
+  * [x] Entender qué va en un repo, y qué no va.
+* [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+* [x] Comprender los mecanismos de despliegue automático a través de git.
 
 
