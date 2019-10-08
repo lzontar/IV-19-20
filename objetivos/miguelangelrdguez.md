@@ -75,10 +75,10 @@ al final de la semana y entregarlo al principio de la semana siguiente.
 ### Objetivos de la semana
 
 - [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
-  - [x]. Librerías de aserciones y marcos de pruebas.
-  - [x]. Descripciones de infraestructura
-  - [x]. Herramientas de construcción.
-  - [x]. Configuración de sistemas de integración continua.
+  - [x] Librerías de aserciones y marcos de pruebas.
+  - [x] Descripciones de infraestructura
+  - [x] Herramientas de construcción.
+  - [x] Configuración de sistemas de integración continua.
 - [x] Comenzar con la configuración de los sistemas de integración
    continua.
    
