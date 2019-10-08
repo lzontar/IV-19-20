@@ -1,4 +1,6 @@
-## Semana 1
+# Objetivos de las sesiones
+
+## Semana 1 (9 de septiembre)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
@@ -11,4 +13,4 @@
 - [x] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
-- [x] Empezar a usar git y GitHub.
+- [x] Empezar a usar [git y GitHub](https://rogerdudler.github.io/git-guide/index.es.html)
