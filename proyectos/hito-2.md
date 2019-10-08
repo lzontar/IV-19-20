@@ -28,7 +28,7 @@
 |MALDONADO MANCILLA, PATRICIA | | |
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
-|MARTINEZ MORENO, PRAXEDES | | |
+|MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.3 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.3 |
 |MORENO JIMENEZ, VICTOR | | |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
