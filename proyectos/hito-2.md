@@ -46,7 +46,7 @@
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
-|ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.2 |
+|ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.2.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.3 |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | | |
