@@ -34,7 +34,7 @@
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
-|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.0 |
+|NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.1 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
