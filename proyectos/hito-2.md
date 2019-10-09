@@ -30,7 +30,7 @@
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.3 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.3 |
-|MORENO JIMENEZ, VICTOR | | |
+|MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | v.0.3 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
