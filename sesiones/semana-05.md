@@ -32,7 +32,7 @@ Terminamos con
 [el desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas). 
 
 Durante esta semana se entrega
-[segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),  **9:30 del 10 de octubre de 2020**. 
+[segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),  **9:30 del 10 de octubre de 2019**. 
 
 ## Siguiente semana
 
