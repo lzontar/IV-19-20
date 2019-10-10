@@ -43,10 +43,10 @@
 2. - [ ] Comenzar con la configuración de los sistemas de integración
    continua.   
 3.  - [x] Comprender cómo las pruebas de software encajan dentro del concepto  de infraestructura virtual.
-4.  - [ ] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+4.  - [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
 ### Otros objetivos
  * - [x] Asignatura y trabajos de fin de grado.
  * - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
- * - [ ] Comprender los *hooks* de git.
- * - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+ * - [x] Comprender los *hooks* de git.
+ * - [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
