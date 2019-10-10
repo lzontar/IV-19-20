@@ -1,6 +1,6 @@
 # Objetivos Jorge Gutiérrez Segovia
 
-## Primera semana
+## Hito 0
 
 - [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.  
 - [X] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
@@ -10,7 +10,7 @@
 - [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 - [X] Empezar a usar git y GitHub.
 
-## Segunda Semana
+## Hito 1
 
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [x] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
@@ -18,8 +18,9 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [x] Corregir los errores del hito 1.
 
-## Tercera semana, 23 de septiembre
+### Hito 2
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
