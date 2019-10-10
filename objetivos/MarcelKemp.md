@@ -60,4 +60,16 @@
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+## Semana 5
+
+- [x] Terminar la configuración de los sistemas de integración continua.
+
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+## Semana 6
+
+- [x] Terminar la configuración de los sistemas de integración continua
+
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
