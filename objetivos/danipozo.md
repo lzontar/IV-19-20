@@ -37,6 +37,23 @@ recurso.
 - [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las
   infraestructuras virtuales.
 
+
+## Cuarta semana
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. Librerías de aserciones y marcos de pruebas.
+   2. Descripciones de infraestructura
+   3. Herramientas de construcción.
+   4. Configuración de sistemas de integración continua.
+
+- [] Comenzar con la configuración de los sistemas de integración
+   continua.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
 ## Otros objetivos
 
 - [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
