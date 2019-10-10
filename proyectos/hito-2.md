@@ -3,7 +3,7 @@
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 2.1 |
 |ALONSO RAMOS, JOSE JAVIER | | |
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.0.4-dev |
-|ARENAS MARTINEZ, MARTA| | |
+|ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.3 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.7 |
 |CEREZO SANCHEZ, PABLO | | |
@@ -14,11 +14,11 @@
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | | |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
-|GARCIA DE SEBASTIAN, IRIS | | |
+|GARCIA DE SEBASTIAN, IRIS |[workday](https://github.com/iris-garcia/workday) | v0.1.0 |
 |GARCIA JAEN, ALVARO | | |
 |GARCIA PRADOS, SERGIO | | |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v0.2 |
-|GONZALEZ GARCIA, FRANCISCO JOSE | | |
+|GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v2.0 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
@@ -31,7 +31,7 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.3 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.3 |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | v.0.3 |
-|MORENO LOPEZ, JUAN ESTEBAN | | |
+|MORENO LOPEZ, JUAN ESTEBAN |[ProyectoIV](https://github.com/juaneml/IV_1920_Proyecto) |v.0.6 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.1 |
@@ -49,7 +49,7 @@
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.2.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.3 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL | [NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.2 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.4.1 |
