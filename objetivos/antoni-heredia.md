@@ -35,18 +35,18 @@
 - [x] Comprender el papel de las build tools o herramientas de automatización.
 
 ## Semana 04
-1. - [ ]  Entender bien el concepto de test y herramientas necesarias para el mismo.
-    1. - [ ] Librerías de aserciones y marcos de pruebas.
-    2. - [ ] Descripciones de infraestructura
-    3. - [ ] Herramientas de construcción.
-    4. - [ ] Configuración de sistemas de integración continua.
+1. - [x]  Entender bien el concepto de test y herramientas necesarias para el mismo.
+    1. - [x] Librerías de aserciones y marcos de pruebas.
+    2. - [x] Descripciones de infraestructura
+    3. - [x] Herramientas de construcción.
+    4. - [x] Configuración de sistemas de integración continua.
 2. - [ ] Comenzar con la configuración de los sistemas de integración
    continua.   
-3.  - [ ] Comprender cómo las pruebas de software encajan dentro del concepto  de infraestructura virtual.
+3.  - [x] Comprender cómo las pruebas de software encajan dentro del concepto  de infraestructura virtual.
 4.  - [ ] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
 ### Otros objetivos
- * - [ ] Asignatura y trabajos de fin de grado.
- * - [ ] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+ * - [x] Asignatura y trabajos de fin de grado.
+ * - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
  * - [ ] Comprender los *hooks* de git.
  * - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
