@@ -32,7 +32,7 @@
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.3 |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | v.0.3 |
 |MORENO LOPEZ, JUAN ESTEBAN |[ProyectoIV](https://github.com/juaneml/IV_1920_Proyecto) |v.0.6 |
-|MUÑOZ HERRERA, JOSE ANTONIO | | |
+|MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.1 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
