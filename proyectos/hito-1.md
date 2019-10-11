@@ -51,5 +51,5 @@
 |SAEZ DE LA COBA, JAVIER | [cmiautorizo](https://github.com/jscoba/cmiautorizo) | 1.1 **Reenvio** |
 |SANCHEZ FERNANDEZ, RAUL | [ProyectoIV](https://github.com/raulsf6/Proyecto-IV) | 1.3 |
 |TOLAN , FIRAT | | |
-|VEGA PALMA, LEANDRO |[NutriK](https://github.com/LeandroVP/NutriK) | 0.3 **Reenvío** |
+|VEGA PALMA, LEANDRO |[NutriK](https://github.com/LeandroVP/NutriK) | 0.4 **Reenvío** |
 |ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.3.3 **Reenvío**|
