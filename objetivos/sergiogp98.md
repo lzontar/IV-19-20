@@ -35,11 +35,14 @@ recurso.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 
 ## Semana del 30 de septiembre
-[ ] Entender bien el concepto de test y herramientas necesarias para el mismo.
+[x] Entender bien el concepto de test y herramientas necesarias para el mismo.
    * Librerías de aserciones y marcos de pruebas.
    * Descripciones de infraestructura
    * Herramientas de construcción.
    * Configuración de sistemas de integración continua.
 [ ] Comenzar con la configuración de los sistemas de integración continua.
-[ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+[x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+[x] Entender el segundo hito del proyecto
+[ ] Comprender los hooks de git.
+[x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.

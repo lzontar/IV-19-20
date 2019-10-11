@@ -18,3 +18,20 @@
 - [X] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [X] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
 - [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Semana del 23 de septiembre
+
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [X] Entender qué son los objetivos y cómo hacerlos correctamente.
+- [X] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [X] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+- [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [X] Comprender el papel de las build tools o herramientas de automatización.
+
+## Semana del 30 de septiembre
+
+- [X] Entender bien el concepto de test y herramientas necesarias para el mismo.

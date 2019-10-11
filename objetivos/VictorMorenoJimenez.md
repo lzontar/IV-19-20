@@ -65,8 +65,33 @@ al final de la semana y entregarlo al principio de la semana siguiente.
 9. [X] Comprender la utilidad de la virtualización y definición en un
   fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 
-10. [ ]Instalar las herramientas necesarias para crear y aplicar tests en
+10. [X] Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
 
 11. [X] Comprender el papel de las *build tools* o herramientas de
   automatización.
+
+
+# Semana del 2 de Octubre. 
+
+## Objetivos de la semana
+
+1. [X] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. Librerías de aserciones y marcos de pruebas.
+   2. Descripciones de infraestructura
+   3. Herramientas de construcción.
+   4. Configuración de sistemas de integración continua.
+2. [X] Comenzar con la configuración de los sistemas de integración
+   continua.
+   
+3. [X] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+   
+4. [X] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+5. [X] Otros objetivos
+* Asignatura y trabajos de fin de grado.
+* Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+* Comprender los *hooks* de git.
+* Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+

@@ -27,7 +27,7 @@
 |LUQUE CALLEJAS, DAVID |[ProyectoIV](https://github.com/davidluque1/ProyectoIV)| 1.1 |
 |MALDONADO MANCILLA, PATRICIA |[Proyecto-IV](https://github.com/patriciamaldonado/Proyecto-IV) | 1.0 |
 |MANRESA NEBOT, PABLO | | |
-|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v0.1| 
+|MARTINEZ MARTIN, MIGUEL JOSE |[Biblioteca de Dinosaurios](https://github.com/MiguelJMartinez/Proyecto-IV) | v1.1.2| 
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v0.1 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.1 **Reenvío** |
 |MORENO JIMENEZ, VICTOR | [Proyecto IV](https://github.com/VictorMorenoJimenez/IV) | v0.1 |
@@ -43,7 +43,7 @@
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | v1.0.0, **Reenvío** |
 |REBOLLO PEREZ, VICTOR | [ProyectoIV](https://github.com/Rebits/ProyectoIV) | v0.0.1 |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV-WebService) | 1.0 |
-|RODRIGUEZ LOPEZ, ALEJANDRO | | |
+|RODRIGUEZ LOPEZ, ALEJANDRO | [ProyectoIV](https://github.com/alexrodriguezlop/IV-Proyect) | *Ver 1.0* |
 |RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.1 |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | **1.2** |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.1 |

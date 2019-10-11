@@ -27,3 +27,39 @@
 - [X] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [X] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
 - [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Semana 3
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+## Semana del 30 de septiembre
+- [X] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   * Librerías de aserciones y marcos de pruebas.
+   * Descripciones de infraestructura
+   * Herramientas de construcción.
+   * Configuración de sistemas de integración continua.
+- [X] Comenzar con la configuración de los sistemas de integración continua.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+## Semana 4
+
+[x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   [x]. Librerías de aserciones y marcos de pruebas.
+   [x]. Descripciones de infraestructura
+   [x]. Herramientas de construcción.
+   [x]. Configuración de sistemas de integración continua.
+[x] Comenzar con la configuración de los sistemas de integración
+   continua.
+   
+[x] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+   
+[x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+[x] Asignatura y trabajos de fin de grado.
+[x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+[x] Comprender los *hooks* de git.
+[x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 

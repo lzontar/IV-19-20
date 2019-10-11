@@ -44,3 +44,35 @@
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las build tools o herramientas de automatización.
+
+## Semana 4 (30 de septiembre)
+
+1. [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. [x] Librerías de aserciones y marcos de pruebas.
+   2. [x] Descripciones de infraestructura
+   3. [x] Herramientas de construcción.
+   4. [x] Configuración de sistemas de integración continua.
+2. [x] Comenzar con la configuración de los sistemas de integración continua.
+3. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+4. [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+5. [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI).
+6. [x] Comprender los *hooks* de git.
+7. [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+# Semana 5 (7 de octubre)
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+#### Otros objetivos
+- [x] Entender los errores comunes en el hito 1.
+- [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+- [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+- [x] Especialmente por qué los "usuarios" no intervienen en él.
+- [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+- [x] Entender qué son los hitos, los issues y los commits.
+- [x] Entender qué es un API, un API REST.
+- [x] Entender que hay otros APIs diferentes.
+- [x] Entender qué va en un repo, y qué no va.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.

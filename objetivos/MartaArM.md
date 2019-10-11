@@ -1,5 +1,5 @@
 # Semana del 9 de septiembre
-
+ 
 ## Objetivos a cubrir en la sesión
 
 1. [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -47,3 +47,15 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
   un proyecto.
 11. [X] Comprender el papel de las *build tools* o herramientas de
   automatización.
+
+# Semana del 2 de octubre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   
+2. [X] Comenzar con la configuración de los sistemas de integración continua.
+   
+3. [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+   
+4. [X] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
