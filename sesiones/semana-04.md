@@ -1,13 +1,18 @@
-# Cuarta semana, comienza el 2 de octubre
+# Cuarta semana, comienza el 30 de septiembre.
 
 **Importante** comienza el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
-pull request.
+pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Objetivos de la semana
 
+1. Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. Librerías de aserciones y marcos de pruebas.
+   2. Descripciones de infraestructura
+   3. Herramientas de construcción.
+   4. Configuración de sistemas de integración continua.
 1. Comenzar con la configuración de los sistemas de integración
-   continua
+   continua.
    
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
@@ -27,7 +32,7 @@ Explicamos lo fundamental [del tema sobre desarrollo basado en pruebas (TDD)](ht
 
 Comenzamos con el
 [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),
-que se entregará a las  **9:30 del 11 de octubre de 2019**.
+que se entregará a las  **9:30 del 10 de octubre de 2019**.
 
 ## Siguiente semana
 

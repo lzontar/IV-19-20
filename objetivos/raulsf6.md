@@ -20,3 +20,32 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Semana 3
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+- [x] Entender qué son los objetivos y cómo hacerlos correctamente.
+- [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+
+## Semana 4
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+
+    - [x] Librerías de aserciones y marcos de pruebas.
+    - [x] Descripciones de infraestructura
+    - [x] Herramientas de construcción.
+    - [x] Configuración de sistemas de integración continua.
+    - [x] Comenzar con la configuración de los sistemas de integración continua.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x]Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+ 

@@ -12,7 +12,7 @@ Entrega de fichero de objetivos
 ## Primero y mas importante
 
 * [ ] Prometo no cerrar ningún PR pase lo que pase.
-* [ ] Ni abrir más de un PR simultáneamente.
+* [ ] Ni abrir más de un PR simultáneamente de lo mismo (objetivos o hitos).
 
 ## Lista de comprobación para hitos (*borrar si no es un hito*)
 

@@ -29,3 +29,44 @@
 6. [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 [Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+
+## Sesión 3 (23 de septiembre)
+
+1. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+2. [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+3. [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
+4. [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+5. [x] Entender qué son los objetivos y cómo hacerlos correctamente.
+6. [x] Entender lo que se pide en el [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura) al final de la semana y entregarlo al principio de la semana siguiente.
+7. [x] Entender el formato JSON y su importancia para ficheros de
+  configuración e intercambio genérico de datos.
+8. [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo,
+  entender cómo node.js hace las cosas, o simplemente mirar el
+  cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de
+  otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+9. [x] Comprender la utilidad de la virtualización y definición en un
+  fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+10. [] Instalar las herramientas necesarias para crear y aplicar tests en
+  un proyecto.
+11. [x] Comprender el papel de las *build tools* o herramientas de
+  automatización.
+
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+[Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
+
+## Sesión 4 (30 de septiembre)
+
+1. [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+   1. [x] Librerías de aserciones y marcos de pruebas.
+   2. [x] Descripciones de infraestructura
+   3. [x] Herramientas de construcción.
+   4. [x] Configuración de sistemas de integración continua.
+2. [x] Comenzar con la configuración de los sistemas de integración continua.   
+3. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+4. [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+5. [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI).
+6. [x] Comprender los *hooks* de git.
+7. [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+[Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
