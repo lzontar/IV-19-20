@@ -15,8 +15,12 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 * Recomendación especial hito 2.
   * Primera entrega: Antonio Molnar.
+  * Buen trabajo: Raúl Ruano.
+  * Buena documentación del proyecto: Luka Zontar.
 * Errores comunes en el hito 2 y reenvíos
   * Entender qué es un PR y cómo recuperarse de conflictos.
+  * No usar ninguna herramienta de construcción. 
+  * No documentar herramienta de construcción ni CI.
 * Probar herramientas de tests con servicios web.
 * Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
 
