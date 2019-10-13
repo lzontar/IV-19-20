@@ -40,9 +40,13 @@ recurso.
    * Descripciones de infraestructura
    * Herramientas de construcción.
    * Configuración de sistemas de integración continua.
-[ ] Comenzar con la configuración de los sistemas de integración continua.
+[x] Comenzar con la configuración de los sistemas de integración continua.
 [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-[ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+[x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 [x] Entender el segundo hito del proyecto
-[ ] Comprender los hooks de git.
+[x] Comprender los hooks de git.
 [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+## Semana del 7 de octubre
+[ ] Terminar la configuración de los sistemas de integración continua
+[ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
