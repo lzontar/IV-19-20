@@ -42,7 +42,7 @@
 |PINEDA MOCHON, IGNACIO | | |
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.2.1 |
 |REBOLLO PEREZ, VICTOR | | |
-|RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.2 |
+|RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.2.1 **Reenvio**|
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | [IV-WS](https://github.com/miguelangelrdguez/IV-WS) | 2.4 |
