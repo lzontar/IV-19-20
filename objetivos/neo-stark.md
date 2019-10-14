@@ -44,15 +44,19 @@
 * [x]Comprender el papel de las build tools o herramientas de automatización. 
     - Herramienta instalada en mi proyecto: [Composer](https://getcomposer.org)
 
-## Semana 4
+## Semana 4 - 30/09
 
 * [x]Entender bien el concepto de test y herramientas necesarias para el mismo.
 * [x]Comenzar con la configuración de los sistemas de integración continua.
 * [x]Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 * [x]Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
-## Semana 5
+## Semana 5 - 07/10
 
 * [x]Terminar la configuración de los sistemas de integración continua.
 * [x]Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
 * [x]Entender cómo extender clases con un API REST o uno basado en tareas.
+
+## Semana 6 - 14/10
+
+* [x]Reenvío hito 2
