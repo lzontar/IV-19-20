@@ -77,3 +77,4 @@ si mi ordenador tiene el KVM activado.
 - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 - [x] Comprender los *hooks* de git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+- [x] Reenviar hito.
