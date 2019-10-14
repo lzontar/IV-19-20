@@ -17,7 +17,7 @@
 |GARCIA DE SEBASTIAN, IRIS |[workday](https://github.com/iris-garcia/workday) | v0.1.0 |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 0.1 |
 |GARCIA PRADOS, SERGIO | | |
-|GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v0.2 |
+|GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | **v0.2.1 Reenvio** |
 |GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | **v2.1** |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | v0.2.0 |
