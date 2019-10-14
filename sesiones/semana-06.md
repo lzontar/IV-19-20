@@ -19,7 +19,7 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
   * Buena documentación del proyecto: Luka Zontar.
 * Errores comunes en el hito 2 y reenvíos
   * Entender qué es un PR y cómo recuperarse de conflictos.
-  * No usar ninguna herramienta de construcción. 
+  * No usar ninguna herramienta de construcción.
   * No documentar herramienta de construcción ni CI.
 * Probar herramientas de tests con servicios web.
 * Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
@@ -28,12 +28,10 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 Terminamos con
 [el desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas)
-y comenzamos con el el
+y comenzamos con el 
 [tema de microservicios](http://jj.github.io/IV/documentos/temas/Microservicios) y
-el [tercer hito del proyecto]().
+el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Entrega el día 24 de octubre a las 11:30 de la mañana.
 
-Comenzamos con el
-[tercer hito del proyecto]().
 
 ## Siguiente semana
 
