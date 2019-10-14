@@ -67,6 +67,7 @@
 5. [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI).
 6. [x] Comprender los *hooks* de git.
 7. [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+8. [x] Reenvío completado.
 
 [Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
 [Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
