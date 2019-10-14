@@ -107,4 +107,5 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 * [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 * [x] Comprender los mecanismos de despliegue automático a través de git.
 
+[x] Reenvio
 
