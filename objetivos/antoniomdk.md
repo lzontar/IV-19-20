@@ -55,3 +55,12 @@
 - [x] Entender el segundo hito del proyecto
 - [x] Comprender los hooks de git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+
+## Quinta semana
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [x] Entender los errores comunes en el hito 1.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
