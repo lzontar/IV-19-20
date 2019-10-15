@@ -67,12 +67,12 @@
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 
-# Semana del 5 de Octubre)
+## Semana del 5 de Octubre
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
 
-#### Otros objetivos
+## Otros objetivos
 - [x] Entender los errores comunes en el hito 1.
 - [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
 - [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
