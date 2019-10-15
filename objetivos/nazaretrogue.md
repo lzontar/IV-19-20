@@ -51,7 +51,7 @@
 11. [x] Comprender el papel de las *build tools* o herramientas de
   automatización.
 
-[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)  
 [Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
 
 ## Sesión 4 (30 de septiembre)
@@ -69,5 +69,37 @@
 7. [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 8. [x] Reenvío completado.
 
-[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)  
 [Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
+
+## Sesión 5 (7 de octubre)
+
+1. [x] Terminar la configuración de los sistemas de integración continua.
+2. [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+3. [x] Entender los errores comunes en el hito 1.
+    1. [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+    2. [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+        1. [x] Especialmente por qué los "usuarios" no intervienen en él.
+    4. [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+    5. [x] Entender qué son los hitos, los issues y los commits.
+    6. [x] Entender qué es un API, un API REST.
+        1. [x] Entender que hay otros APIs diferentes.
+    7. [x] Entender qué va en un repo, y qué no va.
+4. [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+5. [x] Comprender los mecanismos de despliegue automático a través de git.
+
+[Ejercicios del tema 1](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema1.md)  
+[Ejercicios del tema 2](https://github.com/nazaretrogue/Ejercicios-IV/blob/master/Tema2.md)
+
+## Sesión 6 (14 de octubre)
+
+1. [] Terminar la configuración de los sistemas de integración continua.
+2. [] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+3. [] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+4. [] Entender conceptos relacionados con servicios web y su despliegue.
+5. [] Errores comunes en el hito 2 y reenvíos
+    1. [] Entender qué es un PR y cómo recuperarse de conflictos.
+    2. [] No usar ninguna herramienta de construcción.
+    3. [] No documentar herramienta de construcción ni CI.
+6. [] Probar herramientas de tests con servicios web.
+7. [] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
