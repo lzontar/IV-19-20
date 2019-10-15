@@ -6,7 +6,7 @@
 - [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
 - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 - [x] Vernos las caras.
-- [x] Explicar el [hito 0](https://github.com/JaviBL8/Playfy). Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana. 
+- [x] Explicar el [hito 0](https://github.com/JaviBL8/Playfy). Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana.
 - [ ] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 - [x] Empezar a usar git y GitHub. Por ejemplo, seguir este vídeo o cualquier otro tutorial online.
 
@@ -35,3 +35,7 @@
 3. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 4. [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
+## Semana 5 (7 oct)
+
+ - [x] Terminar la configuración de los sistemas de integración continua
+ - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
