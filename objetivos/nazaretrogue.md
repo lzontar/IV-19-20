@@ -98,8 +98,8 @@
 3. [] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 4. [] Entender conceptos relacionados con servicios web y su despliegue.
 5. [] Errores comunes en el hito 2 y reenvíos
-    1. [] Entender qué es un PR y cómo recuperarse de conflictos.
-    2. [] No usar ninguna herramienta de construcción.
+    1. [x] Entender qué es un PR y cómo recuperarse de conflictos.
+    2. [x] No usar ninguna herramienta de construcción.
     3. [] No documentar herramienta de construcción ni CI.
 6. [] Probar herramientas de tests con servicios web.
 7. [] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
