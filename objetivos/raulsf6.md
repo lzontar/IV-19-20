@@ -52,19 +52,19 @@
 
  ## Semana 5
 
-- [ ] Terminar la configuración de los sistemas de integración continua
-- [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
-- [ ] Entender los errores comunes en el hito 1.
-    - [ ] Comprender qué es un PR y resolver los problemas que pueden surgir.
-    - [ ] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
-        - [ ] Especialmente por qué los "usuarios" no intervienen en él.
-    - [ ] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
-    - [ ] Entender qué son los hitos, los issues y los commits.
-    - [ ] Entender qué es un API, un API REST.
-        - [ ] Entender que hay otros APIs diferentes.
-    - [ ] Entender qué va en un repo, y qué no va.
-- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [x] Entender los errores comunes en el hito 1.
+    - [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+    - [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+        - [x] Especialmente por qué los "usuarios" no intervienen en él.
+    - [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+    - [x] Entender qué son los hitos, los issues y los commits.
+    - [x] Entender qué es un API, un API REST.
+        - [x] Entender que hay otros APIs diferentes.
+    - [x] Entender qué va en un repo, y qué no va.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Semana 6
 
