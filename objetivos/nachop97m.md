@@ -29,3 +29,12 @@ Lista de objetivos de Ignacio Pineda Mochón
 - [x] Entender el formato JSON y su importancia (utilizados en el proyecto)
 - [x] Comprender la importancia de ficheros de herramientas de desarrollo.
 - [x] Herramientas de tests (añadida al repo del proyecto una primera aproximación)
+
+
+## Objetivos 2
+
+- [x] Entender bien el concepto de test.
+- [x] Comenzar la configuración de la integración continua.
+- [x] Comeprender el nivel de plataforma de la IV.
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [x] Entender errores del hito anterior.
