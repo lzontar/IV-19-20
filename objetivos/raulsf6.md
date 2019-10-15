@@ -49,3 +49,28 @@
 
 - [x]Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
  
+
+ ## Semana 5
+
+- [ ] Terminar la configuración de los sistemas de integración continua
+- [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [ ] Entender los errores comunes en el hito 1.
+    - [ ] Comprender qué es un PR y resolver los problemas que pueden surgir.
+    - [ ] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+        - [ ] Especialmente por qué los "usuarios" no intervienen en él.
+    - [ ] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+    - [ ] Entender qué son los hitos, los issues y los commits.
+    - [ ] Entender qué es un API, un API REST.
+        - [ ] Entender que hay otros APIs diferentes.
+    - [ ] Entender qué va en un repo, y qué no va.
+- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+## Semana 6
+
+- [ ] Terminar la configuración de los sistemas de integración continua
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [ ] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [ ] Entender conceptos relacionados con servicios web y su despliegue.
+- [ ] Probar herramientas de tests con servicios web.
+- [ ] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
