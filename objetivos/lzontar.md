@@ -45,3 +45,19 @@
 - [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 - [X] Entender el segundo hito del proyecto.
+
+ ## Semana 5 (Octubre 14)
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [x] Entender los errores comunes en el hito 1.
+- [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+- [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+- [x] Especialmente por qué los "usuarios" no intervienen en él.
+- [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+- [x] Entender qué son los hitos, los issues y los commits.
+- [x] Entender qué es un API, un API REST.
+- [x] Entender que hay otros APIs diferentes.
+- [x] Entender qué va en un repo, y qué no va.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
