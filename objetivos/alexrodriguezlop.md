@@ -15,6 +15,7 @@
    infraestructura.
 - [x] Empezar a usar [git y GitHub](https://rogerdudler.github.io/git-guide/index.es.html)
 
+
 ## Semana 2 (16 de septiembre)
 
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
