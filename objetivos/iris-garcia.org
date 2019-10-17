@@ -43,4 +43,11 @@
 - [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/2.CI][milestone 2]] before October 10 9:30.
 
 * Session 05
-- [ ] Understand what is an API and a REST API.
+- [X] Understand what is an API and a REST API.
+- [X] Add external documentation using GitHub Pages.
+- [X] Write unit test to cover at least 90% of the code.
+- [X] Resend the milestone 2
+- [ ] Complete the [[http://jj.github.io/IV/documentos/proyecto/3.Microservicios][milestone 3]].
+- [ ] Understand related concepts to web services and its deployment.
+- [ ] Elaborate the continuous integration workflows.
+- [ ] Try out test tools in web services.

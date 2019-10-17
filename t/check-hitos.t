@@ -101,6 +101,12 @@ SKIP: {
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
     doing("hito 3");
+    my ($buildtool) = ($README =~ m{(?:buildtool:)[^\n]+(\S+)\s+});
+    isnt( grep( /$buildtool/, @repo_files), 0, "$buildtool presente" );
+  }
+
+  if ( $this_hito > 3 ) { # Despliegue en algún lado
+    doing("hito 4");
     my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
     if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
