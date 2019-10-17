@@ -27,3 +27,17 @@
 - [x] Solucionar problemas hito 0. 
 - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 - [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+
+## Semana 4
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+  - [x] Librerías de aserciones y marcos de pruebas.
+  - [x] Descripciones de infraestructura
+  - [x] Herramientas de construcción.
+  - [x] Configuración de sistemas de integración continua.
+  - [x] Comenzar con la configuración de los sistemas de integración continua.
+
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Entender el segundo hito del proyecto
+- [x] Comprender los hooks de git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
