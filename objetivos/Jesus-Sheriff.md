@@ -50,14 +50,14 @@ Semana del 23 de Septiembre (3)
   * "Voy a hacer un microservicio que hace 40 cosas".
   * "Voy a hacer (cosas que|que|sistema que) haga x".
 
-- [ ] Entender qué son los objetivos y cómo hacerlos correctamente.
+- [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 
 
-- [ ] Entender lo que se pide en el
+- [x] Entender lo que se pide en el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
   al final de la semana y entregarlo al principio de la semana siguiente.
 
-- [ ] Entender el formato JSON y su importancia para ficheros de
+- [x] Entender el formato JSON y su importancia para ficheros de
   configuración e intercambio genérico de datos.
 
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo,
@@ -65,11 +65,40 @@ Semana del 23 de Septiembre (3)
   cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de
   otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
-- [ ] Comprender la utilidad de la virtualización y definición en un
+- [x] Comprender la utilidad de la virtualización y definición en un
   fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en
-  un proyecto.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
-- [ ] Comprender el papel de las *build tools* o herramientas de
+- [x] Comprender el papel de las *build tools* o herramientas de
   automatización.
+
+Semana del 30 de Septiembre (4)
+================================
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+    Librerías de aserciones y marcos de pruebas.
+    Descripciones de infraestructura
+    Herramientas de construcción.
+    Configuración de sistemas de integración continua.
+
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+Semana del 7 de Octubre (5)
+================================
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+Semana del 14 de Octubre (6)
+================================
+
+
+- [ ] Terminar la configuración de los sistemas de integración continua
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [ ] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+Entender conceptos relacionados con servicios web y su despliegue.
