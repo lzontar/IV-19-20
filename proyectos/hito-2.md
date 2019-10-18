@@ -2,7 +2,7 @@
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 2.1 |
 |ALONSO RAMOS, JOSE JAVIER | [Tocayo-JJ-Project](https://github.com/JJavier98/IV-Project) | **0.2.0 Reenvío** |
-|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.0.4-dev |
+|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | **0.0.4-dev Reenvío** |
 |ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.3 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.7 |
