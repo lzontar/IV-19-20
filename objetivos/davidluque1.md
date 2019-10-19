@@ -92,9 +92,9 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
    
-- [ ] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 
-- [ ] Asignatura y trabajos de fin de grado.
+- [x] Asignatura y trabajos de fin de grado.
 
 - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 
