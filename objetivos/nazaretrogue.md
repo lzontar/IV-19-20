@@ -93,13 +93,13 @@
 
 ## Sesión 6 (14 de octubre)
 
-1. [] Terminar la configuración de los sistemas de integración continua.
-2. [] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+1. [x] Terminar la configuración de los sistemas de integración continua.
+2. [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 3. [] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
-4. [] Entender conceptos relacionados con servicios web y su despliegue.
-5. [] Errores comunes en el hito 2 y reenvíos
+4. [x] Entender conceptos relacionados con servicios web y su despliegue.
+5. [x] Errores comunes en el hito 2 y reenvíos
     1. [x] Entender qué es un PR y cómo recuperarse de conflictos.
     2. [x] No usar ninguna herramienta de construcción.
-    3. [] No documentar herramienta de construcción ni CI.
+    3. [x] No documentar herramienta de construcción ni CI.
 6. [] Probar herramientas de tests con servicios web.
 7. [] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
