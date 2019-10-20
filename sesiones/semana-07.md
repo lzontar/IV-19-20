@@ -18,8 +18,7 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ## Material para la clase
 
-Seguimos con
-el
+Seguimos con el
 [tema de microservicios](http://jj.github.io/IV/documentos/temas/Microservicios) y
 el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Entrega el día 24 de octubre a las 11:30 de la mañana.
 
