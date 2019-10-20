@@ -57,8 +57,8 @@ Lista de objetivos Patricia Maldonado
 
 ## Quinta semana, 7 de octubre
 
-- [ ] Terminar la configuración de los sistemas de integración continua
-- [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
 
 Otros objetivos
 - [x] Entender los errores comunes en el hito 1.
@@ -69,5 +69,15 @@ Otros objetivos
 - [x] Entender qué es un API, un API REST.
 - [x] Entender que hay otros APIs diferentes.
 - [x] Entender qué va en un repo, y qué no va.
-- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+
+## Sexta semana, 14 de octubre
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [] Entender conceptos relacionados con servicios web y su despliegue.
+- [] Probar herramientas de tests con servicios web.
+- [] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
