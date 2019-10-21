@@ -28,7 +28,7 @@
 - [x] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-# Semana 3 (23 de septiembre)
+## Semana 3 (23 de septiembre)
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
@@ -59,7 +59,7 @@
 6. [x] Comprender los *hooks* de git.
 7. [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-# Semana 5 (7 de octubre)
+## Semana 5 (7 de octubre)
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
@@ -76,3 +76,12 @@
 - [x] Entender qué va en un repo, y qué no va.
 - [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Semana 6 (14 de octubre)
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
+- [x] Probar herramientas de tests con servicios web.
+- [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
