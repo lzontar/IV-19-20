@@ -6,6 +6,7 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 ## Objetivos de la semana
 
 1. Entender los mecanismos de configuración, arranque y gestión de servicios web.
+2. Entender los conceptos de tests de integración.
 2. Estudiar el nivel *plataforma* de la infraestructura virtual y su
    uso en prueba y producción y darse de alta en alguno.
 
@@ -20,7 +21,7 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 Seguimos con el
 [tema de microservicios](http://jj.github.io/IV/documentos/temas/Microservicios) y
-el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Entrega el día 24 de octubre a las 11:30 de la mañana.
+el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). *Retrasamos la entrega*: día 28 de octubre a las 11:30 de la mañana.
 
 ## Siguiente semana
 
