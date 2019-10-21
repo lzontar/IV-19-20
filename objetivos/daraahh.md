@@ -45,3 +45,10 @@ Ejercicios de autoevaluación: [Introducción, concepto y soporte físico.](http
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Sexta semana
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
