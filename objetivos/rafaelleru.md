@@ -63,3 +63,10 @@
 [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 [x] Comprender los *hooks* de git.
 [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+
+### Otros objetivos de la Semana
+- [x] Errores comunes en el hito 2 y reenvíos
+  - [x] No documentar herramienta de construcción ni CI.
+  - [x] No añadir la segunda herramienta de CI
+- [x] Probar herramientas de tests con servicios web.
+- [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
