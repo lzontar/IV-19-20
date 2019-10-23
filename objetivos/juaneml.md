@@ -52,3 +52,5 @@
 
 4. - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
+5. - [x] Comprender funcionamiento de Jenkins.
+6. - [x] Comprender como funciona herramienta de construcción para el proyecto.
