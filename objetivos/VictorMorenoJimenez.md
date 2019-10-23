@@ -95,3 +95,13 @@ al final de la semana y entregarlo al principio de la semana siguiente.
 * Comprender los *hooks* de git.
 * Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
 
+# Semana del 14 de Octubre
+
+## Objetivos de la semana
+
+1. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [X] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+
