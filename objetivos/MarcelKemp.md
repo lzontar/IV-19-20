@@ -72,4 +72,22 @@
 
 - [x] Terminar la configuración de los sistemas de integración continua
 
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+- [ ] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
+
+## Semana 7
+
+- [ ] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+
+- [x] Entender los conceptos de tests de integración.
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+## Semana 8
+
+- [ ] Entender los mecanismos de configuración y arranque de servicios web.
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
