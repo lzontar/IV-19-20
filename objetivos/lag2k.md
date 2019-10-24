@@ -54,7 +54,7 @@ Lista de objetivos de lag2k
 
 ### Otros objetivos
 
-- [x] Asignatura y trabajos de fin de grado.
+- [ ] Asignatura y trabajos de fin de grado.
 - [x] Entender el segundo hito del proyecto
 - [x] Comprender los hooks de git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
@@ -70,7 +70,7 @@ Lista de objetivos de lag2k
 Otros objetivos
 
 - [x] Entender los errores comunes en el hito 1.
-- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Sesión 06
@@ -78,14 +78,27 @@ Otros objetivos
 ### Objetivos de la semana
 
 - [x] Terminar la configuración de los sistemas de integración continua
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 - [x] Entender conceptos relacionados con servicios web y su despliegue.
 
 ### Otros objetivos
 
-- [ ] Recomendación especial hito 2.
-- [ ] Errores comunes en el hito 2 y reenvíos
-- [ ] Probar herramientas de tests con servicios web.
-- [ ] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+- [x] Recomendación especial hito 2.
+- [x] Errores comunes en el hito 2 y reenvíos
+- [x] Probar herramientas de tests con servicios web.
+- [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+## Sesión 07
+
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+### Otros objetivos
+
+- [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+- [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git
 
