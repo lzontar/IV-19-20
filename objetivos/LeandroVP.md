@@ -2,55 +2,84 @@
 
 ## Semana 1
 
-- [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
-- [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
+  - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
+  - [x] Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
    grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
-- [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
-- [x] Vernos las caras.
-- [x] Explicar el
+  - [x] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
+  - [x] Vernos las caras.
+  - [x] Explicar el
    [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
    de entrega: jueves 19 de septiembre, 9:30 de la mañana.
-- [x] Entender la importancia de metodologías ágiles como SCRUM en el
+   - [x] Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
-- [x] Empezar a usar git y GitHub. Por ejemplo,
+   - [x] Empezar a usar git y GitHub. Por ejemplo,
   [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
 
 ## Semana 2
-- [x] Comenzar a entender los conceptos fundamentales relacionados con la
-virtualización.
-- [x] Comprender las técnicas de cálculo del coste de amortización de un equipo
-informático y aplicarlo al cálculo del coste de uso de un recurso.
-- [x] Entender el soporte en hardware de las técnicas de virtualización y cómo
-se extiende ese soporte al núcleo de los sistemas operativos. Saber si el
-ordenador habitual lo usa.
-- [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
-- [x] Comprender el concepto de *X as a service* y comprender los criterios
-necesarios para su elección.
-- [x] Entender qué implica diseñar un proyecto que se irá elaborando durante
-la asignatura.
+  - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+  - [x] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
+  - [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+  - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
+  - [x] Comprender el concepto de *X as a service* y comprender los criterios necesarios para su elección.
+  - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 ## Semana 3
 
-- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+  - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+  - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+  - [ ] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+  - [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+  - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
+  - [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+  - [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+  - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+  - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+  - [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+  - [ ] Comprender el papel de las build tools o herramientas de automatización.
 
-- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+## Semana 4
 
-- [ ] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+  - [ ] Entender bien el concepto de test y herramientas necesarias para el mismo.
+  - [ ] Comenzar con la configuración de los sistemas de integración continua.
+  - [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+  - [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+  - [ ] Entender el segundo hito del proyecto
+  - [ ] Comprender los hooks de git.
+  - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-- [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+## Semana 5
 
-- [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 
-- [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+  - [ ] Terminar la configuración de los sistemas de integración continua
+  - [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+  - [ ] Comprender qué es un PR y resolver los problemas que pueden surgir.
+  - [ ] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo (Especialmente por qué los "usuarios" no intervienen en él.).
+  - [ ] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+  - [ ] Entender qué son los hitos, los issues y los commits.
+  - [ ] Entender qué es un API, un API REST.
+  - [ ] Entender que hay otros APIs diferentes.
+  - [ ] Entender qué va en un repo, y qué no va.
+  - [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+  - [ ] Comprender los mecanismos de despliegue automático a través de git.
 
-- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+## Semana 6
+  - [ ] Terminar la configuración de los sistemas de integración continua
+  - [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+  - [ ] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+  - [ ] Entender conceptos relacionados con servicios web y su despliegue.
+  - [ ] Probar herramientas de tests con servicios web.
+  - [ ] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
 
-- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
-- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+## Semana 7
+  - [ ] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+  - [ ] Entender los conceptos de tests de integración.
+  - [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+  - [ ] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+  - [ ] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+  - [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+  - [ ] Comprender los mecanismos de despliegue automático a través de git
 
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-
-- [ ] Comprender el papel de las build tools o herramientas de automatización.
+## Semana 8
