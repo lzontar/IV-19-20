@@ -21,7 +21,7 @@
 |GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | **v2.1** |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| [wallysFinder](https://github.com/antoni-heredia/WallysFinder) | v0.2.0 |
-|KEMP MUÑOZ, MARCEL | | |
+|KEMP MUÑOZ, MARCEL | [Proyecto_IV - Dealer](https://github.com/MarcelKemp/Proyecto_IV) | 2.1 |
 |LEYVA RUIZ, RAFAEL | [AI remote stream](https://github.com/rafaelleru/iv) | 0.2.1 **Reenvio** |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | [ProyectoIV](https://github.com/davidluque1/ProyectoIV) | 2.0 **Reenvío** |
