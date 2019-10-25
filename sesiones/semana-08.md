@@ -1,11 +1,10 @@
-# Séptima sesión, comienza el 21 de octubre
+# Séptima sesión, comienza el 28 de octubre
 
-**Importante** continúa el *hacktoberfest*. Buscad *issues* con la
+**Importante** en unos días termina el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ## Objetivos de la semana
 
-1. Entender los mecanismos de configuración y arranque de servicios web.
 2. Estudiar el nivel *plataforma* de la infraestructura virtual y su
    uso en prueba y producción y darse de alta en alguno.
 
@@ -13,17 +12,15 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 ## Otros objetivos
 
 * Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-* Comprender los mecanismos de despliegue automático a través de git
+* Comprender los mecanismos de despliegue automático a través de git.
 
 ## Material para la clase
 
-Seguimos con
-el
-[tema de microservicios](http://jj.github.io/IV/documentos/temas/Microservicios) y
-el [tercer hito del proyecto]().
+Ya se debe haber entregado el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Continuamos con el tema dedicado al
+[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y por tanto el [cuarto hito del proyecto]().
 
 ## Siguiente semana
 
-[Séptima semana](semana-07.md).
+[Novena semana](semana-09.md).
 
 
