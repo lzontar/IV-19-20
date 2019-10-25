@@ -1,7 +1,9 @@
-# Séptima sesión, comienza el 28 de octubre
+# Octava sesión, comienza el 28 de octubre
 
 **Importante** en unos días termina el *hacktoberfest*. Buscad *issues* con la
-etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
+etiqueta *hacktoberfest* y referenciarlos al hacer los pull
+request. Hacer lo posible por asistir
+al [curso de test](https://jj.github.io/curso-tdd). 
 
 ## Objetivos de la semana
 
@@ -17,7 +19,10 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 ## Material para la clase
 
 Ya se debe haber entregado el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Continuamos con el tema dedicado al
-[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y por tanto el [cuarto hito del proyecto]().
+[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y
+por tanto
+el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que
+    tendrá de plazo hasta el **11 de noviembre**.
 
 ## Siguiente semana
 
