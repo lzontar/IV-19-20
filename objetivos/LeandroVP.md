@@ -1,3 +1,10 @@
+# Objetivos personales
+
+## Hito 1
+  - [x] Revisar enlaces en el markdown
+  - [x] Añadir lo que se necesitaría para la infraestructura del microservicio
+
+
 # Objetivos de las sesiones
 
 ## Semana 1
