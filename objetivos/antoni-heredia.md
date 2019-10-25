@@ -50,3 +50,15 @@
  * - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
  * - [x] Comprender los *hooks* de git.
  * - [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+
+## Semana 05
+
+1. - [] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+2. - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+3. - [x] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+
+4. - [x]  Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+5. - [] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
