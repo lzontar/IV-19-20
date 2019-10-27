@@ -48,6 +48,21 @@
 - [X] Write unit test to cover at least 90% of the code.
 - [X] Resend the milestone 2
 - [ ] Complete the [[http://jj.github.io/IV/documentos/proyecto/3.Microservicios][milestone 3]].
-- [ ] Understand related concepts to web services and its deployment.
-- [ ] Elaborate the continuous integration workflows.
-- [ ] Try out test tools in web services.
+- [X] Understand related concepts to web services and its deployment.
+- [X] Elaborate the continuous integration workflows.
+- [X] Try out test tools in web services.
+
+* Session 06
+- [X] Request an individual appointment with JJ to clarify the
+  requirements for the [[http://jj.github.io/IV/documentos/proyecto/3.Microservicios][milestone 3]].
+- [X] Understand web services common topics and how to deploy them.
+- [X] Research for a Go test framework which fits good for my project.
+- [X] Research of a buildtool like Make which fits good for my
+  project.
+- [ ] Update the documentation with the comments from the previous
+  milestone.
+
+* Session 07
+- [X] Understand the platform level of a virtual infrastructure and its usage in dev and production.
+- [X] Read and understand the concepts of integration tests.
+- [ ] Write some integration tests (mainly to test the mysql driver).
