@@ -49,7 +49,7 @@
 |ROMAN GUERRERO, NAZARET | | |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.4 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL |[NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.4 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.5|
