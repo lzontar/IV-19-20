@@ -25,4 +25,22 @@ Fecha de entrega: jueves 19 de septiembre, 9:30 de la mañana.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
+## Semana del 23 de septiembre
 
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+ - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación
+
+## Semana del 30 de Septiembre
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Entender el segundo hito del proyecto
+- [x] Comprender los hooks de git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
