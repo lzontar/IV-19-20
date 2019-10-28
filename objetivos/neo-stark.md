@@ -60,3 +60,12 @@
 ## Semana 6 - 14/10
 
 * [x]Reenvío hito 2
+* [x]Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+* [x]Entender conceptos relacionados con servicios web y su despliegue.
+
+## Semana 7 - 21/10
+
+* [x]Probar diferentes build tools para php - Phing y make
+* [x]Entender los conceptos comunes a los mismos (targets, por ejemplo).
+* [x]Entender los mecanismos de configuración, arranque y gestión de servicios web.
+* [x]Entender los conceptos de tests de integración.
