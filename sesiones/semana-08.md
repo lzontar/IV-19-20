@@ -15,6 +15,7 @@ al [curso de test](https://jj.github.io/curso-tdd).
 
 * Recomendaciones:
   * Primera entrega: [Ángel Hódar](https://github.com/angelhodar/NotasIV).
+* Comentar las principales dificultades en el hito 2.
 * Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 * Comprender los mecanismos de despliegue automático a través de git.
 
