@@ -74,3 +74,12 @@
 - [x] Entender conceptos relacionados con servicios web y su despliegue.
 - [x] Probar herramientas de tests con servicios web.
 - [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+## Semana 7
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [ ] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Probar diferentes *build tools* para un lenguaje determinado, para familiarizarse con los mismos.
+- [x] Entender los conceptos comunes a los mismos (*targets*, por ejemplo).
+- [ ] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git

@@ -38,3 +38,13 @@ Lista de objetivos de Ignacio Pineda Mochón
 - [x] Comeprender el nivel de plataforma de la IV.
 - [x] Terminar la configuración de los sistemas de integración continua.
 - [x] Entender errores del hito anterior.
+
+## Objetivos 3
+
+- [x] Terminar la configuración de integración continua.
+- [x] Comeprender el nivel de plataforma de la IV y darse de alta en alguno (Heroku).
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
+- [x] Arreglar pequeños issues del hito anterior.
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.

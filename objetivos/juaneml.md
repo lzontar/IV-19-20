@@ -54,3 +54,38 @@
 
 5. - [x] Comprender funcionamiento de Jenkins.
 6. - [x] Comprender como funciona herramienta de construcción para el proyecto.
+
+**Otros objetivos**
+
+- [x] Entender el [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+- [x] Comprender los hooks de git.
+
+
+## Semana del 7 de octubre
+- [x] 1. Terminar la configuración de los sistemas de integración continua.
+- [x] 2. Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+**Otros objetivos**
+
+- [x] Entender los errores comunes en el hito 1.
+- [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
+- [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
+- [x] Especialmente por qué los "usuarios" no intervienen en él.
+- [x] Entender qué es la infraestructura virtual, cómo buscarla y cómo describirla.
+- [x]Entender qué son los hitos, los issues y los commits.
+- [x] Entender qué es un API, un API REST.
+- [x] Entender que hay otros APIs diferentes.
+- [x] Entender qué va en un repo, y qué no va.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Semana del 14 de octubre
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
+
+## Semana del 21 de octubre
+
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.

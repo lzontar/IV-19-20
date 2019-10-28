@@ -1,8 +1,8 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-|ABAD TARIFA, DARIO | | |
+|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 3.0 |
 |ALONSO RAMOS, JOSE JAVIER | | |
-|ALVAREZ, LUIS | | |
+|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1.14 |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.8 |
@@ -25,7 +25,7 @@
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | | |
-|MALDONADO MANCILLA, PATRICIA | | |
+|MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.4|
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
@@ -49,7 +49,7 @@
 |ROMAN GUERRERO, NAZARET | | |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.4 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL |[NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.4 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.5|
