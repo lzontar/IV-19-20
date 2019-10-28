@@ -13,6 +13,8 @@ al [curso de test](https://jj.github.io/curso-tdd).
 
 ## Otros objetivos
 
+* Recomendaciones:
+  * Primera entrega: [Ángel Hódar](https://github.com/angelhodar/NotasIV).
 * Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 * Comprender los mecanismos de despliegue automático a través de git.
 
