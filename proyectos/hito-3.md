@@ -31,7 +31,7 @@
 |MARTINEZ MORENO, PRAXEDES | | |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.5 |
-|MORENO LOPEZ, JUAN ESTEBAN |[ProyectoIV](https://github.com/juaneml/IV_1920_Proyecto) |v.0.8 |
+|MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | | |
