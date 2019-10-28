@@ -70,3 +70,13 @@ equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
 * Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 * Comprender los *hooks* de git.
 * Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+# Semana del 14 de octubre
+
+## Objetivos de la semana
+
+1. [X] Terminar la configuración de los sistemas de integración continua
+2. [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+3. [X] Entender el desarrollo de un servicio web en sus diferentes capas y
+   como se relacionan unas con otras.
+4. [X] Entender conceptos relacionados con servicios web y su despliegue.
