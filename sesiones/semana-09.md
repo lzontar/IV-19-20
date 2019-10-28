@@ -10,7 +10,6 @@
 
 ## Otros objetivos
 
-1. Continuar con el  [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
@@ -22,8 +21,7 @@
 Empezamos  con el tema dedicado a los
 [contenedores](http://jj.github.io/IV/documentos/temas/Contenedores).
 
-Al principio de la semana siguiente, terminar el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que
-    tendrá de plazo hasta el **11 de noviembre**.
+Explicamos el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que tendrá de plazo hasta el **16 de noviembre**.
 
 ## Siguiente semana
 

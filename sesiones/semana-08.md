@@ -21,11 +21,10 @@ al [curso de test](https://jj.github.io/curso-tdd).
 
 ## Material para la clase
 
-Ya se debe haber entregado el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Continuamos con el tema dedicado al
-[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y
-por tanto
-el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que
-    tendrá de plazo hasta el **11 de noviembre**.
+Ya se debe haber entregado el [tercer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Microservicios). Empezamos con el tema dedicado al
+[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS).
+
+Retrasamos la entrega del hito 3 hasta el **31 de octubre** a las 11:30 de la mañana, al final de la clase de prácticas.
 
 ## Siguiente semana
 
