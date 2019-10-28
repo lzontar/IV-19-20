@@ -49,6 +49,14 @@
 
 ## Semana 6
 - [x] Terminar la configuración de los sistemas de integración continua
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. Leyendo sobre OpenShift
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. Leyendo sobre OpenShift
 - [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 - [x] Entender conceptos relacionados con servicios web y su despliegue. Leidos los temas.
+
+## Semana 7
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [ ] Entender los conceptos de tests de integración.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. [Imagen de registro en Heroku](https://github.com/jscoba/IV-autoevaluacion/blob/master/objetivos/s7-heroku.png)
+
+## Semana 8
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. [Imagen de registro en Heroku](https://github.com/jscoba/IV-autoevaluacion/blob/master/objetivos/s7-heroku.png)
