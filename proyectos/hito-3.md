@@ -29,7 +29,7 @@
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
-|MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.4 |
+|MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.5 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
