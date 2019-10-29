@@ -62,7 +62,7 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 
 # Semana del 14 de octubre
 
-## Objetivos de la semana
+## Objetivos a cubrir en la sesión
 
 1. [X] Terminar la configuración de los sistemas de integración continua
 2. [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
@@ -76,3 +76,19 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 * [X] No documentar herramienta de construcción ni CI.
 * [X] Probar herramientas de tests con servicios web.
 * [X] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+# Semana del 21 de octubre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+2. [X] Entender los conceptos de tests de integración.
+2. [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su
+   uso en prueba y producción y darse de alta en alguno.
+
+## Otros objetivos
+
+* [X] Probar diferentes *build tools* para un lenguaje determinado, para familiarizarse con los mismos.
+* [X] Entender los conceptos comunes a los mismos (*targets*, por ejemplo).
+* [X] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+* [X] Comprender los mecanismos de despliegue automático a través de git
