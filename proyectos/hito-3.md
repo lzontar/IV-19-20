@@ -1,6 +1,6 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-|ABAD TARIFA, DARIO | | |
+|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 3.0 |
 |ALONSO RAMOS, JOSE JAVIER | | |
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1.14 |
 |ARENAS MARTINEZ, MARTA| | |
@@ -25,11 +25,11 @@
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | | |
-|MALDONADO MANCILLA, PATRICIA | | |
+|MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.4|
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
-|MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.4 |
+|MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.5 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
@@ -39,7 +39,7 @@
 |PERALTA CAMARA, VICTOR | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | | |
-|PINEDA MOCHON, IGNACIO | | |
+|PINEDA MOCHON, IGNACIO |[IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.4 |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.3 |
