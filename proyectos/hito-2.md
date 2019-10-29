@@ -37,7 +37,7 @@
 |NIKOLOV VASILEV, VLADISLAV | [VocabulaRBy](https://github.com/Vol0kin/VocabulaRBy) | 0.2.1 **Reenvío** |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | **2.3** |
-|PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 1.1 |
+|PEREZ LENDINEZ, JOSE MANUEL | [AlineacionBaloncesto](https://github.com/jmplz14/AlineacionBaloncesto) | 1.2 **Reenvío** |
 |PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.5 **Reenvío** |
 |PINEDA MOCHON, IGNACIO | [IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.2 |
 |POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.2.1 |
