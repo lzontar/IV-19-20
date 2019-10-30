@@ -71,7 +71,7 @@ recurso.
 - [x] Entender qué es un API, un API REST.
 - [x] Entender que hay otros APIs diferentes.
 - [x] Entender qué va en un repo, y qué no va.
-- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [ ] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Sexta sesión
