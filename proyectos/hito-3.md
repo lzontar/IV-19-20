@@ -32,7 +32,7 @@
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.5 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
-|MUÑOZ HERRERA, JOSE ANTONIO | | |
+|MUÑOZ HERRERA, JOSE ANTONIO |[MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v1.0 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | | |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
