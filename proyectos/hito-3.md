@@ -38,7 +38,7 @@
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | | |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
-|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.6t |
+|PEREZ TERRON, JESUS MANUEL | | |
 |PINEDA MOCHON, IGNACIO |[IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.4 |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
