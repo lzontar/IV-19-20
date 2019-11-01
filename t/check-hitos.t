@@ -99,9 +99,9 @@ SKIP: {
     }
   }
 
-  if ( $this_hito > 2 ) { # Despliegue en algún lado
+  if ( $this_hito > 2 ) { # Usando la buildtool para desplegar microservicio
     doing("hito 3");
-    my ($buildtool) = ($README =~ m{(?:buildtool:)[^\n]+(\S+)\s+});
+    my ($buildtool) = ($README =~ m{(?:buildtool:)\s+(\S+)\s+});
     isnt( grep( /$buildtool/, @repo_files), 0, "$buildtool presente" );
   }
 
