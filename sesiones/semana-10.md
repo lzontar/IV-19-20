@@ -1,4 +1,4 @@
-# Novena semana, comienza el 4 de Noviembre
+# Décima semana, comienza el 11 de Noviembre
 
 ## Objetivos de la semana
 
@@ -10,6 +10,7 @@
 
 ## Otros objetivos
 
+1. Continuar con el  [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
@@ -18,10 +19,7 @@
 
 ## Material para la clase
 
-Empezamos  con el tema dedicado a los
-[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores).
 
-Explicamos el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que tendrá de plazo hasta el **16 de noviembre**.
 
 ## Siguiente semana
 

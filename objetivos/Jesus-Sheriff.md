@@ -98,7 +98,21 @@ Semana del 14 de Octubre (6)
 ================================
 
 
-- [ ] Terminar la configuración de los sistemas de integración continua
+- [x] Terminar la configuración de los sistemas de integración continua
 - [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
-- [ ] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 Entender conceptos relacionados con servicios web y su despliegue.
+
+Semana del 21 de octubre (7)
+============================
+
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+Semana del 28 de octubre (8)
+============================
+
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+#### Objetivo personal:
+- [ ] Instalación de Ubuntu terminada en dual boot.
