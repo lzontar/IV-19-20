@@ -5,7 +5,7 @@
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.1.14 |
 |ARENAS MARTINEZ, MARTA|[MyMedia](https://github.com/MartaArM/proyectoIV1920)| 1.4.2 |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | | 0.8 |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.9 |
 |CEREZO SANCHEZ, PABLO | | |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | | |
