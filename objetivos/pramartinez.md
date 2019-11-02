@@ -81,3 +81,39 @@
 #### Otros objetivos de la semana
 - [X] Probar herramientas de tests con servicios web.
 - [X] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+# Semana del 21 de octubre
+
+- [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [X] Entender los conceptos de tests de integración.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+#### Otros objetivos de la semana
+
+- [X] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+- [ ] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+# Semana del 28 de octubre
+
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+# Otros objetivos de la semana
+
+- [X] Comentar las principales dificultades en el hito 2.
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+# Semana del 4 de noviembre
+
+- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.
+
+# Otros objetivos de la semana
+
+- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar ejercicio para crédito adicional.
+- [ ] Usar imágenes de docker publicadas.
