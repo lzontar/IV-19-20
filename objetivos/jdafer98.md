@@ -64,7 +64,7 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 11. [x] Comprender el papel de las build tools o herramientas de automatización.
 
 
-#Objetivos cuarta semana
+# Objetivos cuarta semana
 
 1. [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
    1. Librerías de aserciones y marcos de pruebas.
@@ -85,7 +85,7 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 * [x] Comprender los *hooks* de git.
 * [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-##Objetivos Quinta semana
+## Objetivos Quinta semana
 
 
 1. [x] Terminar la configuración de los sistemas de integración continua
@@ -108,4 +108,26 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 * [x] Comprender los mecanismos de despliegue automático a través de git.
 
 [x] Reenvio
+
+## Objetivos Sexta semana
+
+
+1. [x] Terminar la configuración de los sistemas de integración continua
+2. [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+3. [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+4. [x] Entender conceptos relacionados con servicios web y su despliegue.
+
+## Objetivos Séptima semana
+
+
+1. [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+2. [x] Entender los conceptos de tests de integración.
+3. [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+
+ -  Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+ -  Entender los conceptos comunes a los mismos (targets, por ejemplo).
+ -  Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+ -  Comprender los mecanismos de despliegue automático a través de git
+
 
