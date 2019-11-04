@@ -102,6 +102,7 @@ SKIP: {
   if ( $this_hito > 2 ) { # Usando la buildtool para desplegar microservicio
     doing("hito 3");
     my ($buildtool) = ($README =~ m{(?:buildtool:)\s+(\S+)\s+});
+    isnt( $buildtool, '', "No he podido encontrar el fichero de build" );
     isnt( grep( /$buildtool/, @repo_files), 0, "$buildtool presente" );
   }
 
