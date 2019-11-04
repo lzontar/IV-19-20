@@ -103,3 +103,4 @@
     3. [x] No documentar herramienta de construcción ni CI.
 6. [x] Probar herramientas de tests con servicios web.
 7. [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+8. [x] Reenvío completado.
