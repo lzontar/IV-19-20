@@ -14,7 +14,7 @@
 |DEMIREL , HELIN | | |
 |GALDO SEIQUER, ANTONIO | | |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
-|GARCIA DE SEBASTIAN, IRIS | [Workday](https://github.com/iris-garcia/workday) | *v1.2.1* |
+|GARCIA DE SEBASTIAN, IRIS | [Workday](https://github.com/iris-garcia/workday) | *v1.2.2* |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | 1.0 |
 |GARCIA PRADOS, SERGIO | | |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | 1.0 |
