@@ -59,10 +59,11 @@
 - [X] Research for a Go test framework which fits good for my project.
 - [X] Research of a buildtool like Make which fits good for my
   project.
-- [ ] Update the documentation with the comments from the previous
+- [X] Update the documentation with the comments from the previous
   milestone.
 
 * Session 07
 - [X] Understand the platform level of a virtual infrastructure and its usage in dev and production.
 - [X] Read and understand the concepts of integration tests.
+- [X] Re-sends milestone 3.
 - [ ] Write some integration tests (mainly to test the mysql driver).
