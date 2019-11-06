@@ -26,6 +26,8 @@
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Entender la metodología TDD.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Cambiar el marco de trabajo de desarrollo de **.Net Framework** a **.Net Core** para la posible integración continua en Travis-CI y el resto de software que prescinda de una máquina Linux.
 
 ## Otros objetivos
 
