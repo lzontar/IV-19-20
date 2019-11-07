@@ -1,4 +1,4 @@
-# Sexta sesión, comienza el 21 de octubre
+# Séptima sesión, comienza el 21 de octubre
 
 **Importante** continúa el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
