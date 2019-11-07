@@ -7,7 +7,7 @@
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 0.9 |
 |CEREZO SANCHEZ, PABLO | | |
-|COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual) | 0.0.4 |
+|COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual)| 0.0.5 |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.1.6 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
