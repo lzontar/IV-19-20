@@ -46,7 +46,7 @@
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
-|ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.3.1 |
+|ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.3.2 **Reenvío** |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.5 |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL |[NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.4 |
