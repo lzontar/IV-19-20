@@ -84,3 +84,20 @@
 - [x] Entender qué va en un repo, y qué no va.
 - [x] Entender cómo extender clases con un API REST o uno basado en tareas.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Semana del 14 de octubre
+
+- [X] Terminar la configuración de los sistemas de integración continua.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [X] Entender conceptos relacionados con servicios web y su despliegue.
+
+#### Otros objetivos de la semana
+- [X] Probar herramientas de tests con servicios web.
+- [X] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+
+# Semana del 21 de octubre
+
+- [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [X] Entender los conceptos de tests de integración.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
