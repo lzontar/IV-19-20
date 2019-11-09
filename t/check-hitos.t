@@ -108,7 +108,7 @@ SKIP: {
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     doing("hito 4");
-    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
+    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment):\s+(https://\S+)\b});
     if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
     } else {
@@ -116,8 +116,8 @@ SKIP: {
     }
     ok( $deployment_url, "URL de despliegue hito 3");
   SKIP: {
-      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
-      my $status = $ua->get($deployment_url);
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
+      my $status = $ua->get("$deployment_url/status");
       if ( ! $status || $status =~ /html/ ) {
 	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
@@ -130,7 +130,7 @@ SKIP: {
     }
   }
 
-  if ( $this_hito > 3 ) { # Despliegue en algún lado
+  if ( $this_hito > 4 ) { # Despliegue en algún lado
     doing("hito 4");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
     if ( $deployment_url ) {
