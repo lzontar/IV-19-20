@@ -134,3 +134,7 @@ Otros objetivos
 - [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
 - [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git
+
+## Octava sesión, comienza el 28 de octubre
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
