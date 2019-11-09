@@ -105,3 +105,7 @@ al final de la semana y entregarlo al principio de la semana siguiente.
 4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 5. [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
+## Reenvio
+1. [X] Se incorpora pm2
+2. [X] Se documenta la buildtool
+3. [X] Otras modificaciones en los endpoints
