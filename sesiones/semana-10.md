@@ -10,7 +10,7 @@
 
 ## Otros objetivos
 
-1. Continuar con el  [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
+1. Continuar con el [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
@@ -19,9 +19,11 @@
 
 ## Material para la clase
 
+Seguimos con el tema dedicado a las [PaaS](http://jj.github.io/IV/documentos/temas/PaaS).
 
+Esta semana se habrá entregado [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS), el **16 de noviembre**.
 
 ## Siguiente semana
 
-[Décima semana](semana-10.md). 
+[Undécima semana](semana-11.md). 
 

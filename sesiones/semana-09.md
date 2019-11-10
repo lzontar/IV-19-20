@@ -23,13 +23,11 @@
 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
-1. Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
 2. Usar imágenes de docker publicadas. 
 
 ## Material para la clase
 
-Empezamos  con el tema dedicado a los
-[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores).
+Seguimos con el tema dedicado a las [PaaS](http://jj.github.io/IV/documentos/temas/PaaS).
 
 Explicamos el [cuarto hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.PaaS) que tendrá de plazo hasta el **16 de noviembre**.
 
