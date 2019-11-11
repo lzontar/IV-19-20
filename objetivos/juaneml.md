@@ -100,10 +100,11 @@
 
 ## Semana 28 de octubre
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
-- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
-- [x] Entender el uso de un gestro de tareas para lanzar y para la aplicación.
-- [x] Entender y documentar herramienta de construcción. 
+**Otros objetivos**
+- [x] Entender el mecanismo de herramienta de construcción.
+- [x] Uso de herramienta de construción en travis.
+   
 
 ## Semana 4 de Noviembre
 
@@ -112,4 +113,3 @@
 - [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] 4. Entender las arquitecturas software basadas en contenedores.
   
-
