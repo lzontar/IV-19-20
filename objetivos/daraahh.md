@@ -60,3 +60,16 @@ Ejercicios de autoevaluación: [Introducción, concepto y soporte físico.](http
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
 - [x] Comprender los mecanismos de despliegue automático a través de git
+
+## Octava semana
+
+- [x] Estudiar el nivel de plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web Apps.
+
+## Novena semana
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Instalar Docker y empezar a trabajar con él.
