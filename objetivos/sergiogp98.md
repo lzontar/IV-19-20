@@ -49,4 +49,27 @@ recurso.
 
 ## Semana del 7 de octubre
 [x] Terminar la configuración de los sistemas de integración continua
-[ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+[x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+## Semana del 14 de octubre 
+[x] Terrminar la configuración de los sistemas de integración continua
+[x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+[x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+[x] Entender conceptos relacionados con servicios web y su despliegue.
+
+## Semana del 21 de octubre
+[x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+[x] Entender los conceptos de tests de integración.
+[x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+## Semana del 28 de octubre
+[x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+## Semana del 4 de noviembre
+[x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+[x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] Entender las arquitecturas software basadas en contenedores.
+
+## Semana del 11 de noviembre
+
