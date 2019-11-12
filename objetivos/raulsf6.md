@@ -85,5 +85,4 @@
 - [x] Comprender los mecanismos de despliegue automático a través de git
 
 ## Semana 8
-
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
