@@ -24,3 +24,31 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+## Cuarta semana
+
+- [x] Entender bien el concepto de test y herramientas necesarias para el mismo.
+  - [x] Librerías de aserciones y marcos de pruebas.
+  - [x] Descripciones de infraestructura
+  - [x] Herramientas de construcción.
+  - [x] Configuración de sistemas de integración continua.
+  - [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+## Quinta semana
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+## Sexta semana
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
+
+## Séptima semana
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.

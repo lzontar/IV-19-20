@@ -52,4 +52,4 @@
 |SANCHEZ FERNANDEZ, RAUL |[NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.7 **Reenvío** |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
-|ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.5|
+|ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.5.1 **Reenvío** |

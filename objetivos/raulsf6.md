@@ -76,6 +76,7 @@
 - [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
 
 ## Semana 7
+
 - [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
 - [x] Entender los conceptos de tests de integración.
 - [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
