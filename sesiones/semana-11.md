@@ -13,7 +13,7 @@
 1. Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
-2. Usar imágenes de docker publicadas. 
+2. Usar imágenes de docker publicadas.
 
 
 ## Material para la clase
@@ -22,7 +22,8 @@ Empezamos  con el tema dedicado a los
 [contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y
 comenzamos con
 el
-[5º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/5.Docker).
+[5º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/5.Docker),
+que se entregará el **28 de noviembre**.
 
 
 ## Siguiente semana
