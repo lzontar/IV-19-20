@@ -44,7 +44,7 @@
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.3 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
-|RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.3 **Envío tarde** |
+|RODRIGUEZ PEREZ, JESUS | [ProyectoIV](https://github.com/jesusrpII/Proyecto-IV)| 0.3 **Reenvío** |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.3.2 **Reenvío** |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.5 |
