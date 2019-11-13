@@ -91,4 +91,4 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 * [X] Probar diferentes *build tools* para un lenguaje determinado, para familiarizarse con los mismos.
 * [X] Entender los conceptos comunes a los mismos (*targets*, por ejemplo).
 * [X] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-* [X] Comprender los mecanismos de despliegue automático a través de git
+* [X] Comprender los mecanismos de despliegue automático a través de git 
