@@ -64,7 +64,7 @@
 - [x] Asignatura y trabajos de fin de grado.
 - [x] Entender el segundo hito del proyecto
 - [ ] Comprender los hooks de git.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 
 ## Semana del 5 de Octubre
@@ -73,6 +73,7 @@
 - [x] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
 
 ## Otros objetivos
+
 - [x] Entender los errores comunes en el hito 1.
 - [x] Comprender qué es un PR y resolver los problemas que pueden surgir.
 - [x] Entender qué es un microservicio o un servicio basado en eventos y cómo usarlo.
@@ -87,17 +88,48 @@
 
 ## Semana del 14 de octubre
 
-- [X] Terminar la configuración de los sistemas de integración continua.
-- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
-- [X] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
-- [X] Entender conceptos relacionados con servicios web y su despliegue.
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
+- [x] Entender conceptos relacionados con servicios web y su despliegue.
 
-#### Otros objetivos de la semana
-- [X] Probar herramientas de tests con servicios web.
-- [X] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
+#### Otros objetivos
+
+- [x] Probar herramientas de tests con servicios web.
+- [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
 
 # Semana del 21 de octubre
 
-- [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
-- [X] Entender los conceptos de tests de integración.
-- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+#### Otros objetivos
+
+- [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+- [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+# Semana del 28 de octubre
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+# Otros objetivos
+
+- [x] Comentar las principales dificultades en el hito 2.
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
+
+# Semana del 4 de noviembre
+
+- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.
+
+# Otros objetivos
+
+- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar ejercicio para crédito adicional.
+- [ ] Usar imágenes de docker publicadas.
