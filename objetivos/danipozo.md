@@ -72,6 +72,10 @@ informático y aplicarlo al cálculo del coste de uso de un recurso.
       se relacionan unas con otras.
 - [x] Entender conceptos relacionados con servicios web y su despliegue.
 
+## Semana 13
+
+- [x] Aplicar correcciones del hito 3.
+
 ## Otros objetivos
 
 - [x] Poner de relieve los problemas que haya podido haber en el hito cero y
