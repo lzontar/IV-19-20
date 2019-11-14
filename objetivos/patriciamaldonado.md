@@ -70,13 +70,13 @@ Otros objetivos
 - [x] Entender que hay otros APIs diferentes.
 - [x] Entender qué va en un repo, y qué no va.
 - [x] Entender cómo extender clases con un API REST o uno basado en tareas.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
 
 
 ## Sexta semana, 14 de octubre
 
 - [x] Terminar la configuración de los sistemas de integración continua
-- [] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 - [x] Entender conceptos relacionados con servicios web y su despliegue.
 - [x] Probar herramientas de tests con servicios web.
@@ -86,11 +86,36 @@ Otros objetivos
 
 - [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
 - [x] Entender los conceptos de tests de integración.
-- [] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
 Otros objetivos
 
-- [] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
-- [] Entender los conceptos comunes a los mismos (targets, por ejemplo).
-- [] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-- [] Comprender los mecanismos de despliegue automático a través de git
+- [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+- [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git
+
+
+## Octava semana, 28 de octubre
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+Otros objetivos
+
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+
+
+
+# Novena semana, 4 de Noviembre
+
+- [] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [] Entender la base del aislamiento de recursos en el sistema operativo.
+- [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [] Entender las arquitecturas software basadas en contenedores.
+
+Otros objetivos
+
+- [x] Entender los errores frecuentes en el hito 3
+- [] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [] Usar imágenes de docker publicadas.
