@@ -102,25 +102,12 @@
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
-- [x] Entender el uso de un gestro de tareas para lanzar y para la aplicación.
-- [x] Entender y documentar herramienta de construcción. 
-
-## Semana 4 de Noviembre
-
-<<<<<<< HEAD
-**Otros objetivos**
-- [x] Entender el mecanismo de herramienta de construcción.
-- [x] Uso de herramienta de construción en travis.
+- [x] Entender el uso de un gestor de tareas para lanzar y para la aplicación.
+- [x] Entender y documentar herramienta de construcción.
    
-
-## Semana 4 de Noviembre
-=======
-- [x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual.
-- [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
-- [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [x] 4. Entender las arquitecturas software basadas en contenedores.
+- [x] Entender el uso y configuración de circleci.
   
->>>>>>> 44be504df88e8cfc2434237e3c181b947dc7b309
+## Semana 4 de Noviembre
 
 - [x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual.
 - [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
