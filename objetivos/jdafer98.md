@@ -125,9 +125,51 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 3. [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
 
- -  Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
- -  Entender los conceptos comunes a los mismos (targets, por ejemplo).
- -  Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
- -  Comprender los mecanismos de despliegue automático a través de git
+ - [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+ -  [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+ -  [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+ -  [x] Comprender los mecanismos de despliegue automático a través de git
 
 
+## Objetivos Novena semana
+
+
+1. [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [x] Entender las arquitecturas software basadas en contenedores.
+
+
+[x] 1. Entender los errores frecuentes en el hito 3
+	1. El tema son *tests de integración*.
+	1. Se debe usar un gestor de tareas
+	  1. `kill` mata, no para.
+	  2. `killall` `pkill` matan de forma indiscriminada.
+	2. Las herramientas del lenguaje rara vez son adecuadas.
+	3. La herramienta de construcción tiene que usarse en toda circunstancia.
+	4. Las clases deben hacer algo y no ser una colección de atributos.
+	5. Se debe diseñar la aplicación por capas.
+		1. Desde el servicio web no puedes escribir directamente en la BD.
+[x] 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+[x] 2. Usar imágenes de docker publicadas. 
+
+
+## Objetivos Décima semana
+
+
+[x] 1. Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+[x] 1. Entender la base del aislamiento de recursos en el sistema operativo.
+[x] 2. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] 3. Entender las arquitecturas software basadas en contenedores.
+
+## Otros objetivos
+
+[x] 1. Continuar con el cuarto hito del proyecto
+[x] 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+[x] 1. Mirar ejercicio para crédito adicional
+[x] 2. Usar imágenes de docker publicadas. 
