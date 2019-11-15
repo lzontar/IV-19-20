@@ -25,9 +25,9 @@ Semana del 23 de Septiembre (3)
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
-- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 
-- [ ] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
+- [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
 
 - [X] He visto ejemplos para [incorporar documentación en gh-pages](https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/) y un [tema.](https://pmarsceill.github.io/just-the-docs/)
 
@@ -99,7 +99,7 @@ Semana del 14 de Octubre (6)
 
 
 - [x] Terminar la configuración de los sistemas de integración continua
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Entender el desarrollo de un servicio web en sus diferentes capas y como se relacionan unas con otras.
 Entender conceptos relacionados con servicios web y su despliegue.
 
@@ -108,11 +108,21 @@ Semana del 21 de octubre (7)
 
 - [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
 - [x] Entender los conceptos de tests de integración.
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
 Semana del 28 de octubre (8)
 ============================
 
-- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 #### Objetivo personal:
-- [ ] Instalación de Ubuntu terminada en dual boot.
+- [x] Instalación de Ubuntu terminada en dual boot.
+
+Semana del 4 de Noviembre (9)
+============================
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.
+#### Objetivo personal:
+- [ ] Desplegar la aplicación en Google Cloud
