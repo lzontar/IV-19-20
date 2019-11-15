@@ -6,7 +6,7 @@
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.0 |
-|COTAN LOPEZ, FRANCISCO JOSE | | |
+|COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual)| 0.0.9 |
 |DE ANGELES FERNANDEZ, JAVIER | | |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
