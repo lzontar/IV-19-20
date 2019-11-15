@@ -7,7 +7,7 @@
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.0 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
-|DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.1.9 |
+|DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.2.0 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
