@@ -40,7 +40,7 @@
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.6 |
 |PINEDA MOCHON, IGNACIO |[IoT_AsyncService](https://github.com/nachop97m/IoT_AsyncService) | 2.4 |
-|POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.1.1 **Reenvío** |
+|POZO ESCALONA, DANIEL | [Meals](https://github.com/danipozo/meals) | 0.2 **Reenvío** |
 |REBOLLO PEREZ, VICTOR | | |
 |RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | 1.3 |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
