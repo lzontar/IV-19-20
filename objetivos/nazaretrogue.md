@@ -104,3 +104,26 @@
 6. [x] Probar herramientas de tests con servicios web.
 7. [x] Comprender qué implica ejecutar un microservicio y cómo hacerlo y testearlo.
 8. [x] Reenvío completado.
+
+## Sesión 7 (21 de octubre)
+
+1. [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+2. [x] Entender los conceptos de tests de integración.
+3. [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+4. [x] Probar diferentes *build tools* para un lenguaje determinado, para familiarizarse con los mismos.
+5. [x] Entender los conceptos comunes a los mismos (*targets*, por ejemplo).
+6. [x] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku, OpenShift o Azure Web Apps.
+7. [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Sesión 8 (28 de octubre)
+
+1. [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+2. [x] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+3. [x] Comprender los mecanismos de despliegue automático a través de git.
+
+## Sesión 9 (4 de noviembre)
+
+1. [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [x] Entender las arquitecturas software basadas en contenedores.
