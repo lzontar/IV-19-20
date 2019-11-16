@@ -16,7 +16,7 @@
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARCIA JAEN, ALVARO | | |
 |GARCIA PRADOS, SERGIO | | |
-|GARZON SEGURA, IVAN | | |
+|GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | 1.0 |
 |GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.46 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
