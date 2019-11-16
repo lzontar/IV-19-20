@@ -108,7 +108,7 @@ SKIP: {
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     doing("hito 4");
-    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment):\s+(https://\S+)\b});
+    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment):\s+(https?://\S+)\b});
     if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
     } else {
