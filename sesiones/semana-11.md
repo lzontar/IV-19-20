@@ -11,6 +11,7 @@
 ## Otros objetivos
 
 1. Problemas encontrados en el envío del hito
+   1. ¿Por qué creéis que es esencial contar cómo se instala heroku?
    1. La conversión a JSON y el envío la debe hacer el framework.
    2. Version libre del hito y/o carta "Salir de la cárcel"
 	  1. Hace mucho más difícil la corrección de aspectos específicos de lo que se requiere.
