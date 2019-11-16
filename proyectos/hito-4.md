@@ -51,4 +51,4 @@
 |SANCHEZ FERNANDEZ, RAUL | | |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
-|ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.6 |
+|ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.6.1 |
