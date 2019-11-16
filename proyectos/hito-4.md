@@ -17,7 +17,7 @@
 |GARCIA JAEN, ALVARO | | |
 |GARCIA PRADOS, SERGIO | | |
 |GARZON SEGURA, IVAN | | |
-|GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.43 |
+|GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.44 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
