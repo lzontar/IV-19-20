@@ -91,9 +91,9 @@
 #### Otros objetivos de la semana
 
 - [X] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
-- [ ] Entender los conceptos comunes a los mismos (targets, por ejemplo).
-- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [X] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [X] Comprender los mecanismos de despliegue automático a través de git.
 
 # Semana del 28 de octubre
 
@@ -102,8 +102,8 @@
 # Otros objetivos de la semana
 
 - [X] Comentar las principales dificultades en el hito 2.
-- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [X] Comprender los mecanismos de despliegue automático a través de git.
 
 # Semana del 4 de noviembre
 
