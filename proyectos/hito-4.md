@@ -5,7 +5,7 @@
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.3 |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.0 |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | **1.1 Reenvio** |
 |COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual)| 0.0.12 |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.2.0 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
