@@ -5,29 +5,29 @@
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.3 |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.0 |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | **1.1 Reenvio** |
 |COTAN LOPEZ, FRANCISCO JOSE | [React Parser](https://github.com/iscoct/proyectoInfraestructuraVirtual)| 0.0.12 |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.2.0 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
-|GALDO SEIQUER, ANTONIO | | |
+|GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.5.8 **Reenvío** |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARCIA JAEN, ALVARO | | |
 |GARCIA PRADOS, SERGIO | | |
-|GARZON SEGURA, IVAN | | |
-|GONZALEZ GARCIA, FRANCISCO JOSE | | |
+|GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | 1.0 |
+|GONZALEZ GARCIA, FRANCISCO JOSE | [PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.46 |
 |GUTIERREZ SEGOVIA, JORGE | | |
 |HEREDIA CASTILLO, ANTONIO JESÚS| | |
 |KEMP MUÑOZ, MARCEL | | |
 |LEYVA RUIZ, RAFAEL | | |
 |LOPEZ RUIZ, EVA | | |
 |LUQUE CALLEJAS, DAVID | | |
-|MALDONADO MANCILLA, PATRICIA | | |
+|MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.7|
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
-|MARTINEZ MORENO, PRAXEDES | | |
+|MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 5.0.0 |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | 0.7 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
@@ -48,7 +48,7 @@
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.4.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.6 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | | |
+|SANCHEZ FERNANDEZ, RAUL | [NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.0 |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
-|ZONTAR , LUKA | | |
+|ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.6.3 |

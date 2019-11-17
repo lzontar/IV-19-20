@@ -90,5 +90,16 @@ recurso.
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
 - [x] Entender los conceptos comunes a los mismos (targets, por ejemplo).
-- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-- [ ] Comprender los mecanismos de despliegue automático a través de git
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git
+
+## Octava sesión
+
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+## Novena sesión
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.

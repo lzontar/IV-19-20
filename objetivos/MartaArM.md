@@ -83,7 +83,7 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 
 1. [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
 2. [X] Entender los conceptos de tests de integración.
-2. [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su
+3. [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su
    uso en prueba y producción y darse de alta en alguno.
 
 ## Otros objetivos
@@ -92,3 +92,28 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 * [X] Entender los conceptos comunes a los mismos (*targets*, por ejemplo).
 * [X] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 * [X] Comprender los mecanismos de despliegue automático a través de git 
+
+# Semana del 4 de noviembre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+2. [X]Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X]Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X]Entender las arquitecturas software basadas en contenedores.
+
+## Otros objetivos
+
+* [X] Entender los errores frecuentes en el hito 3
+* [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+* [X] Usar imágenes de docker publicadas.
+
+# Semana del 11 de noviembre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores.

@@ -113,4 +113,24 @@
 - [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] 4. Entender las arquitecturas software basadas en contenedores.
-  
+
+**Otros objetivos**
+- [x] 1. Entender los errores frecuentes en el hito 3.
+  - [x] i. El tema son tests de integración.
+  - [x] ii. Se debe usar un gestor de tareas.
+  - [x] iii.`kill` mata, no para.
+  - [x] iv. `killall` `pkill` matan de forma indiscriminada.
+  - [x] v. Las herramientas del lenguaje rara vez son adecuadas.
+  - [x] vi. La herramienta de construcción tiene que usarse en toda circunstancia.
+  - [x] vii. Las clases deben hacer algo y no se una colección de atributos.
+  - [x] viii. Se debe diseñar la aplicación por capas.
+    - [x] a. Desde el servicio web no puedes escribir directamente en la BD.
+- [x] 2. Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] 3. Usar imágenes de docker publicadas.
+
+
+## Semana del 11 de Noviembre
+- [x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] 4. Entender las arquitecturas software basadas en contenedores.
