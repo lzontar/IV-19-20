@@ -47,7 +47,7 @@
 - [X] Add external documentation using GitHub Pages.
 - [X] Write unit test to cover at least 90% of the code.
 - [X] Resend the milestone 2
-- [ ] Complete the [[http://jj.github.io/IV/documentos/proyecto/3.Microservicios][milestone 3]].
+- [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/3.Microservicios][milestone 3]].
 - [X] Understand related concepts to web services and its deployment.
 - [X] Elaborate the continuous integration workflows.
 - [X] Try out test tools in web services.
@@ -67,3 +67,22 @@
 - [X] Read and understand the concepts of integration tests.
 - [X] Re-sends milestone 3.
 - [ ] Write some integration tests (mainly to test the mysql driver).
+
+* Session 08
+- [X] Research which is the best PaaS to deploy my project.
+- [X] Sign up in OpenShift starter.
+- [X] Complete the [[http://jj.github.io/IV/documentos/proyecto/4.PaaS][milestone 4]].
+- [X] Install OpenShift CLI.
+- [X] Install Travis CLI.
+- [X] Write an OpenShift template to reproduce the infrastructure
+  needed to deploy the project.
+- [X] Deploy the project in OpenShift using the CLI.
+- [X] Document the process to deploy the project in OpenShift.
+- [X] Document the process to set up continuous deployment using
+  GitHub, Travis and OpenShift.
+
+* Session 09
+- [X] Understand the importance of containers.
+- [X] Set up Docker and play with it.
+- [X] Understand software architectures based in containers.
+- [ ] Check the proposed challenge to get an extra credit.
