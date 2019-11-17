@@ -11,7 +11,8 @@
 ## Otros objetivos
 
 1. Problemas encontrados en el envío del hito
-   1. ¿Por qué creéis que es esencial contar cómo se instala heroku?
+   1. ¿En qué contexto decir que se hace "git push heroku master" es relevante para la corrección del mismo?
+   1. ¿Por qué creéis que es esencial contar cómo se instala heroku o cualquier otra cosa?
    1. La conversión a JSON y el envío la debe hacer el framework.
    2. Version libre del hito y/o carta "Salir de la cárcel"
 	  1. Hace mucho más difícil la corrección de aspectos específicos de lo que se requiere.
@@ -20,6 +21,7 @@
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
 2. Usar imágenes de docker publicadas.
+3. Instalar gestores de contenedores alternativos como Podman.
 
 
 ## Material para la clase
