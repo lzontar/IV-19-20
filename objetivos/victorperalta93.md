@@ -56,3 +56,6 @@
 - [X] Entender los mecanismos de configuración, arranque y gestión de servicios web.
 - [X] Entender los conceptos de tests de integración.
 - [X] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
+- [X] Entender los conceptos comunes a los mismos (targets, por ejemplo).
+- [X] Comprender los mecanismos de despliegue automático a través de git
