@@ -17,8 +17,7 @@
    2. Version libre del hito y/o carta "Salir de la cárcel"
 	  1. Hace mucho más difícil la corrección de aspectos específicos de lo que se requiere.
 	  1. [Ejemplo](https://github.com/Neo-Stark/Proyecto-IV-19-20/blob/master/docs/despliegue.md).
-  
-	  
+
 1. Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
