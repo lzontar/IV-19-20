@@ -80,3 +80,49 @@ equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
 3. [X] Entender el desarrollo de un servicio web en sus diferentes capas y
    como se relacionan unas con otras.
 4. [X] Entender conceptos relacionados con servicios web y su despliegue.
+
+# Semana del 4 de noviembre
+
+## Objetivos de la semana
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores.
+
+## Otros objetivos
+1. [X] Entender los errores frecuentes en el hito 3
+	1. El tema son *tests de integración*.
+	2. Se debe usar un gestor de tareas
+	  1. `kill` mata, no para.
+	  2. `killall` `pkill` matan de forma indiscriminada.
+	3. Las herramientas del lenguaje rara vez son adecuadas.
+	4. La herramienta de construcción tiene que usarse en toda circunstancia.
+	5. Las clases deben hacer algo y no ser una colección de atributos.
+	6. Se debe diseñar la aplicación por capas.
+		1. Desde el servicio web no puedes escribir directamente en la BD.
+2. [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+3. [X] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+4. [X] Usar imágenes de docker publicadas.
+
+# Semana del 11 de noviembre
+
+## Objetivos de la semana
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores.
+
+## Otros objetivos
+
+1. [X] Continuar con el  [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
+2. [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+3. [X] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+4. [X] Usar imágenes de docker publicadas. 
