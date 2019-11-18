@@ -10,6 +10,8 @@
 
 ## Otros objetivos
 
+1. Proyectos recomendados:
+   * [Nazaret](https://github.com/nazaretrogue/Microservicio-multimedia) e [Iván](https://github.com/i4vk/GymManager) (salvo por la cobertura de los tests).
 1. Problemas encontrados en el envío del hito
    1. ¿En qué contexto decir que se hace "git push heroku master" es relevante para la corrección del mismo?
    1. ¿Por qué creéis que es esencial contar cómo se instala heroku o cualquier otra cosa?
