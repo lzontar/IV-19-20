@@ -74,7 +74,20 @@
 
 ## Novena semana
 
-- [x] Terminar hito 3 y entregarlo (después de subir los objetivos)
+- [x] Terminar hito 3 y entregarlo 
+
+## Décima semana
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos
+- [x] Empezar hito 4
+
+## Undécima semana
+
+- [x] Terminar el hito 4 
+- [x] Realizar el ejercicio extra (aún no entregado)
+
 
 
 
