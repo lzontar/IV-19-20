@@ -31,7 +31,7 @@
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | 0.7 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
-|MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.1 |
+|MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.2 **Reenvío** |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [Vocabulary](https://github.com/Vol0kin/Vocabulary) | 0.4.2 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
