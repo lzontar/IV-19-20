@@ -31,7 +31,7 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | v4.0.2 |
 |MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.4 |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.6 **Reenvio** |
-|MORENO LOPEZ, JUAN ESTEBAN | [Proyecto_IV](https://github.com/juaneml/IV_1920_Proyecto) | v3.4 **Reenvio**  |
+|MORENO LOPEZ, JUAN ESTEBAN | [Proyecto_IV](https://github.com/juaneml/IV_1920_Proyecto) | v3.5 **Reenvio**  |
 |MUÑOZ HERRERA, JOSE ANTONIO |[MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v1.0 |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [Vocabulary](https://github.com/Vol0kin/Vocabulary) | **0.3.2 Reenvío** |
