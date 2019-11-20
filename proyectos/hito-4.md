@@ -48,7 +48,7 @@
 |ROMAN GUERRERO, NAZARET | [Tratamiento de imágenes](https://github.com/nazaretrogue/Microservicio-multimedia) | 0.4.1 |
 |RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.6 |
 |SAEZ DE LA COBA, JAVIER | | |
-|SANCHEZ FERNANDEZ, RAUL | [NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.0 |
+|SANCHEZ FERNANDEZ, RAUL | [NutritionAPI](https://github.com/raulsf6/Proyecto-IV) | 1.1 **Reenvío** |
 |TOLAN , FIRAT | | |
 |VEGA PALMA, LEANDRO | | |
 |ZONTAR , LUKA | [GrafMuvi](https://github.com/lzontar/GrafMuvi) | 0.6.3 |
