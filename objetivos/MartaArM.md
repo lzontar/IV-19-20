@@ -116,4 +116,4 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
    informático actual
 2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
 3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-4. [X] Entender las arquitecturas software basadas en contenedores.
+4. [X] Entender las arquitecturas software basadas en contenedores. 
