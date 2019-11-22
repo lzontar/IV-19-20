@@ -72,4 +72,18 @@ recurso.
 [x] Entender las arquitecturas software basadas en contenedores.
 
 ## Semana del 11 de noviembre
+[x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+[x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] Entender las arquitecturas software basadas en contenedores.
 
+## Semana del 18 de noviembre
+[x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+[x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] Entender las arquitecturas software basadas en contenedores.
+
+## Semana del 25 de noviembre
+[ ] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+[ ] Entender los conceptos fundamentales de virtualización
+[ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
