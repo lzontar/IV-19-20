@@ -138,3 +138,6 @@ Otros objetivos
 ## Octava sesión, comienza el 28 de octubre
 
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+## Novena semana, comienza el 4 de noviembre
+- [x] Terminar hito 3 y entregarlo 
