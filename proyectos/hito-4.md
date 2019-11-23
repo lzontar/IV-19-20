@@ -28,7 +28,7 @@
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 5.0.0 |
-|MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.5 |
+|MOLNER DOMENECH, ANTONIO | [MDS](https://github.com/antoniomdk/model-deployment-service) | 0.1.6 |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | 0.7 |
 |MORENO LOPEZ, JUAN ESTEBAN |[ProyectoIV](https://github.com/juaneml/IV_1920_Proyecto) | v3.6|
 |MUÑOZ HERRERA, JOSE ANTONIO | [MeteoApp](https://github.com/JoseAntonioMHerrera/MeteoApp) | v0.2 **Reenvío** |
