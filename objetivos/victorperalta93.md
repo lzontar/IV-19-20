@@ -59,3 +59,9 @@
 - [X] Probar diferentes build tools para un lenguaje determinado, para familiarizarse con los mismos.
 - [X] Entender los conceptos comunes a los mismos (targets, por ejemplo).
 - [X] Comprender los mecanismos de despliegue automático a través de git
+
+## Semana del 28 de octubre
+
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. Este objetivo se ha cumplido realizando el [ejercicio 1 del tema 4](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema4.md).
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps. Este objetivo se ha cumplido realizando el [ejercicio 2 del tema 4](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema4.md).
+- [X] Comprender los mecanismos de despliegue automático a través de git. He configurado despliegue automático con Travis en el repositorio [califica-empresas](https://github.com/victorperalta93/califica-empresas). Además he configurado [codeship](https://codeship.com/) para el mismo.
