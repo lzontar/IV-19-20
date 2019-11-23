@@ -106,3 +106,10 @@
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Continuar con el [cuarto hito del proyecto](https://jj.github.io/IV/documentos/proyecto/4.PaaS).
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+- [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+- [x] Usar imágenes de docker publicadas. 
+
