@@ -105,3 +105,20 @@
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [x] Usar imágenes de docker publicadas.
 
+## Semana 11
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+## Semana 12
+
+- [ ] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [ ] Entender los conceptos fundamentales de virtualización
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Semana 13
+
+- [ ] Entender los conceptos fundamentales de virtualización
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
