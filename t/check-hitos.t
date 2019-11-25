@@ -131,7 +131,7 @@ SKIP: {
   }
 
   if ( $this_hito > 4 ) { # Despliegue en algún lado
-    doing("hito 4");
+    doing("hito 5");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
     if ( $deployment_url ) {
       diag "☑ Detectado URL de despliegue Docker $deployment_url";
@@ -161,8 +161,8 @@ SKIP: {
     }
   }
 
-   if ( $this_hito > 4 ) { # Despliegue en algún lado
-    doing("hito 5");
+   if ( $this_hito > 5 ) { # Despliegue en algún lado
+    doing("hito 6");
     my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deployment):\s+(\S+)\b/);
     if ( $deployment_url ) {
       diag "☑ Detectada IP de despliegue $deployment_url";
