@@ -134,3 +134,13 @@
 - [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] 4. Entender las arquitecturas software basadas en contenedores.
+
+- [x] 5. Documentación de runtime.txt, se explica la necesidad del archivo.
+- [x] 6. Utilización de herramienta de construcción para el despliegue.
+  
+## Semana del 18 de Noviembre
+
+- [x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] 4. Entender las architecturas software basadas en contenedores.   
