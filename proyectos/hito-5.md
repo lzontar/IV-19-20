@@ -41,7 +41,7 @@
 |PINEDA MOCHON, IGNACIO | | |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
-|RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | v1.5 |
+|RODRIGUEZ HODAR, ANGEL | [NotasIV](https://github.com/angelhodar/NotasIV) | v1.5t |
 |RODRIGUEZ LOPEZ, ALEJANDRO | | |
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
