@@ -149,5 +149,26 @@ al final de la semana y entregarlo al principio de la semana siguiente.
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
 3. [X] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
-4. [X] Usar imágenes de docker publicadas. 
+4. [X] Usar imágenes de docker publicadas.
 
+# Undécima semana
+
+## Objetivos de la semana
+1. [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores
+
+# Duodécima semana
+## Objetivos de la semana
+
+1. [X] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+2. [X] Entender los conceptos fundamentales de virtualización
+3. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Otros objetivos
+
+1. [X] Ponerse al día antes de la entrega del hito final.
+2. [X] Instalar hipervisores libres y trabajar con ellos.
+3. [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
