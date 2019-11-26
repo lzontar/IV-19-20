@@ -125,3 +125,20 @@
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [x] Mirar ejercicio para crédito adicional
 - [x] Usar imágenes de docker publicadas.
+
+## Semana del 18 de Noviembre
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+### Otros objetivos
+- [x] Proyectos recomendados.
+- [x] Problemas encontrados en el envío del hito.
+- [x] Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Usar imágenes de docker publicadas.
+
+## Semana del 25 de Noviembre
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
