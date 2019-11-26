@@ -143,4 +143,29 @@ si mi ordenador tiene el KVM activado.
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
 - [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
-- [x] Usar imágenes de docker publicadas. 
+- [x] Usar imágenes de docker publicadas.
+
+# Semana del 18 de noviembre
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Proyectos recomendados:
+   * [Nazaret](https://github.com/nazaretrogue/Microservicio-multimedia) e [Iván](https://github.com/i4vk/GymManager) (salvo por la cobertura de los tests).
+- [x] Problemas encontrados en el envío del hito.
+- [x] Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+- [x] Usar imágenes de docker publicadas.
+- [x] Instalar gestores de contenedores alternativos como Podman.
+
+# Semana del 25 de noviembre
+
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
