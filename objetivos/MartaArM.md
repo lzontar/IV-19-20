@@ -101,6 +101,7 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 2. [X]Entender la base del aislamiento de recursos en el sistema operativo.
 3. [X]Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 4. [X]Entender las arquitecturas software basadas en contenedores.
+git pull upstream master --rebase
 
 ## Otros objetivos
 
@@ -117,3 +118,33 @@ Enlace a los ejercicios del [tema 1](https://github.com/MartaArM/ejerciciosIV192
 2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
 3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 4. [X] Entender las arquitecturas software basadas en contenedores. 
+
+# Semana del 18 de noviembre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+1. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+2. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+3. [X] Entender las arquitecturas software basadas en contenedores.
+
+## Otros objetivos
+
+* [X] Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+* [X] Usar imágenes de docker publicadas.
+* [X] Instalar gestores de contenedores alternativos como Podman.
+
+# Semana del 25 de noviembre
+
+## Objetivos a cubrir en la sesión
+
+1. [X] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+2. [X] Entender los conceptos fundamentales de virtualización
+3. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Otros objetivos
+
+* [X] Ponerse al día antes de la entrega del hito final.
+* [X] Instalar hipervisores libres y trabajar con ellos.
+* [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
