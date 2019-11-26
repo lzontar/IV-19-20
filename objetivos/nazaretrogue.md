@@ -127,3 +127,27 @@
 2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
 3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 4. [x] Entender las arquitecturas software basadas en contenedores.
+
+## Sesión 10 (11 de noviembre)
+
+1. [x] Comprender la importancia de los contenedores en el el desarrollo informático
+actual.
+2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [x] Entender las arquitecturas software basadas en contenedores.
+
+## Sesión 11 (18 de noviembre)
+
+1. [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [x] Entender las arquitecturas software basadas en contenedores.
+
+## Sesión 12 (25 de noviembre)
+
+1. [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+2. [x] Entender los conceptos fundamentales de virtualización.
+3. [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+4. [x] Ponerse al día antes de la entrega del hito final.
+5. [x] Instalar hipervisores libres y trabajar con ellos.
+6. [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
