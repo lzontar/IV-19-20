@@ -109,13 +109,48 @@ Otros objetivos
 
 # Novena semana, 4 de Noviembre
 
-- [] Comprender la importancia de los contenedores en el el desarrollo informático actual
-- [] Entender la base del aislamiento de recursos en el sistema operativo.
-- [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [] Entender las arquitecturas software basadas en contenedores.
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
 
 Otros objetivos
 
 - [x] Entender los errores frecuentes en el hito 3
-- [] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
-- [] Usar imágenes de docker publicadas.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Usar imágenes de docker publicadas.
+
+# Décima semana, 11 de Noviembre
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+
+Otros objetivos
+
+- [x]Continuar con el cuarto hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Mirar ejercicio para crédito adicional
+- [x] Usar imágenes de docker publicadas.
+
+
+# Undécima semana, 18 de Noviembre
+
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+# Duodécima semana, comienza el 25 de Noviembre
+
+- [] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [] Entender los conceptos fundamentales de virtualización
+- [] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+Otros objetivos
+
+- [] Ponerse al día antes de la entrega del hito final.
+- [] Instalar hipervisores libres y trabajar con ellos.
+- [] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
