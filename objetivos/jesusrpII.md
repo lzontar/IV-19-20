@@ -86,7 +86,13 @@
 ## Undécima semana
 
 - [x] Terminar el hito 4 
-- [x] Realizar el ejercicio extra (aún no entregado)
+- [x] Mejorar la cobertura de un compañero
+
+## Duodécima semana
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [] Subir ejercicio1.md
+
+
 
 
 
