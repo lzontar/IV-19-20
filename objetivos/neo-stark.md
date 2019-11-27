@@ -84,3 +84,23 @@
 * [x]Instalar Docker y empezar a trabajar con él.
 * [x]Usar imágenes de docker publicadas.
 * [x]Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+## Semana 10 - 11/11
+
+* [x]Comprender la importancia de los contenedores en el el desarrollo informático actual
+* [x]Entender la base del aislamiento de recursos en el sistema operativo.
+* [x]Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+* [x]Entender las arquitecturas software basadas en contenedores.
+
+## Semana 11 - 18/11
+
+* [x]Usar imágenes de docker publicadas.
+* [x]Contenedor creado para mi aplicación.
+
+## Semana 12 - 25/11
+
+* [x]Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+* []Instalar hipervisores libres y trabajar con ellos.
+* []Entender los conceptos fundamentales de virtualización
+* []Comprender el concepto de hipervisor y los diferentes tipos que hay.
+* []Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
