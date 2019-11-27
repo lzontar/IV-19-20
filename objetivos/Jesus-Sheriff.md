@@ -123,6 +123,34 @@ Semana del 4 de Noviembre (9)
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Entender las arquitecturas software basadas en contenedores.
 #### Objetivo personal:
 - [ ] Desplegar la aplicación en Google Cloud
+
+Semana del 11 de Noviembre (10)
+============================
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+
+- [x] Continuar con el cuarto hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Mirar ejercicio para crédito adicional.
+- [x] Usar imágenes de docker publicadas.
+
+Semana del 18 de Noviembre (11)
+============================
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+
+Semana del 25 de Noviembre (12)
+============================
+
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [ ] Entender los conceptos fundamentales de virtualización
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
