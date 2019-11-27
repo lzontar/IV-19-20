@@ -165,7 +165,7 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
 [x] 2. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 [x] 3. Entender las arquitecturas software basadas en contenedores.
 
-## Otros objetivos
+Otros objetivos
 
 [x] 1. Continuar con el cuarto hito del proyecto
 [x] 1. Instalar Docker y empezar a trabajar con él. Si hay problemas en
@@ -173,3 +173,12 @@ Los objetivos 2 y 3 pueden contrastarse con los ejercicios de autoevaluación 1 
    porque la mayoría de los contenedores son para Linux.
 [x] 1. Mirar ejercicio para crédito adicional
 [x] 2. Usar imágenes de docker publicadas. 
+
+## Objetivos undécima semana
+
+
+[x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual
+[x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
+[x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] 4. Entender las arquitecturas software basadas en contenedores
+
