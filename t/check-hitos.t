@@ -81,7 +81,7 @@ SKIP: {
 
   doing("hito 1");
   # Get the extension used for the README
-  my ($readme_file) = grep( /README/, @repo_files );
+  my ($readme_file) = grep( /^README/, @repo_files );
   my $README =  read_text( "$repo_dir/$readme_file");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
