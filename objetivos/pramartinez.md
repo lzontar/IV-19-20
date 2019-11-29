@@ -99,7 +99,7 @@
 
 - [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
-# Otros objetivos de la semana
+#### Otros objetivos de la semana
 
 - [X] Comentar las principales dificultades en el hito 2.
 - [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
@@ -107,13 +107,29 @@
 
 # Semana del 4 de noviembre
 
-- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores.
 
-# Otros objetivos de la semana
+#### Otros objetivos de la semana
 
-- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional.
-- [ ] Usar imágenes de docker publicadas.
+- [X] Usar imágenes de docker publicadas.
+
+# Semanas del 11 de noviembre y del 18 de noviembre
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores.
+
+#### Otros objetivos de las semanas
+
+- [X] Continuar con el cuarto hito del proyecto.
+- [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar 
+- [ ] Mirar ejercicio para crédito adicional
+- [X] Usar imágenes de docker publicadas.
+
+
