@@ -65,3 +65,12 @@
 - [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. Este objetivo se ha cumplido realizando el [ejercicio 1 del tema 4](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema4.md).
 - [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps. Este objetivo se ha cumplido realizando el [ejercicio 2 del tema 4](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema4.md).
 - [X] Comprender los mecanismos de despliegue automático a través de git. He configurado despliegue automático con Travis en el repositorio [califica-empresas](https://github.com/victorperalta93/califica-empresas). Además he configurado [codeship](https://codeship.com/) para el mismo.
+
+## Semanas del 4, 11 y 18 de noviembre
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores.
+
+Para alcanzar estos objetivos he estudiado el temario de teoría y [realizado los ejercicios propuestos del tema 5](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema5.md).
