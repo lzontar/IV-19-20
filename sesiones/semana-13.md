@@ -7,14 +7,17 @@
 
 ## Otros objetivos
 
+1. A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
 1. Ponerse al día antes de la entrega del hito final.
 2. Retro de la entrega del hito.
+   1. Buenas prácticas en la construcción del Dockerfile
+	  1. No copiar todo. Usar .dockerignore o simplemente copiar lo necesario.
 
 
 ## Material para la clase
 
-Tema dedicado a
-[uso de sistemas](http://jj.github.io/IV/documentos/temas/Uso_de_sistemas).
+Tema dedicado a la
+[gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones).
 
 ## Siguiente semana
 
