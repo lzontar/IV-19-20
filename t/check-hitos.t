@@ -130,7 +130,7 @@ SKIP: {
     }
   }
 
-  if ( $this_hito > 4 ) { # Despliegue en algún lado
+  if ( $this_hito > 4 ) { # Dockerfile y despliegue
     doing("hito 5");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
     if ( $deployment_url ) {
@@ -141,9 +141,9 @@ SKIP: {
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
+    ok($dockerhub_url, "Detectado URL de DockerHub");
     $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
-    ok($dockerhub_url, "Detectado URL de DockerHub");
 
     if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
     SKIP: {
