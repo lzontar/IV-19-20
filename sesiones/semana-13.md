@@ -12,7 +12,8 @@
 2. Retro de la entrega del hito.
    1. Buenas prácticas en la construcción del Dockerfile
 	  1. No copiar todo. Usar .dockerignore o simplemente copiar lo necesario.
-
+  2. Nunca más digáis como hacer login a algo ni cómo descargárselo.
+  
 
 ## Material para la clase
 
