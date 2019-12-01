@@ -86,3 +86,9 @@
 - [X] Set up Docker and play with it.
 - [X] Understand software architectures based in containers.
 - [ ] Check the proposed challenge to get an extra credit.
+- [X] Create a Dockerfile to generate a docker image of the API
+- [X] Add a .dockerignore file to ignore unneeded files in the
+  creation of the Docker image.
+- [X] Document what does each command of the Dockerfile file.
+- [X] Integrate GitHub with OpenShift using webhooks.
+- [X] Upload the Docker image to dockerhub.
