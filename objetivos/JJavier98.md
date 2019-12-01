@@ -118,18 +118,55 @@
 # Otros objetivos
 
 - [x] Comentar las principales dificultades en el hito 2.
-- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
 
 # Semana del 4 de noviembre
 
-- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
 
 # Otros objetivos
 
-- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional.
 - [ ] Usar imágenes de docker publicadas.
+
+# Semana del 11 de noviembre
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Continuar con el cuarto hito del proyecto
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+- [x] Usar imágenes de docker publicadas.
+
+# Semana del 18 de noviembre
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [ ] Problemas encontrados en el envío del hito.
+- [x] Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en
+   Windows, conviene instalar Linux si no se ha hecho hasta ahora
+   porque la mayoría de los contenedores son para Linux.
+- [x] Usar imágenes de docker publicadas.
+- [ ] Instalar gestores de contenedores alternativos como Podman.
+
+# Semana del 25 de noviembre
+
+- [ ] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [ ] Entender los conceptos fundamentales de virtualización
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [ ] Ponerse al día antes de la entrega del hito final.
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
