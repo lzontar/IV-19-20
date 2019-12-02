@@ -58,7 +58,7 @@ SKIP: {
   my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
   is( $objetivos_actualizados, "",
        "Fichero de objetivos $este_fichero está actualizado")
-    or skip "Fichero de objetivos actualizados hace $objetivos_actualizados" ;
+    or skip "Fichero de objetivos actualizados hace $objetivos_actualizados";
 
   # Se crea el repo y se hacen cosas.
   my $repo_dir;
