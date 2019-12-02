@@ -4,6 +4,7 @@
 
 1. Entender los conceptos fundamentales de virtualización
 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+2. Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
 
 ## Otros objetivos
 
@@ -20,7 +21,7 @@
 ## Material para la clase
 
 Tema dedicado a la
-[gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones).
+[gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones) y siguiente hito, [provisionamiento de máquinas virtuales](http://jj.github.io/IV/documentos/proyecto/6.Provision).
 
 Entrega del hito el **10 de noviembre**. 
 
