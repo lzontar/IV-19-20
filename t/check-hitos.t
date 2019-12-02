@@ -141,6 +141,7 @@ SKIP: {
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
+    unlike($README, qr/docker\.com\/repository/, "No se usa URL privado en dockerhub");
     ok($dockerhub_url, "Detectado URL de DockerHub");
     $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";

@@ -11,7 +11,7 @@
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
 |DE RADA ALONSO, ALVARO ALEJANDRO | | |
 |DEMIREL , HELIN | | |
-|GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | 0.6t |
+|GALDO SEIQUER, ANTONIO | [WikiRandom](https://github.com/OMGitsXupi/WikiRandom) | |
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | *v0.2* |
