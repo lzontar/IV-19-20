@@ -12,13 +12,17 @@
 2. Retro de la entrega del hito.
    1. Buenas prácticas en la construcción del Dockerfile
 	  1. No copiar todo. Usar .dockerignore o simplemente copiar lo necesario.
+	  2. Investigar más allá de usar la imagen base oficial.
   2. Nunca más digáis como hacer login a algo ni cómo descargárselo.
-  
+  3. Diferencia entre URL *público* y URL *privado* de Docker Hub.
+
 
 ## Material para la clase
 
 Tema dedicado a la
 [gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones).
+
+Entrega del hito el **10 de noviembre**. 
 
 ## Siguiente semana
 
