@@ -114,7 +114,7 @@
 
 ## Semana 12
 
-- [ ] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
 - [ ] Entender los conceptos fundamentales de virtualización
 - [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
