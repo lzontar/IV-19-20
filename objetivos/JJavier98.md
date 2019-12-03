@@ -164,9 +164,9 @@
 
 # Semana del 25 de noviembre
 
-- [ ] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
-- [ ] Entender los conceptos fundamentales de virtualización
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [ ] Ponerse al día antes de la entrega del hito final.
-- [ ] Instalar hipervisores libres y trabajar con ellos.
-- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
