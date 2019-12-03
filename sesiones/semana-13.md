@@ -4,6 +4,8 @@
 
 1. Entender los conceptos fundamentales de virtualización
 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+2. Trabajar con proveedores en la nube y apreciar los parecidos y
+   diferencias con los locales. 
 2. Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
 
 ## Otros objetivos
