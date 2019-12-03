@@ -143,7 +143,7 @@ git pull upstream master --rebase
 2. [X] Entender los conceptos fundamentales de virtualización
 3. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
-## Otros objetivos
+## Otros objetivos 
 
 * [X] Ponerse al día antes de la entrega del hito final.
 * [X] Instalar hipervisores libres y trabajar con ellos.
