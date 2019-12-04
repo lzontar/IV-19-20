@@ -15,7 +15,7 @@
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | *v0.2* |
-|GARCIA PRADOS, SERGIO | | |
+|GARCIA PRADOS, SERGIO | [MultimediaManagement](https://github.com/sergiogp98/MultimediaManagement) | 3.0.0 |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v1.1 |
 |GONZALEZ GARCIA, FRANCISCO JOSE |[PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.51 |
 |GUTIERREZ SEGOVIA, JORGE | | |
