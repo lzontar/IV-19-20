@@ -141,3 +141,10 @@ Otros objetivos
 
 ## Novena semana, comienza el 4 de noviembre
 - [x] Terminar hito 3 y entregarlo 
+
+## Décima semana, comienza el 11 de Noviembre
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores.
