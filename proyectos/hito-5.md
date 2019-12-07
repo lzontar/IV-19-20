@@ -1,9 +1,9 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 5.0 |
-|ALONSO RAMOS, JOSE JAVIER | | |
+|ALONSO RAMOS, JOSE JAVIER | [Energetic Communities](https://github.com/JJavier98/IV-Project) | 2.0.0 |
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.4 |
-|ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | 1.6.2 |
+|ARENAS MARTINEZ, MARTA| [MyMedia](https://github.com/MartaArM/proyectoIV1920) | **Reenvío 1.6.2** |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.2 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
@@ -15,7 +15,7 @@
 |GAMEZ LOPEZ, ADRIAN GABRIEL | | |
 |GARCIA DE SEBASTIAN, IRIS | | |
 |GARCIA JAEN, ALVARO | [alreadycracked](https://github.com/AlvaroGarciaJaen/alreadycracked) | *v0.2* |
-|GARCIA PRADOS, SERGIO | | |
+|GARCIA PRADOS, SERGIO | [MultimediaManagement](https://github.com/sergiogp98/MultimediaManagement) | 3.0.0 |
 |GARZON SEGURA, IVAN | [GymManager](https://github.com/i4vk/GymManager) | v1.1 |
 |GONZALEZ GARCIA, FRANCISCO JOSE |[PrintCloud](https://github.com/Neo-Stark/Proyecto-IV-19-20) | v0.51 |
 |GUTIERREZ SEGOVIA, JORGE | | |
@@ -30,7 +30,7 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.6 |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR | [FreeDay](https://github.com/VictorMorenoJimenez/IV) | 0.8 |
-|MORENO LOPEZ, JUAN ESTEBAN |[ProyectoIV](https://github.com/juaneml/IV_1920_Proyecto) | v4.0|
+|MORENO LOPEZ, JUAN ESTEBAN |[SinHumo](https://github.com/juaneml/IV_1920_Proyecto) | **v4.1 reenvío**|
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [Vocabulary](https://github.com/Vol0kin/Vocabulary) | 0.5 |
