@@ -132,7 +132,7 @@ SKIP: {
 
   if ( $this_hito > 4 ) { # Dockerfile y despliegue
     doing("hito 5");
-    my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
+    my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https?:..\S+)\b/);
     if ( $deployment_url ) {
       diag "☑ Detectado URL de despliegue Docker $deployment_url";
     } else {
