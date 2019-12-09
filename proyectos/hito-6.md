@@ -31,7 +31,7 @@
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
 |MARTINEZ MORENO, PRAXEDES | | |
 |MOLNER DOMENECH, ANTONIO | | |
-|MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.9 |
+|MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.9.1 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
