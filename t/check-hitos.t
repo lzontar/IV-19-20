@@ -164,25 +164,9 @@ SKIP: {
 
    if ( $this_hito > 5 ) { # Despliegue en algún lado
     doing("hito 6");
-    my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deployment):\s+(\S+)\b/);
-    if ( $deployment_url ) {
-      diag "☑ Detectada IP de despliegue $deployment_url";
-    } else {
-      diag "✗ Problemas detectando IP de despliegue";
-    }
-    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
-    if ( ok( $deployment_url, "URL de despliegue hito 5") ) {
-      check_ip($deployment_url);
-      my $status = $ua->get("http://$deployment_url/status");
-      ok( $status->res, "Despliegue correcto en $deployment_url/status" );
-      my $status_ref = json_from_status( $status );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-    }
-    isnt( grep( /Vagrantfile/, @repo_files), 0, "Vagrantfile presente" );
-    isnt( grep( /provision/, @repo_files), 0, "Hay un directorio 'provision'" );
-    isnt( grep( m{provision/\w+}, @repo_files), 0, "El directorio 'provision' no está vacío" );
-    isnt( grep( /despliegue|deployment/, @repo_files), 0, "Hay un directorio 'despliegue'" );
-    isnt( grep( m{(despliegue|deployment)/\w+}, @repo_files), 0, "El directorio 'despliegue' no está vacío" );
+    my ($provision) = ($README =~ /(?:[Pp]rovision:)\s+(\S+)/);
+    isnt( grep( /$provision/, @repo_files ), "Fichero de provisionamiento presente" );
+    
   }
 };
 
