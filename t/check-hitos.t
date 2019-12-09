@@ -148,7 +148,7 @@ SKIP: {
 
     if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
     SKIP: {
-	skip "Ya en el hito siguiente", 4 unless $this_hito == 4;
+	skip "Ya en el hito siguiente", 4 unless $this_hito == 5;
 	$deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
 	my $status = $ua->get( "$deployment_url" );
 	ok( $status->res, "Despliegue hecho en $deployment_url" );
