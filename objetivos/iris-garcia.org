@@ -92,3 +92,13 @@
 - [X] Document what does each command of the Dockerfile file.
 - [X] Integrate GitHub with OpenShift using webhooks.
 - [X] Upload the Docker image to dockerhub.
+
+* Session 10
+- [X] Select an OS to be used in a VM and justify the reasons.
+- [X] Create a vagrant image using packer.
+- [X] Write an Ansible playbook and its roles to provision the VM.
+- [X] Upload the vagrant image to vagrantcloud.
+- [X] Add a new task to the task manager to create and provision a VM.
+- [ ] Document the creation of the VM.
+- [ ] Document the new task added to the task manager.
+- [ ] Document the Ansible playbook and its roles.
