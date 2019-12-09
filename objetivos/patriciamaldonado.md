@@ -143,14 +143,22 @@ Otros objetivos
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Entender las arquitecturas software basadas en contenedores
 
-# Duodécima semana, comienza el 25 de Noviembre
+# Duodécima semana, 25 de Noviembre
 
-- [] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
-- [] Entender los conceptos fundamentales de virtualización
-- [] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 Otros objetivos
 
-- [] Ponerse al día antes de la entrega del hito final.
-- [] Instalar hipervisores libres y trabajar con ellos.
-- [] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+
+# Décimo tercera semana, 2 de Diciembre
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
