@@ -172,3 +172,23 @@ al final de la semana y entregarlo al principio de la semana siguiente.
 1. [X] Ponerse al día antes de la entrega del hito final.
 2. [X] Instalar hipervisores libres y trabajar con ellos.
 3. [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+# Décimo tercera semana
+## Objetivos de la semana
+
+1. [X] Entender los conceptos fundamentales de virtualización
+2. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+3. [X] Trabajar con proveedores en la nube y apreciar los parecidos y
+   diferencias con los locales. 
+4. [X] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+## Otros objetivos
+
+1. [X] A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
+2. [X] Ponerse al día antes de la entrega del hito final.
+3. [X] Retro de la entrega del hito.
+   1. Buenas prácticas en la construcción del Dockerfile
+	  1. No copiar todo. Usar .dockerignore o simplemente copiar lo necesario.
+	  2. Investigar más allá de usar la imagen base oficial.
+  2. Nunca más digáis como hacer login a algo ni cómo descargárselo.
+  3. Diferencia entre URL *público* y URL *privado* de Docker Hub.
