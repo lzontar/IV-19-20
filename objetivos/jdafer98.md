@@ -182,3 +182,12 @@ Otros objetivos
 [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 [x] 4. Entender las arquitecturas software basadas en contenedores
 
+
+## Objetivos doudécima semana
+
+[x] 1. Entender los conceptos fundamentales de virtualización
+[x] 2. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+[x] 3. Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+[x] 4. Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+
