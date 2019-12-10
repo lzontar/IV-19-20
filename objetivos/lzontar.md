@@ -93,9 +93,9 @@
 
 ## Semana 8 (Noviembre 4)
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
 
 ### Otros objetivos
 
@@ -112,4 +112,33 @@
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en
    Windows, conviene instalar Linux si no se ha hecho hasta ahora
    porque la mayoría de los contenedores son para Linux.
-- [ ] Usar imágenes de docker publicadas. 
+- [x] Usar imágenes de docker publicadas. 
+
+## Semana 9 (Noviembre 11)
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+### Otros objetivos
+- [x] Proyectos recomendados.
+- [x] Problemas encontrados en el envío del hito.
+- [x] Docker debe estar ya instalado y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Usar imágenes de docker publicadas.
+
+## Semana 10 (Noviembre 18)
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Semana 11 (Noviembre 25)
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+### Otros objetivos
+- [x] A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Retro de la entrega del hito.
+- [x] Nunca más digáis como hacer login a algo ni cómo descargárselo.
+- [x] Diferencia entre URL público y URL privado de Docker Hub.
