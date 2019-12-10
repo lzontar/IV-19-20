@@ -7,7 +7,7 @@
 |ALVAREZ, LUIS | | |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
-|BUENO LOPEZ, JAVIER | | |
+|BUENO LOPEZ, JAVIER | [Playfy](https://github.com/JaviBL8/Playfy) | 1.3 |
 |COTAN LOPEZ, FRANCISCO JOSE | | |
 |DE ANGELES FERNANDEZ, JAVIER | [Controv3rsial](https://github.com/jdafer98/Controv3rsial) | v2.3.1 |
 |DE LA TORRE VILLAVERDE, CRISTINA | | |
