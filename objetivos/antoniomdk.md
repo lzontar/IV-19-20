@@ -113,3 +113,23 @@
 - [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
 - [x] Usar imágenes de docker publicadas. 
 
+
+## Undécima semana
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+## Duodécima semana
+
+- [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Decimotercera semana
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
