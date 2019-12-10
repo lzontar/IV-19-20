@@ -48,7 +48,7 @@
 |RODRIGUEZ PEREZ, JESUS | | |
 |RODRIGUEZ SERRANO, MIGUEL ANGEL | | |
 |ROMAN GUERRERO, NAZARET | | |
-|RUANO NARVAEZ, RAUL | | |
+|RUANO NARVAEZ, RAUL | [PadelManager](https://github.com/ruanete/PadelManager) | 0.8 |
 |SAEZ DE LA COBA, JAVIER | | |
 |SANCHEZ FERNANDEZ, RAUL | | |
 |TOLAN , FIRAT | | |
