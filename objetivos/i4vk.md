@@ -72,7 +72,7 @@ recurso.
 - [x] Entender que hay otros APIs diferentes.
 - [x] Entender qué va en un repo, y qué no va.
 - [x] Entender cómo extender clases con un API REST o uno basado en tareas.
-- [ ] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Sexta sesión
 
@@ -126,3 +126,10 @@ recurso.
 - [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
 - [x] Entender los conceptos fundamentales de virtualización
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Sesión 13
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
