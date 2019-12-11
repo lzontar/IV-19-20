@@ -74,3 +74,10 @@
 - [X] Entender las arquitecturas software basadas en contenedores.
 
 Para alcanzar estos objetivos he estudiado el temario de teoría y [realizado los ejercicios propuestos del tema 5](https://github.com/victorperalta93/IV-Ejercicios/blob/master/tema5.md).
+
+## Semanas del 25 de noviembre y el 2 de diciembre
+
+- [X] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [X] Entender los conceptos fundamentales de virtualización
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [X] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
