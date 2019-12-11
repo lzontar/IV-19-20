@@ -90,7 +90,17 @@
 
 ## Duodécima semana
 - [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
-- [] Subir ejercicio1.md
+- [x] Subir ejercicio1.md
+
+## Décimo tercera semana
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+- [x] Empezar hito 5
+
+## Décimo cuarta semana
+
+- [] Terminar y entregar el hito 5
 
 
 
