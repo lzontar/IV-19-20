@@ -2,7 +2,7 @@
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-|ABAD TARIFA, DARIO | | |
+|ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 6.0 |
 |ALONSO RAMOS, JOSE JAVIER | | |
 |ALVAREZ, LUIS | | |
 |ARENAS MARTINEZ, MARTA| | |
