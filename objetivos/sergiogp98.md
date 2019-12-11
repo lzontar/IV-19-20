@@ -90,6 +90,6 @@ recurso.
 
 ## Semana del 2 de diciembre
 [x] Entender los conceptos fundamentales de virtualización
-[] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+[x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 [ ] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
