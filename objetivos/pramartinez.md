@@ -132,4 +132,23 @@
 - [ ] Mirar ejercicio para crédito adicional
 - [X] Usar imágenes de docker publicadas.
 
+# Semana del 25 de noviembre
 
+- [X] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [X] Entender los conceptos fundamentales de virtualización
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+#### Otros objetivos de la semana
+
+- [X] Ponerse al día antes de la entrega del hito final.
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+# Semana del 2 de diciembre
+
+- [X] Entender los conceptos fundamentales de virtualización
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+#### Otros objetivos de la semana
+
+- [ ] Ponerse al día antes de la entrega del hito final.
