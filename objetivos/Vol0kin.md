@@ -169,3 +169,22 @@ si mi ordenador tiene el KVM activado.
 - [x] Ponerse al día antes de la entrega del hito final.
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+# Semana del 2 de diciembre
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y
+   diferencias con los locales. 
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+- [x] A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
+- [x] Ponerse al día antes de la entrega del hito final.
+- [x] Retro de la entrega del hito.
+- [x]. Nunca más digáis como hacer login a algo ni cómo descargárselo.
+- [x] Diferencia entre URL *público* y URL *privado* de Docker Hub.
+
+#  Semana del 9 de diciembre
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+- [x] Haber entregado el hito 6, prepararse para el 7
