@@ -15,7 +15,7 @@
 Tema dedicado a la
 [gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones).
 
-Entrega del hito 6 el **10 de diciembre**. El próximo hito se entregará el **23 de diciembre**.
+Entrega del hito 6 el **10 de diciembre**. El [próximo hito y el final](http://jj.github.io/IV/documentos/proyecto/7.Final) se entregará el **23 de diciembre**.
 
 ## Siguiente semana
 
