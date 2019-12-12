@@ -156,7 +156,7 @@ SKIP: {
 	like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
 	if ( $dockerhub_url ) {
 	  my $dockerhub = $ua->get($dockerhub_url);
-	  like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+	  like( $dockerhub->res->body, qr/Updated (.+) ago/, "Dockerfile actualizado en Docker Hub hace $0 días");
 	}
       }
     }
