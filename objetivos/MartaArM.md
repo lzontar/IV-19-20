@@ -148,3 +148,20 @@ git pull upstream master --rebase
 * [X] Ponerse al día antes de la entrega del hito final.
 * [X] Instalar hipervisores libres y trabajar con ellos.
 * [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+# Semana del 3 de diciembre
+
+1. [X] Entender los conceptos fundamentales de virtualización
+2. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+3. [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+4. [X] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+# Otros objetivos 
+
+1. [X] Ponerse al día antes de la entrega del hito final.
+2. [X] Retro de la entrega del hito.
+
+# Semana del 9 de diciembre
+
+* [X] Entender el concepto de hipervisor y de API de cloud.
+* [X] Entender el concepto de despliegue.
