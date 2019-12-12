@@ -29,7 +29,7 @@
 |MALDONADO MANCILLA, PATRICIA |[GestEnergy](https://github.com/patriciamaldonado/GestEnergy) |1.9|
 |MANRESA NEBOT, PABLO | | |
 |MARTINEZ MARTIN, MIGUEL JOSE | | |
-|MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.7 |
+|MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.7.1 |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.9.1 |
 |MORENO LOPEZ, JUAN ESTEBAN | | |
