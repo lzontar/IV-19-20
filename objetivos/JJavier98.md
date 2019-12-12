@@ -111,7 +111,7 @@
 - [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [ ] Comprender los mecanismos de despliegue automático a través de git.
 
-# Semana del 28 de octubre
+## Semana del 28 de octubre
 
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
@@ -121,20 +121,20 @@
 - [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
 
-# Semana del 4 de noviembre
+## Semana del 4 de noviembre
 
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Entender las arquitecturas software basadas en contenedores.
 
-# Otros objetivos
+## Otros objetivos
 
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional.
 - [ ] Usar imágenes de docker publicadas.
 
-# Semana del 11 de noviembre
+## Semana del 11 de noviembre
 
 - [x] Comprender la importancia de los contenedores en el el desarrollo
    informático actual
@@ -148,7 +148,7 @@
 - [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
 - [x] Usar imágenes de docker publicadas.
 
-# Semana del 18 de noviembre
+## Semana del 18 de noviembre
 
 - [x] Comprender la importancia de los contenedores en el el desarrollo
    informático actual
@@ -162,7 +162,7 @@
 - [x] Usar imágenes de docker publicadas.
 - [ ] Instalar gestores de contenedores alternativos como Podman.
 
-# Semana del 25 de noviembre
+## Semana del 25 de noviembre
 
 - [x] Entender la importancia del tamaño de una imagen y la imagen base que se usa.
 - [x] Entender los conceptos fundamentales de virtualización
@@ -170,3 +170,11 @@
 - [x] Ponerse al día antes de la entrega del hito final.
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+
+# Semana del 2 de diciembre
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
