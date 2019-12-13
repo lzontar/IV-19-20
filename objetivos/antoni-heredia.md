@@ -64,11 +64,10 @@
 5. - [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 
 ## Semana 6
-1. - [ ] Cubre los siguientes objetivos de la asignatura
-2. - [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-3. - [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-4. - [ ] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
-
-5. - [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
-6. - [ ] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+1. - [x] Cubre los siguientes objetivos de la asignatura
+2. - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+3. - [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+4. - [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+5. - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+6. - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 
