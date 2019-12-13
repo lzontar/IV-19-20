@@ -13,6 +13,8 @@ Bueno, pues esto se ha acabado. Mucha suerte a todo el mundo.
   * Vagrant no debe lanzar la aplicación. Es para crear máquinas virtuales y aprovisionarlas. Si usáis vagrant para provisionar, ¿lo vais a usar cada vez que cambiéis el fuente?
   * Se miden las prestaciones para elegir la máquina virtual base que vas a usar. No por medirlas.
 	  * Pero una vez que se miden, medid alguna cosa razonable y sacad alguna conclusión de lo que se mide. ¿Es razonable el nivel de prestaciones alcanzado?
+  * Nadie usa roles en ansible
+  * Nadie usa playbooks diferentes con parte común para diferentes máquinas virtuales. 
 	
 ## Material para la clase
 
