@@ -151,3 +151,10 @@ actual.
 4. [x] Ponerse al día antes de la entrega del hito final.
 5. [x] Instalar hipervisores libres y trabajar con ellos.
 6. [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Sesión 13 (2 de diciembre)
+
+1. [x] Entender los conceptos fundamentales de virtualización.
+2. [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+3. [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+4. [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
