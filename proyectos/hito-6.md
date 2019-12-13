@@ -39,7 +39,7 @@
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
 |PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 6.0 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
-|PEREZ TERRON, JESUS MANUEL | | |
+|PEREZ TERRON, JESUS MANUEL | [go-InstaCrawler](https://github.com/Jesus-Sheriff/go-InstaCrawler) | 1.9.3 |
 |PINEDA MOCHON, IGNACIO | | |
 |POZO ESCALONA, DANIEL | | |
 |REBOLLO PEREZ, VICTOR | | |
