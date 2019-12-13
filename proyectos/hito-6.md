@@ -37,7 +37,7 @@
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [Vocabulary](https://github.com/Vol0kin/Vocabulary) | 0.6 |
 |PARRILLA NAVARRO, PEDRO MIGUEL | | |
-|PERALTA CAMARA, VICTOR | | |
+|PERALTA CAMARA, VICTOR | [TexCompiler](https://github.com/victorperalta93/IV-Proyecto) | 6.0 |
 |PEREZ LENDINEZ, JOSE MANUEL | | |
 |PEREZ TERRON, JESUS MANUEL | | |
 |PINEDA MOCHON, IGNACIO | | |
