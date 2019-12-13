@@ -3,7 +3,7 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | [proyectoIV](https://github.com/daraahh/proyectoIV) | 6.0 |
-|ALONSO RAMOS, JOSE JAVIER | [Energetic Communities](https://github.com/JJavier98/IV-Project) | 2.1.0 |
+|ALONSO RAMOS, JOSE JAVIER | [Energetic Communities](https://github.com/JJavier98/IV-Project) | **Renvío 2.1.0** |
 |ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.4 |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
