@@ -4,26 +4,41 @@ Bueno, pues esto se ha acabado. Mucha suerte a todo el mundo.
 
 ## Objetivos de la semana
 
-* Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+* Entender las diferentes fases del proceso de aprovisionamiento y
+  cómo cada una se hace con herramientas diferentes.
+* Entender la diferencia entre máquinas virtuales y otras formas de
+  despliegue como contenedores.
 
 ## Otros objetivos
 
+* Entender los criterios de calificación.
 * Entender los errores comunes:
   * No os copiéis unos de otros, por ejemplo usando un "shell provision" de Vagrant para lanzar la aplicación. No lo hagáis en el siguiente hito.
-	* O haciendo forward de los puertos. ¿Para qué lo queréis? ¿Vais a usar el puerto desde fuera? O cambiando el tamaño de memoria o lo que sea. **Configuraciones no justificadas por necesidades de la aplicación y que coincidan con compañeros podrán ser causa de suspenso del último hito**.
+	* O haciendo forward de los puertos. ¿Para qué lo queréis? ¿Vais a
+      usar el puerto desde fuera? O cambiando el tamaño de memoria o
+      lo que sea. **Configuraciones no justificadas por necesidades de
+      la aplicación y que coincidan con compañeros podrán ser causa de
+      suspenso del último hito**.
+    * O configurando la MV exactamente de la misma forma.
+    * Si no sabéis cómo hacer algo en concreto, o la necesidad de
+      algo, no lo copiéis, preguntad.
   * Vagrant no debe lanzar la aplicación. Es para crear máquinas virtuales y aprovisionarlas. Si usáis vagrant para provisionar, ¿lo vais a usar cada vez que cambiéis el fuente?
-  * Se miden las prestaciones para elegir la máquina virtual base que vas a usar. No por medirlas.
+  * Se miden las prestaciones para elegir la máquina virtual base que
+    vas a usar. No por medirlas o "porque lo han pedido".
 	  * Pero una vez que se miden, medid alguna cosa razonable y sacad alguna conclusión de lo que se mide. ¿Es razonable el nivel de prestaciones alcanzado?
   * Nadie usa roles en ansible
-  * Nadie usa playbooks diferentes con parte común para diferentes máquinas virtuales. 
+  * Nadie usa playbooks diferentes con parte común para diferentes
+    máquinas virtuales.
+  * Nadie ha consumido el crédito de Azure que se os dio para este hito.
 	
 ## Material para la clase
 
-Tema dedicado a la
+Último tema, dedicado a la
 [gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones).
 
-El anterior hito debería haberse entregado ya. El [próximo hito y el final](http://jj.github.io/IV/documentos/proyecto/7.Final) se entregará el **23 de diciembre**.
+El anterior hito debería haberse entregado ya. El [próximo hito y final](http://jj.github.io/IV/documentos/proyecto/7.Final) se entregará el **23 de diciembre**.
 
 ## Siguiente semana
 
-Navidad. Disfrutad y volved con fuerzas para los exámenes del año que viene.
+Navidad. Disfrutad y volved con fuerzas para los exámenes del año que
+viene (y, en su caso, la presentación del proyecto).
