@@ -13,9 +13,6 @@ use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
-# use Net::SSLeay;
-# use IO::Socket::SSL;
-
 
 use v5.14; # For say
 
@@ -167,6 +164,27 @@ SKIP: {
     my ($provision) = ($README =~ /(?:[Pp]rovision:)\s+(\S+)/);
     isnt( grep( /$provision/, @repo_files ), "Fichero de provisionamiento presente" );
     
+  }
+
+  if ( $this_hito > 6 ) { # Despliegue en algún lado
+    doing("hito 7");
+    my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deployment):\s+(\S+)\b/);
+    if ( $deployment_url ) {
+      diag "☑ Detectada IP de despliegue $deployment_url";
+    } else {
+      diag "✗ Problemas detectando IP de despliegue";
+    }
+    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
+    if ( ok( $deployment_url, "URL de despliegue hito 5") ) {
+      check_ip($deployment_url);
+      my $status = $ua->get("http://$deployment_url/status");
+      ok( $status->res, "Despliegue correcto en $deployment_url/status" );
+      my $status_ref = json_from_status( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    }
+    isnt( grep( /Vagrantfile/, @repo_files), 0, "Vagrantfile presente" );
+    isnt( grep( /despliegue|deployment/, @repo_files), 0, "Hay un directorio 'despliegue'" );
+    isnt( grep( m{(despliegue|deployment)/\w+}, @repo_files), 0, "El directorio 'despliegue' no está vacío" );
   }
 };
 
