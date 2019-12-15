@@ -143,4 +143,30 @@
 - [x] 1. Comprender la importancia de los contenedores en el el desarrollo informático actual.
 - [x] 2. Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] 3. Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [x] 4. Entender las architecturas software basadas en contenedores.   
+- [x] 4. Entender las architecturas software basadas en contenedores.
+
+
+## Semana del 25 de Noviembre
+- [x] 1. Entender la importancia del tamaño de una imagen y la imagen base que se usa.
+- [x] 2. Entender los conceptos fundamentales de virtualización
+  [x] 3. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [x] 1. Ponerse al día antes de la entrega del hito final.
+- [x] 2. Instalar hipervisores libres y trabajar con ellos.
+- [x] 3. Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Semana del 2 de Diciembre 
+- [x] 1. Entender los conceptos fundamentales de virtualización
+- [x] 2. Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] 3. Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] 4. Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+### Otros objetivos
+- [x] No copiar todo. Usar .dockerignore o simplemente copiar lo necesario.
+- [x] Investigar más allá de usar la imagen base oficial.
+
+## Semana del 9 de Diciembre
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
