@@ -72,6 +72,26 @@ informático y aplicarlo al cálculo del coste de uso de un recurso.
       se relacionan unas con otras.
 - [x] Entender conceptos relacionados con servicios web y su despliegue.
 
+## Semana 7
+
+- [x] Entender los mecanismos de configuración, arranque y gestión de servicios web.
+- [x] Entender los conceptos de tests de integración.
+- [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su
+   uso en prueba y producción y darse de alta en alguno.
+   
+## Semana 8
+
+- [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su
+   uso en prueba y producción y darse de alta en alguno.
+
+## Semana 9
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo
+- [x] informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+
 ## Semana 13
 
 - [x] Aplicar correcciones del hito 3.
