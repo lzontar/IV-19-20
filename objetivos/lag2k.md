@@ -199,3 +199,6 @@ Otros objetivos
 
 - [x] Haber entregado el hito 6, prepararse para el 7
 
+## Sesión 15
+
+
