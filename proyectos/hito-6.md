@@ -32,7 +32,7 @@
 |MARTINEZ MORENO, PRAXEDES | [VPTournaments](https://github.com/pramartinez/IV_project) | 0.7.1 |
 |MOLNER DOMENECH, ANTONIO | | |
 |MORENO JIMENEZ, VICTOR |[FreeDay](https://github.com/VictorMorenoJimenez/IV) |v0.9.1 |
-|MORENO LOPEZ, JUAN ESTEBAN | | |
+|MORENO LOPEZ, JUAN ESTEBAN |[SinHumo]((https://github.com/juaneml/IV_1920_Proyecto) ) |v.4.2 |
 |MUÑOZ HERRERA, JOSE ANTONIO | | |
 |MUÑOZ REDONDO, FRANCISCO | | |
 |NIKOLOV VASILEV, VLADISLAV | [Vocabulary](https://github.com/Vol0kin/Vocabulary) | 0.6 |
