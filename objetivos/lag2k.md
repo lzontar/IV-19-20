@@ -184,11 +184,21 @@ Otros objetivos
 ### Otros objetivos
 
 - [x] A partir de ahora, habrá un "relator" en clase que se ocupe de poner en el grupo de Telegram las preguntas y respuestas que se hagan en clase. Elegiremos a una persona (o varias) al principio de la clase de teoría.
-- [ ] Ponerse al día antes de la entrega del hito final.
+- [x] Ponerse al día antes de la entrega del hito final.
 - [x] Retro de la entrega del hito.
 
 - [x] Nunca más digáis como hacer login a algo ni cómo descargárselo.
 - [x] Diferencia entre URL público y URL privado de Docker Hub.
 
 ## Sesión 14
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+
+### Otros objetivos
+
+- [x] Haber entregado el hito 6, prepararse para el 7
+
+## Sesión 15
+
 
