@@ -201,4 +201,18 @@ Otros objetivos
 
 ## Sesión 15
 
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+
+### Otros objetivos
+
+- [x] Entender los criterios de calificación.
+- [x] Entender los errores comunes:
+- [x] No os copiéis unos de otros, por ejemplo usando un "shell provision" de Vagrant para lanzar la aplicación. No lo hagáis en el siguiente hito.
+- [x] Vagrant no debe lanzar la aplicación. Es para crear máquinas virtuales y aprovisionarlas. Si usáis vagrant para provisionar, ¿lo vais a usar cada vez que cambiéis el fuente?
+- [x] Se miden las prestaciones para elegir la máquina virtual base que vas a usar. No por medirlas o "porque lo han pedido".
+- [ ] Pero una vez que se miden, medid alguna cosa razonable y sacad alguna conclusión de lo que se mide. ¿Es razonable el nivel de prestaciones alcanzado?
+- [x] Nadie usa roles en ansible
+- [x] Nadie usa playbooks diferentes con parte común para diferentes máquinas virtuales.
+- [ ] Nadie ha consumido el crédito de Azure que se os dio para este hito.
 
