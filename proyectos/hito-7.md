@@ -4,7 +4,7 @@
 |--------|--------|---------|
 |ABAD TARIFA, DARIO | | |
 |ALONSO RAMOS, JOSE JAVIER | | |
-|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.4 |
+|ALVAREZ, LUIS | [Pong](https://github.com/lag2k/pong) | 0.2.4b |
 |ARENAS MARTINEZ, MARTA| | |
 |BERRAQUERO ROMERO, JUAN DIEGO | | |
 |BUENO LOPEZ, JAVIER | | |
