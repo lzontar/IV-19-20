@@ -160,5 +160,24 @@ Otros objetivos
 
 - [x] Entender los conceptos fundamentales de virtualización
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [x] Entender la necesidad de definición de infraestructura virtual usando herramientas de provisionamiento.
+
+# Décimo cuarta semana, 9 de Diciembre
+
+
+- [x] Entender el concepto de hipervisor y de API de cloud.
+- [x] Entender el concepto de despliegue.
+
+Otros objetivos
+
+- [x] Haber entregado el hito 6, prepararse para el 7
+
+# Décimoquinta semana, 16 de Diciembre
+
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+
+
+
+
