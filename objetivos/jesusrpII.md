@@ -100,7 +100,20 @@
 
 ## Décimo cuarta semana
 
-- [] Terminar y entregar el hito 5
+- [x] Terminar y entregar el hito 5
+- [x] Entender el concepto de despliegue.
+
+## Décimo Quinta semana
+
+- [x] Entender las diferentes fases del proceso de aprovisionamiento y cómo cada una se hace con herramientas diferentes.
+- [x] Entender la diferencia entre máquinas virtuales y otras formas de despliegue como contenedores.
+- [x] Empezar hito 6
+
+## Otras semanas
+
+- [] Entregar hito 6
+- [] Empezar hito 7
+
 
 
 
